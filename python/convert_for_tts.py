@@ -73,13 +73,13 @@ if __name__ == '__main__':
         # Fix special characters in names
         fighters = fix_special_characters_in_names(fighters)
 
-        base_sizes_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-jr/data', 'baseSizes.json')
+        base_sizes_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-tts/data', 'baseSizes.json')
         with open(base_sizes_path, 'r') as f:
             base_sizes = json.load(f)
 
         new_fighters_with_base_sizes = add_base_sizes(fighters, base_sizes)
 
-        output_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-jr/data', 'tts_fighters.json')
+        output_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-tts/data', 'tts_fighters.json')
         with open(output_path, 'w') as f:
             json.dump(new_fighters_with_base_sizes, f, sort_keys=True, indent=4)
 
@@ -88,11 +88,11 @@ if __name__ == '__main__':
         abilities = response_abilities.json()
 
         abilities_key_value_table = {item['name']: item for item in abilities}
-        abilities_lua_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-jr/lua', 'abilities.lua')
+        abilities_lua_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-tts/lua', 'abilities.lua')
         with open(abilities_lua_path, 'w', encoding='utf-8') as lua_file:
             lua_file.write("return " + custom_serialize(abilities_key_value_table))
 
-        fighters_lua_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-jr/lua', 'fighters.lua')
+        fighters_lua_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-tts/lua', 'fighters.lua')
         with open(fighters_lua_path, 'w', encoding='utf-8') as lua_file:
             lua_file.write("return " + custom_serialize(new_fighters_with_base_sizes))
 
