@@ -1,0 +1,6138 @@
+{
+  "CHAOS": [
+    {
+      "name": "Beasts of Chaos"
+    },
+    {
+      "name": "Gnarl",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Grashrak Fellhoof",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Great Bray-Shaman",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Doombull",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Ushkor",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Korsh 'The Sneak'",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Murghoth Half-Horn",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Foe-render",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Beastlord",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Gouge-horn",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ungor Halfhorn",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Dragon Ogor Shaggoth",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Bloodkine with Bullgor Axe and Bullshield",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Gorehoof",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Draknar",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ungor Raider Halfhorn",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Bloodkine with Paired Bullgor Axes",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Bloodkine with Bullgor Great Axe",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Gor with Pair of Gor Blades",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bestigor",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Dragon Ogor with Paired Ancient Weapons",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Bullgor with Paired Bullgor Axes",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Dragon Ogor with Draconic War-glaive",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Dragon Ogor with Draconic Crusher",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Cockatrice",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Ungor with Gnarled Shortspear and Half-Shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Bullgor with Axe and Bullshield",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Bullgor with Bullgor Great Axe",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Ungor with ungor Blade and Half-Shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Gor with gor blade and Beastshield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ungor Raider",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Centigor",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Khorne Bloodbound"
+    },
+    {
+      "name": "Arnulf",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Aspiring Deathbringer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Dromm Wounder of Worlds",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "The Gorehulk",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Skullgrinder Herax",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Blooded Saek",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bloodreaver Chieftain",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bloodsecrator",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bloodstoker",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Chaos Champion",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Exalted Deathbringer with Impaling Spear",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Exalted Deathbringer with Ruinous Axe",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Mighty Lord of Khorne",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Mighty Lord of Khorne on Juggernaut",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Skullgrinder",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Skullseeker",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Slaughterpriest with Bloodbathed Axe",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Slaughterpriest with Wrath-hammer and Hackblade",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Garrek Gorebeard",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ghartok Flayskull",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Karsus the Chained",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Wrathmaster",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Magore Redhand",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bloodreaver with meatripper axe",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bloodreaver with reaver blades",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bloodwarrior with Goreaxe and Gorefist",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bloodwarrior with Goreglaive",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Riptooth",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Bloodwarrior with Pair of gore axes",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Flesh Hound",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Khorgorath",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Mighty Skullcrusher with Bloodglaive",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Mighty Skullcrusher with Ensorcelled Axe",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Targor",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skullreaper",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Wrathmonger",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Zharkus the Bloodsighted",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skullhunter",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Daemons of Khorne"
+    },
+    {
+      "name": "Bloodcrusher",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Bloodhunter",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Bloodletter",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bloodmaster, Herald of Khorne",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Bloodreaper",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Flesh Hound",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Gore Hound",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Skullmaster, Herald of Khorne",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Scions of the Flame"
+    },
+    {
+      "name": "Blazing Lord",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Brazen Champion",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Immolator",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Fireborn",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Fireborn with sunblade and Brazier axe",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Fireborn with sunblade and Kris",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Initiate with Brazier Weapon",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Initiate with hooked Axe",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Initiate with Morning Star",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Initiate with Flameburst Pot",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Inferno Priest",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Iron Golems"
+    },
+    {
+      "name": "Dominar",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ogor Breacher",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Signifer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Drillmaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Prefector",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Iron Legionary",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Iron Legionary with Bolas",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Armator",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Iron Legionary with Twin Hammers",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Tzeentch Arcanites"
+    },
+    {
+      "name": "eyes of the nine Blue Horror",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "eyes of the nine Brimstone Horrors",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Curseling, Eye of Tzeentch",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Enlightened Aviarch on Disc of tzeentch",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Enlightened Aviarch",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Fatemaster",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Gaunt Summoner on Disc of tzeentch",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Gaunt Summoner of Tzeentch",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Kairic Adept",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Magister on Disc of tzeentch",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Magister",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ogroid Thaumaturge",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Skyfire Aviarch",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "K'Charik",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Twistbray",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Tzaangor Shaman",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Narvia",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Kairic Acolyte with cursed Blade and arcanite Shield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Kairic Acolyte with cursed Glaive and arcanite Shield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Kairic Acolyte with Paired cursed blades",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Kairic Acolyte with Scroll of Dark Arts",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Turosh",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Kairic Acolyte with Vulcharc",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Tzaangor Enlightened on Disc of tzeentch",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Tzaangor Enlightened",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Tzaangor Mutant",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Tzaangor Skyfire",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Tzaangor with savage Blade and arcanite shield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Tzaangor with savage Greatblade",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Tzaangor with Pair of savage blades",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vortemis the All-seeing",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Daemons of Tzeentch"
+    },
+    {
+      "name": "Changecaster with staff of change",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Fluxmaster with ritual dagger",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Iridescent Horror",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Pyrocaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Changecaster with Ritual Dagger",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Fluxmaster with Staff of Change",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Blue Horror",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Brimstone Horrors",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Exalted Flamer of Tzeentch",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Flamer of Tzeentch",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Pink Horror",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Screamer of Tzeentch",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ephilim the Unknowable",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Spawnmaw",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Flamespooler",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Kindlefinger",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Apo'trax the Starefysh",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Nurgle Rotbringers"
+    },
+    {
+      "name": "Fecula Flyblown",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Ghulgoch the Butcher",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Harbinger of Decay",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Lord of Afflictions",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Lord of Blights",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord of Plagues",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Putrid Blightking Blightlord",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Rotbringer Sorcerer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Pusgoyle Blightlord",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Putrid Blightking with Blighted weapon",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Putrid Blightking Icon bearer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Putrid Blightking with filth-encrusted Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Putrid Blightking with Sonorous Tocsin",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sepsimus the Plaguesworn",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Daemons of Nurgle"
+    },
+    {
+      "name": "Plaguebringer",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Plagueridden",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Poxbringer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Sloppity Bilepiper",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Spoilpox Scrivener",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Beast of Nurgle",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Nurglings",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Plague Drone",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Plaguebearer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Untamed Beasts"
+    },
+    {
+      "name": "Heart-Eater",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Beastspeaker",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "First Fang",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Plains-runner",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Preytaker with fanged Axe",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Preytaker with Sawtooth Blade",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Rocktusk Prowler",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Slaves to Darkness"
+    },
+    {
+      "name": "Aspiring Champion",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Chaos Lord",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Chaos Lord on Daemonic Mount",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Chaos Lord on Karkadrak",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Chaos Sorcerer Lord",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Darkoath Chieftain",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Darkoath Warqueen",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Doom Knight",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Exalted Champion",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Exalted Hero of Chaos",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Horsemaster",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Marauder Chieftain",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Varanguard with Daemonforged Blade",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Varanguard with fellspear",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Varanguard with Ensorcelled weapon",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Chaos Chosen",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Chaos Knight with ensorcelled weapon and chaos runeshield",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Chaos Knight with cursed Lance and chaos runeShield",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Chaos Marauder Horseman with barbarian axe and darkwood Shield",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Chaos Marauder Horseman with marauder Flail",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Chaos Marauder Horseman with marauder Javelin and darkwood Shield",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Chaos Marauder with barbarian Axe and darkwood shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Dour Cragan",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Chaos Marauder with barbarian Flail",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Chaos warrior with chaos Greatblade",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grundann Blood-eye",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Chaos Warrior with chaos Halberd and chaos runeshield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Jagathra",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Khagra the Usurper",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Chaos warrior with chaos hand weapon and chaos runeshield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ollo",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Razek Godblessed",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Shond Head-claimer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Theddra Skull-scryer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Chaos Warrior with pair of chaos hand weapons",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Zarshia Bittersoul",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Sarrakkar Blackwing",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Gorl Spinehammer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Crimson Kheira",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Lupan Longcut",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grawl",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skaven"
+    },
+    {
+      "name": "Arch-Warlock",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bringer of the Word",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Clawleader",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Clawlord",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Deathmaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Fangleader",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Grey Seer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Master Moulder",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Nightleader",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Plague Priest",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Warlock Bombardier",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Krrk the Almost-trusted",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Warlock Engineer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Clanrat with rusty blade",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Clanrat with Rusty spear",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Doom-Flayer",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Giant Rat",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Gutter Runner",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Night Runner",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Packmaster",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Plague Censer Bearer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Plague Monk with pair of foetid blades",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skritch Spiteclaw",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Plague monk with Foetid Blade and Woe-Stave",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Rat Ogor",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Rat Ogor with Warpfire Gun",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Skryre Acolyte",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Stormfiend with Doomflayer gauntlets",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Stormfiend with Grinderfists",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Stormfiend with Ratling cannons",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Stormfiend with Shock Gauntlets",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Stormfiend with Warpfire projectors",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Festering Skaven",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Hungering Skaven",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Slynk Skittershank",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Snyp Padpaw",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skulck",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Kreep Kinwhisper",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Krowcht",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Lurking Skaven",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Stormfiend with Windlaunchers",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Stormvermin with rusty Halberd",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Stormvermin with rusty Halberd and clanShield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Warpfire thrower",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Warp-Grinder",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Warplock Jezzail",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Skabbik Plagueseeker",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Rabidius Skench",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Itchitt",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Poxlix",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Rikkit",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skritter",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Daemons of Slaanesh"
+    },
+    {
+      "name": "Allurer",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Blissbringer",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Daemonette",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Fiend",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Heartseeker",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Hellreaver with Claw-spear",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Hellstrider with Hellscourge",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Hellstrider with Claw-spear",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Infernal Enrapturess",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Seeker of Slaanesh",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Vexmor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vashtiss the Coiled",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Lascivyr, the Bladed Blessing",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "The Contorted Epitome",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Viceleader",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Slaanesh Sybarites"
+    },
+    {
+      "name": "Blissbarb Archer High Tempter",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Blissbarb Seeker High Tempter",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Hellreaver with Claw-spear",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Lord of Pain",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Myrmidesh Painmaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Shardspeaker",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Slaangor Slake-horn",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Slickblade Hunter-seeker",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Symbaresh Egopomp",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vasillac the Gifted",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Blissbarb Archer",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Blissbarb Seeker",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Glissete",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Hadzu",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Hellstrider with Claw-spear",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Hellstrider with Hellscourge",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Myrmidesh Painbringer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Slaangor Fiendblood",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Slakeslash",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Slickblade Seeker",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Symbaresh Twinsoul with merciless blades",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Symbaresh twinsoul with sinful cleaver",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Symbaresh Twinsoul with excruciator Lash",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Blissbrew Homonculus",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Darkoath Savagers"
+    },
+    {
+      "name": "Slaughterborn with Greataxe",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Slaughterborn with Greatblade",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "God-speaker",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Wrathtouched",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Proven with Greatspear",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Proven with Greatflail",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Proven with Greatblade",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Proven with Greataxe",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Gloryseeker with Spear",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Gloryseeker with Greataxe",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Gloryseeker with Shield",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Gloryseeker with paired weapons",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Spire Tyrants"
+    },
+    {
+      "name": "Pit Champion",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bestigor Destroyer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Frenzied Rager",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Headclaimer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Pit Fighter with net",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Pit Fighter with PunchDagger",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Pit Fighter with Spear",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Pit Veteran with Dual weapons",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Pit Veteran with Shield",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Splintered Fang"
+    },
+    {
+      "name": "Trueblood",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Clearblood",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Clearblood with Shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Pureblood",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Serpent Caller",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Serpents ",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Venomblood with Duelling Blades",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Venomblood with Barbed Whip",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Venomblood with Blade and barbed whip",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Venomblood with Spear and Shield",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "The Unmade"
+    },
+    {
+      "name": "Blissful One",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Ascended One",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Awakened One with brutal Polearm",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Awakened One with Flail",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Joyous One",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Cypher Lords"
+    },
+    {
+      "name": "Thrallmaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Luminate",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Mindbound",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Mindbound with double-bladed sword",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Mirrorblade with Duelling swords",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Mirrorblade with Glaive",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Corvus Cabal"
+    },
+    {
+      "name": "Shadow Piercer",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Spire Stalker",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Shrike Talon",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Cabalist",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Cabalist with Familiar",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Cabalist with Spear",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Claws of Karanak"
+    },
+    {
+      "name": "Packlord",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Hound of Wrath",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Blood Whelp with Claw-Flail",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Blood Whelp with Barb-spear",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Brutaliser with Shredder Blades",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Brutaliser with Shredder Blade and Meat Hook",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Jade Obelisk"
+    },
+    {
+      "name": "Nephrite Priestess",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Obelisk Bearer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Desecrator with iconoclast Warpick",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Desecrator with statue-smasher Hammer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Idolarc",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Defacer with antithete Bow ",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Defacer with Stonecutter tools",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Chaos Legionnaires"
+    },
+    {
+      "name": "Decuriarch ",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hornhelm with steelbite Axe ",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hornhelm with darkiron Mace ",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hornshield with Axe",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Hornshield with Mace ",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Hornshield with Sword",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Mutandor",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Rotmire Creed"
+    },
+    {
+      "name": "Witherlord",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bloated One with Raker-claws",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bloated one with Raker-claw and Hooked Net",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Carrion Catcher with Snatcher-Hook",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Carrion Catcher with Impaler",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Mirefolk Outcast with Bilewood Weapons",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Mirefolk Outcast with Bilewood weapon and Shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Horns of Hashut"
+    },
+    {
+      "name": "Ruinator Alpha with War Bident",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ruinator Alpha with Heavy Flail",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ruinator",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Demolisher with Flamehurler",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Demolisher with Crushing weapon and Shield",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Demolisher with crushing weapons",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Shatterer",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Tarantolus Brood"
+    },
+    {
+      "name": "Broodmaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Broodkin",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Broodkin with Sai",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Broodkin with Scythe and Spider claw",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Doomweaver with Trident and Net",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Doomweaver with Flail and goad",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Spider Swarm",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "ChaosAllyThrallMonster"
+    },
+    {
+      "name": "Fomoroid Crusher",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Mindstealer Sphiranx",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Fury",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Chaos Warhound",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Raptoryx",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Chaos Spawn",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Razorgor",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Chimera",
+      "base_size_x": "92",
+      "base_size_y": "120"
+    },
+    {
+      "name": "Slaughterbrute",
+      "base_size_x": "92",
+      "base_size_y": "120"
+    },
+    {
+      "name": "Chaos Gargant",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Ghorgon",
+      "base_size_x": "92",
+      "base_size_y": "120"
+    },
+    {
+      "name": "Cygor",
+      "base_size_x": "92",
+      "base_size_y": "120"
+    },
+    {
+      "name": "Mutalith Vortex Beast",
+      "base_size_x": "92",
+      "base_size_y": "120"
+    },
+    {
+      "name": "Hell Pit Abomination",
+      "base_size_x": "92",
+      "base_size_y": "120"
+    },
+    {
+      "name": "Centaurion Marshal",
+      "base_size_x": "80",
+      "base_size_y": "80"
+    },
+    {
+      "name": "Ogroid Myrmidon",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    }
+  ],
+  "DEATH": [
+    {
+      "name": "SoulblightGravelords"
+    },
+    {
+      "name": "Seneschal",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skeleton Champion with Halberd",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skeleton Champion with Mace",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Wight King",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vampire Lord",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Kastellan",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Vargoyle",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Wight King on Skeletal Steed",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Necromancer ",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Prince Duvalle",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "The Sepulchral Warden",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Deintalos the Exile",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Hell Knight",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "The Champion",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Petitioner with Sword ",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "The Harvester",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Regulus",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Ione",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Bault",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Vlash",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Coyl",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "The Prince of Dust",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Petitioner with Sword and shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Vellas Von Faine",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Prentice Marcov",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Ennias Curse-Born",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grave guard with Great Wight Blade",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Grave guard with Wight Blade and Crypt Shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Gorath the Enforcer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skeleton with Ancient Blade",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Vyrkos Blood-born",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Deadwalker Zombie",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skeleton with Ancient Spear",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Blood Knight with Templar Blade",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Vargskyr",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Vargheist",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Kosargi Nightguard",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Blood Knight With Templar Lance",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Black Knight",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "King Morlak Velmorn",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Sir Jedran Falseborn",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Marshal Faulk Velmorn",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Helmwar the Hewer",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Thain Fourth-and-Last",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Zondara Rivenheart",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Lost Ferlain",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Toyle",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Pikk",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Cracktomb",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Nighthaunt"
+    },
+    {
+      "name": "Cairn Wraith",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Dreadblade Harrow",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Dreadwarden",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Extoller of Shyish",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Guardian of Souls",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hellwraith",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Knight of Shrouds",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Knight of Shrouds on Ethereal Steed",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Lord Executioner",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Slasher Crone",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Spirit Torment",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Tomb Banshee",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Scriptor Mortis",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord Executioner",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Craven Huntmaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Krulghast Cruciator",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Bladegheist Revenant",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Chainghast",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Chainrasp",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Briar Queen",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "The Ever-hanged",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Thorns of the Briar Queen Chainrasp",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Dreadscythe Harridan",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Glaivewraith Stalker",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Varclav the Cruel",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Grimghast Reaper",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hexwraith",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Myrmourn Banshee",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Spirit Host",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Craventhrone Guard",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Wielder of the Blade",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Scriptor of the Sentence",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bearer of the Block",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Sharpener of the Blade",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Flesh-eater Courts"
+    },
+    {
+      "name": "Abhorrant Archregent",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Champion of Morbheg",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Abhorrant Gorewarden",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Abhorrant Ghoul King",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Crypt Ghast",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Crypt Ghast Courtier",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Crypt Haunter",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Crypt Haunter Courtier",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Crypt Infernal",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Crypt Infernal Courtier",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Varghulf Courtier",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Crypt Captain with Cursed Halberd",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Crypt Captain with Cursed Blade",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Abhorrant Cardinal",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Morbheg Knight",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Cryptguard with Cursed Halberd",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Cryptguard with Cursed Blade",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Royal Decapitator",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Marrowscroll Herald",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Crypt Flayer",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Crypt Ghoul",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Duke Crakmarrow",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Duke's Harriers",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Gristlewel, Greatsword",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Master Talon",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Night's Herald",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Royal Butcher",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Valreek The Tracker",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Crypt Horror",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Gristla Tenderhooke",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Young Master Kretch",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Flensemaster Pewdrig",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Seddrik the Chain",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "The Carnskyr",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "AskurganTrueblades"
+    },
+    {
+      "name": "Askurgan Exemplar",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Curseblood",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Askurgan Ascetic with Charnel mace",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Askurgan Acolyte with Throat-taker",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Askurgan Ascetic with Howling Glaive",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Askurgan Acolyte with Bonehilt Falchion",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Askurgan Pariah",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "OssiarchBonereapers"
+    },
+    {
+      "name": "Binar Khenta",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Hakor",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Kavalos Deathrider Mortek Hekatos",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Karu",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Liege-Kavalos",
+      "base_size_x": "80",
+      "base_size_y": "80"
+    },
+    {
+      "name": "Mortek Hekatos",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Mortisan Boneshaper",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Mir Kainan",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Mortisan Soulmason",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Mortisan Soulreaper",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Immortis Guard",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Kavalos Deathrider with Nadirite Blade",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Kavalos Deathrider with Nadirite Spear",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Morghast Archai with Spirit Halberd",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Morghast Archai with Spirit Swords",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Morghast Harbinger with Spirit Halberd",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Morghast Harbinger with Spirit Swords",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Mortek Guard with Nadirite Blade",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Mortek Guard with Nadirite Spear",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Mortek Guard with Soulcleaver Greatblade",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Necropolis stalker with Spirit Blades",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Necropolis Stalker with Dread Falchions",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Nohem",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Senha",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "DeathAllyThrallMonster"
+    },
+    {
+      "name": "Dire Wolf",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Fell Bat",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Terrorgheist",
+      "base_size_x": "130",
+      "base_size_y": "130"
+    },
+    {
+      "name": "Zombie Dragon",
+      "base_size_x": "130",
+      "base_size_y": "130"
+    },
+    {
+      "name": "Royal Beastflayers"
+    },
+    {
+      "name": "Royal Flaymaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Beastflayer Baron",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Offal Hound",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Ghoul Tracker",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Ghoul Gore-Squire",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Pyregheists"
+    },
+    {
+      "name": "Balefire Guard with Scorch Flail",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Balefire Guard with Flaming Halberd",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Deacon of Flames with Pyrekeeper's Tongs",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Deacon of Flames with Brazier-staff",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Torchwraith",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Flamewraith with Balefire Torches",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Flamewraith with Brazier-staff",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    }
+  ],
+  "DESTRUCTION": [
+    {
+      "name": "GloomspiteGitz"
+    },
+    {
+      "name": "Bat Squig",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Boggleye",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Brewgit",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Scaremonger",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Shroomancer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Spiker",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Drizgit da Squig Herder",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Bounder Boss",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Fungoid Cave-Shaman",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Loonboss  ",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Mean-eye",
+      "base_size_x": "25",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Mollog the Mighty",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Loonboss on Giant Cave Squig",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Moonclan Boss",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Prog Da Netter",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Rippa Narkbad",
+      "base_size_x": "25",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Scuttleboss",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Spider Rider Boss",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Webspinner Shaman",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Snirk Sourtongue",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Boingrot Bounder",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Cave squig",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Stabba with barbed net",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Shoota",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Sneaky Snuffler",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Spider Rider",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Squig Herder",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Squig hopper  ",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Stabbit",
+      "base_size_x": "25",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Stabba with Pokin' spear and moon shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Stabba with Stabba and Moon Shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Zarbag",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Zarbag's Gitz Shoota",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Zarbag's Gitz Squig",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Loonsmasha Fanatic",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Sporesplatta Fanatic",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grinkrak the Great",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grib Da Wonky Lance",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Pokin' Snark",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skolko and Pronk",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Snorbo Da Spore",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Moonface Naggz",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Squig Hopper Boss",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Pointy Burk",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Kruleboys"
+    },
+    {
+      "name": "Boltboy Boss",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Gutrippa boss with mace and sword",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Gutrippa Boss with Wicked Stikka",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Killaboss with Boss-Hacka and Skareshield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Killaboss on Great Gnashtoof",
+      "base_size_x": "70",
+      "base_size_y": "105"
+    },
+    {
+      "name": "Murknob with Belcha-banna",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Swampcalla Shaman",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Gutrippa with Wicked Hacka",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Gutrippa with Wicked Stikka",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hobgrot Boss",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Hobgrot Slitta",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Man-skewer Boltboy",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Pot-grot",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Stab-grot",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Mannok Da Kunnin'",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Torka Tuffskul",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Krookgrin",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Gikkit",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Shank",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Killaboss with Boss-Hacka and Rusting Flail",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Daggok Finksteala",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Jagz da Bleeda",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hurrk da Howla",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grakk da Hook",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "OgorMawtribes"
+    },
+    {
+      "name": "Mange",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Bushwakka",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Crusher",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Gutlord",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Luggit & Thwak",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Quiv",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Peggz",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Thrafnir",
+      "base_size_x": "25",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Thunderfist",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Firebelly",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Butcher",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Icebrow Hunter",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Tyrant",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Skalg",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Gnoblar",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Gorger",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Ogor Glutton with Clubs",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Frost Sabre",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Icefall Yhetee",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Kagey",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Hrothgorn Mantrapper",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Shreek",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Ogor Glutton with Ironfist",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Mournfang Rider with Culling club and Ironfist",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Gorlok Blackpowder",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Irongut",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Mournfang Rider with Gargant Hacker",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Leadbelcher",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Maneater",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Ironjawz"
+    },
+    {
+      "name": "Ardboy Boss with Ardboy Choppas",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ardskull",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Bonekutta",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Brute Boss with Boss Choppa",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Brute Boss with Boss Klaw and Brute Smasha",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Gore-grunta boss with Jagged Gore-hacka",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Gore-Grunta Boss with Pig-iron Choppa",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Gurzag Ironskull",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Basha",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hakka",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Morgok",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Orruk Megaboss",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Orruk Warchanter",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Orruk Weirdnob Shaman",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Orruk Ardboy with Ardboy Big Choppa",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Orruk Ardboy with Ardboy Choppas",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Orruk Ardboy with Ardboy Choppa and Orruk-forged shield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Orruk Brute with Gore-Choppa",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Orruk Brute with Jagged gore-hacka",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Orruk Brute with pair of brute Choppas",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Orruk Gore-Grunta with Jagged Gore-Hacka",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Orruk Gore-grunta with Pig-iron Choppa",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Thugg",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Bonesplitterz"
+    },
+    {
+      "name": "Toofdagga",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Wollop da Skul",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Savage Orruk Morboy Boss",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Savage Orruk Boss with Chompa and Bone Shield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Savage Big Boss",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Savage Boss Maniak",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Savage Boarboy Boss",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Savage Arrow Boss",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Wardokk",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Wurrgog Prophet",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Maniak Weirdnob",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Savage Big Stabbas",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Savage Orruk Morboy",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Savage Orruk Morboy Bone Totem Bearer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Dakko Sharp-stikka",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Savage Boarboy Maniak",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Savage Boarboy Bone Totem Bearer",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Hedkrakka, Gob of Gork",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Savage Orruk with Chompa and Bone Shield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Savage Orruk Arrowboy",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Savage Orruk with  Savage Stikka and Bone Shield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Savage Boarboy with Chompa",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Savage Boarboy with Savage Stikka",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Gorger Mawpack"
+    },
+    {
+      "name": "Clawback",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Cave Howler",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Gorger",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Gorger with Club",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Gorger with Great Club",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "DestAllyThrallMonster"
+    },
+    {
+      "name": "Fellwater Troggoth",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Rockgut Troggoth",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Aleguzzler Gargant",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Dankhold Troggoth",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Skitterstrand Arachnarok",
+      "base_size_x": "160",
+      "base_size_y": "160"
+    },
+    {
+      "name": "Kruleboyz Monsta-Killaz"
+    },
+    {
+      "name": "Beastnob",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Gnarlwood Howla",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Neckslicer with Bonehakka",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Neckslicer with Beaststikka Harpoon",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Neckslicer with Smasha",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bawla Boy with Stabba",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bawla Boy with Flogga",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Klutcha-Grot",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    }
+  ],
+  "ORDER": [
+    {
+      "name": "DaughtersofKhaine"
+    },
+    {
+      "name": "Gorgai",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Hag Queen",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Handmaiden",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Harridynn",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Slythael Shadestalker",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Drusylla Vyserax",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Valyssa Umbrael",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Sylarc Greyblood",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Krone",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Master of Warlocks",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Bloodwrack Medusa",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Khamyss",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Melusai Ironscale",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Shryke",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Slaughter Queen",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Kyrae",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Kyrssa",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Lethyr",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Witch Aelf Hag",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Blood Stalker",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Blood Sister",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Doomfire Warlock",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Morgwaeth the Bloodied",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Khinerai Heartrender",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Khinerai Lifetaker",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sister of Slaughter with Kruiplash and Bladed Buckler",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Sister of Slaughter with Kruiplash and Sacrificial Knife",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Witch Aelf with Paired Sciansa",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Witch Aelf with Sciansa and Bladed Buckler",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "High Gladiatrix",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Traxyaa the Aegis",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Thrialla the Lash",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Kalexis the Silvered Blur",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Retaria the Entangler",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Gryselle the Slaughterer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "KhainiteShadowstalkers"
+    },
+    {
+      "name": "Shroud Queen",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Darkflame Warlock with Doomfire Ring",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Darkflame Warlock with Repeater Crossbows",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Shroudblade with Cursed Swords",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Shroudblade with Umbral Spear",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Slaughtershade with Umbral Spears",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Slaughtershade with Shadow Whip",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Fyreslayers"
+    },
+    {
+      "name": "Auric Hearthguard Karl",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Auric Runefather",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Auric Runemaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Auric Runesmiter",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Auric Runeson with Ancestral War-Axe",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Auric Runeson with Wyrmslayer Javelin",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Battlesmith",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Doomseeker",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grimwrath Berzerker",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hearthguard Berzerker Karl with Berzerker Broadaxe",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Fjul-Grimnir",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hearthguard Berzerker Karl with Flamestrike Poleaxe",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hearthguard Berzerker with Flamestrike Poleaxe",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hearthguard Berzerker with Berzerker Broadaxe",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vulkite Berzerker Karl",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Auric Hearthguard",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Mad Maegrim",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Tefk Flamebearer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vol Orrukbane",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vulkite Berzerker with Fyresteel Weapon and Bladed Slingshield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vulkite Berzerker with Pair of Fyresteel Handaxes",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Auric Flamekeeper",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "IdonethDeepkin"
+    },
+    {
+      "name": "Akhelian King with greatsword",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Akhelian King with Bladed Polearm",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Duinclaw",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Elathain Ill-fated",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Fuirann",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Isharann Soulrender",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Isharann Soulscryer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Isharann Tidecaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Akhelian Ishlaen Guard Lochian Prince",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Akhelian Morrsarr Guard Lochian Prince",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Akhelian Thrallmaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Akhelian Ishlaen Guard  ",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Akhelian Morrsarr Guard  ",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Namarti Reaver",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Namarti Thrall",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Spinefin",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Cyreni of the Abyss",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Alathyrr",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Renglaith",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Cephanyr",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Tammael",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "KharadronOverlords"
+    },
+    {
+      "name": "Aetheric Navigator",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Aether-khemist",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Arkanaut Admiral",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Company Captain",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Custodian",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Endrinmaster with Dirigible Suit",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Endrinmaster with Endrinharness",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bjorgen Thundrik",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Gunnery Sergeant",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Mizzenmaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Dead-eye Lund",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Arkanaut Company Privateer with Privateer Pistol and Arkanaut Cutter",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Arkanaut Company Privateer with Light Skyhook",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Arkanaut Company Privateer with Skypike",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Arkanaut Company Privateer with Aethermatic Volley Gun",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Endrinrigger with Drill Launcher",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Endrinrigger with Grapnel Launcher",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Endrinrigger with Skyhook",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Garodd Alensen",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Enrik Ironhail",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Endrinrigger with Rapid-fire Rivet Gun and Aethermatic Saw",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Endrinrigger with Aethermatic Volley Gun",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grundstok Thunderer with Aethercannon",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grundstok Thunderer with Aethershot Rifle",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grundstok Thunderer with Decksweeper",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grundstok Thunderer with Aetheric Fumigator",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Khazgan Drakkskewer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Grundstok Thunderer with Grundstok Mortar",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skywarden with Drill Launcher",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skywarden with Grapnel Launcher",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skywarden with Skyhook",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skywarden with Vulcaniser Pistol and Skypike",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skywarden with Aethermatic Volley Gun",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Seraphon"
+    },
+    {
+      "name": "Skink Alpha with Boltspitter and Moonstone Club",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skink Alpha with Moonstone Club and Star-Buckler",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Saurus Eternity Warden",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Saurus Guard Alpha",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Saurus Sunblood",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Saurus Warrior Alpha",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Saurus Knight Alpha",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Saurus Scar-Veteran on Cold One",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Terradon Chief",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Ripperdactyl Rider Alpha",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Saurus Astrolith Bearer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Slann Starmaster",
+      "base_size_x": "80",
+      "base_size_y": "80"
+    },
+    {
+      "name": "Ripperdactyl Chief",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Saurus Oldblood",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skink Starseer",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Terradon Rider Alpha with Sunleech Bolas",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Terradon Rider Alpha with Starstrike Javelin",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Skink Starpriest",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skink Priest",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Kixi-Taka, The Diviner",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Xepic",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Klaq-Trok",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skink Handler",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skink with Moonstone Club and Star-Buckler",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Saurus Guard  ",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Saurus Warrior with Celestite Club",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Skink with Boltspitter and Moonstone Club",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Skink with Meteoric Javelin and Star-Buckler",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Salamander",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Tok",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Saurus Warrior with Celestite Spear",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Terradon Rider with Sunleech Bolas",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Kroxigor",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Ripperdactyl Rider ",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Terradon Rider with Starstrike Javelin",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Razordon",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Saurus Knight with Celestite Warspear",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Saurus Knight with Celestite Blade",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Otapatl",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Huachi",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "LuminethRealmLords"
+    },
+    {
+      "name": "Alarith Stonemage",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Bladelord Seneschal with Sunmetal Dual blades",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bladelord Seneschal with Sunmetal Greatblade",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "High Sentinel",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "High Warden",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hurakan Windmage",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Scinari Calligrave",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Scinari Cathallar",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Myari Lightcaller",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Scinari Loreseeker",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Steedmaster",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Truestone Seneschal",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vanari Lord Regent",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Windspeaker Seneschal",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Scinari Enlightener",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ailenn the Mind's Edge",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Bahannar",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Senaela",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Alarith Stoneguard with Stone Mallet",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Alarith Stoneguard with Diamondpick Hammer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hurakan Windcharger",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Vanari Auralan Warden",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vanari Auralan Sentinel",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vanari Bladelord",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vanari Dawnrider",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "SCE_Warrior "
+    },
+    {
+      "name": "Decimator-Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Judicator-Prime with Skybolt Bow",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Judicator-Prime with Boltstorm Crossbow ",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Knight-Heraldor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Knight-Questor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Knight-Vexillor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator-Prime with Warhammer and Sigmarite Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator-Prime with Warblade and Sigmarite Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator-Prime with Paired Warblades",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator-Prime with Paired Warhammers",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Castellant",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Celestant",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Relictor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Veritant",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor-Prime with Paired Celestial Hammers",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor-Prime with Celestial Hammer and Sigmarite Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor-Prime with Stormcall Javelin and Sigmarite Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Protector-Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Retributor-Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Severin Steelheart",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Angharad Brightshield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Decimator",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Gryph-Hound",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Judicator with Skybolt Bow ",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Judicator with Boltstorm Crossbow",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Judicator with Shockbolt Bow ",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Judicator with Thunderbolt Crossbow",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator with Paired Warhammers",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator with Paired Warblades",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Obryn the Bold",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator with Grandhammer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator with Grandblade",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator with Warhammer and Sigmarite Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator with Warblade and Sigmarite Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Paladin with Starsoul mace",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor with Paired Celestial Hammers",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor with Grandaxe",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor with Grandhammer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor with Grandblade",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor with Celestial Hammer and Sigmarite Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor with Stormcall Javelin and Sigmarite Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor with Stormsurge Trident and Sigmarite Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Protector  ",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Retributor  ",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "SCE_Vanguard"
+    },
+    {
+      "name": "Hunter-Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Knight-Azyros",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Knight-Venator",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Knight-Zephyros",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Aquilor",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Pallador-Prime with Shock Hand-axe",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Pallador-Prime with Starstrike Javelin",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Raptor-Prime with Hurricane Crossbow",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sanson Farstrider",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Raptor-Prime with Longstrike Bow",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Aetherwing",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Gryph-Hound",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Almeric Eagle-eye",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Elias Swiftblade",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vanguard-Pallador with Shock Hand-Axe",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Vanguard-Pallador with Starstrike Javelin",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Vanguard-Hunter",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vanguard-Raptor with Hurricane Crossbow",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vanguard-Raptor with Longstrike Crossbow",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "SCE_Sacrosanct"
+    },
+    {
+      "name": "Averon Stormsire",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Castigator-Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Evocator-Prime on Celestial Dracoline with Grandstave",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Evocator-Prime on Celestial Dracoline with Tempest Blade and Stave",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Evocator-Prime with Grandstave",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Evocator-Prime with Tempest Blade and Stormstave",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Knight-Incantor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Arcanum on Celestial Dracoline",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Lord-Arcanum on Gryph-Charger",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Lord-Arcanum",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Exorcist",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Ordinator with Astral Grandhammer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Ordinator with Paired Astral Hammers",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sequitor-Prime with Redemption Cache",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sequitor-Prime with Stormsmite Maul and Soulshield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sequitor-Prime with Tempest Blade and Soulshield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Ammis Dawnguard",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Castigator",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Evocator on Celestial Dracoline with Tempest Blade and Stormstave",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Evocator on Celestial Dracoline with Grandstave",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Evocator with Grandstave",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Evocator with Tempest Blade and Stormstave",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Gryph-Hound",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Rastus the Charmed",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sequitor with Stormsmite Greatmace",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sequitor with Storsmite Maul and Soulshield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sequitor with Tempest Blade and Soulshield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "SCE_Thunderstrike"
+    },
+    {
+      "name": "Annihilator Prime with Grandhammer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Annihilator Prime with Meteoric Hammer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Knight Arcanum",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Knight Judicator",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Knight Relictor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Knight-Vexillor with Banner of Apotheosis",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord Imperatant",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Praetor-Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vanquisher Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vigilor Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vindictor Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Calthia Xandire",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Annihilator with Grandhammer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Annihilator with Meteoric Hammer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Gryph-Hound",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Praetor  ",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vanquisher ",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vigilor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vindictor  ",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Dhoraz Giant-fell",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Luxa Stormrider",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Taros",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Domitan Eye of the Storm",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sarpon the Cyclone",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Leona Stratosi",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sylvaneth"
+    },
+    {
+      "name": "Arch-Revenant",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Skhathael",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Branch Nymph",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Sheoch",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Karthaen",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Branchwraith",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Gallanghann of the Glade",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Lighaen",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Branchwych",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Dryad",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Flitwing Scion",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Althaen",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ahnslaine Revenant Archer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Gossamid Archer",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Kurnoth Hunter with Kurnoth Greatbow",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Kurnoth Hunter with Kurnoth Scythe",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Skaeth the Huntsman",
+      "base_size_x": "25",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Ylthari",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Kurnoth Hunter with Kurnoth Greatsword",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Kurnoth Huntmaster with Kurnoth Greatbow",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Kurnoth Huntmaster with Kurnoth Greatsword",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Kurnoth Huntmaster with Kurnoth Scythe",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Revenant Seeker",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Shadestalker",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Spite-Revenant",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Spiterider Lancer",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Spiterider Scion",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Tree-Revenant",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Tree-Revenant Scion with Enchanted Blade",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Tree-Revenant Scion with Protector Glaive",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Revenant Soulwarden",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "HuntersofHuanchi"
+    },
+    {
+      "name": "Chameleon Skink Alpha with Dartpipe",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Chameleon Skink Alpha with Moonstone Club",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Chameleon Skink Hornblower with Dartpipe",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Chameleon Skink Hornblower with Moonstone Club",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Chameleon Skink with Dartpipe",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Chameleon Skink with Moonstone Club",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Huanchi's Claw",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Terrawing",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "OrderAllyTrallMonster"
+    },
+    {
+      "name": "War Hydra",
+      "base_size_x": "92",
+      "base_size_y": "120"
+    },
+    {
+      "name": "Kharibdyss",
+      "base_size_x": "92",
+      "base_size_y": "120"
+    },
+    {
+      "name": "Questor Soulsworn"
+    },
+    {
+      "name": "Questor-Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Soulsworn Knight-Relictor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Errant-Questor Duelist with Twinblades",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Errant-Questor with Grandaxe",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Errant-Questor with Grandblade",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Errant-Questor with Grandhammer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Errant-Questor with Grandspear",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Wildercorps Hunters"
+    },
+    {
+      "name": "Wildercorps Warden with Hunting crossbow",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Wildercorps Warden with Grizzled Trailhound",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Wildercorps Warden with Double-bitted Axe",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Wildercorps Leatherhide with Troggslayer Spear",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Wildercorps Leatherhide with Hunting Crossbow",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Trailblazer with Duelling Sabre",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Trailblazer with Twin Crossbows",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Wildercorps Scout with Paired Hatchets",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Wildercorps Scout with Hunting Crossbow",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Arbalester",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Trailhound",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Vulkyn Flameseekers"
+    },
+    {
+      "name": "Kyndledroth",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Drothmaster",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Scalebreaker with Fyresteel Splitaxe",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Scalebreaker with Bokaz",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Vulkyn Runefather with Drothvault Greataxe",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vulkyn Runefather with Mastercrafted Bokaz",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Drothblood Thane",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "The Blacktalons"
+    },
+    {
+      "name": "Neave Blacktalon",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Hendrick, the Silver Wolf",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Rostus Oxenhammer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Shakana Goldenblade",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lorai, Child of the Abyss",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "CoS Order of Azyr"
+    },
+    {
+      "name": "Haskel Hexbane",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Aemos Duncarrow",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Brydget Axwold",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Ratspike",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Grotbiter",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Quiet Pock",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Balthus",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Mistress Verentia",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Hanniver Toll",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Lyssa Revenya",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Valius, The Keeper Aqshian",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Armand Callis",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "CoS Castelite Hosts"
+    },
+    {
+      "name": "Freeguild Cavalier-Marshal",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Fusil-Major on Ogor Warhulk",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Freeguild Cavalier Arch-Knight",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Freeguild Marshal with Shield",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Freeguild Marshal with Heirloom Weapon",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Freeguild Marshal with Duelling Pistols",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Fusil-Sergeant",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Alchemite Warforger",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Battlemage",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Freeguild Command Corps Arch-Knight",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Sergeant at Arms",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Prophet",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Battle Priest",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Freeguild Cavalier",
+      "base_size_x": "35",
+      "base_size_y": "35"
+    },
+    {
+      "name": "Freeguild Fusilier",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Freeguild Command Corps Great Herald",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Freeguild Command Corps Whisperblade",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Freeguild Command Corps War Surgeon",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Freeguild Command Corps Soul Shepherd",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Freeguild Steelhelm",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Flagellant",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Freeguild Command Corps Mascot Gargoylian",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Pater Filius",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Friar Galvic",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Soror Tazat",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Acolyte Arcus",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Scorched Yakob",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "CoS Darkling Covens"
+    },
+    {
+      "name": "Lordling",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Assassin",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Black Ark Corsair with Vicious Blade and Repeater Crossbow",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Black Ark Corsair with Vicious Blade and Wicked Cutlass",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Black Ark Fleetmaster",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Black Ark Reaver",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Black Guard  ",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Bleaksword",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Captain of the Black Guard",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Dark Rider Herald",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Dark Rider",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Darkshard",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Draich Master",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Dreadspear",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Executioner",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Sorceress",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Dread Knight",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Guardmaster",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Drakespawn Knight",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "CoS Dispossessed"
+    },
+    {
+      "name": "Ironwarden with Grudgehammer Torpedo",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Cogsmith",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Warden King",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Runelord",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Keeper of the Gate",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Ironbeard with Drakefire Pistol and Cinderblast Bomb",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Old Guard with Ancestral Weapon and Gromril Shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Gyrobomber",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Gyrocopter",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Hammerer",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Irondrake",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Longbeard with ancestral Weapon and Gromril Shield",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Longbeard with Ancestral Great Axe",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Ironbreaker",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Ydrilan Riverblades"
+    },
+    {
+      "name": "Pureflood Seneschal with Ydrilan Warglaive",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Pureflood Seneschal with Ythara Darts",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Pureflood Seneschal with Master's Blades",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Crestdancer with Twin-spear",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Crestdancer with Roped Sickle",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Stream-runner with Crestblades",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Stream-runner with Riversteel Weapons",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    }
+  ]
+}

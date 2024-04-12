@@ -1,0 +1,101 @@
+import json
+import re
+import requests
+from pathlib import Path
+from typing import List, Dict
+
+def normalize(s: str) -> str: 
+    return re.sub(r'[^a-z0-9]', '', s.lower())
+
+def add_base_sizes(fighters: List[Dict], base_sizes: Dict) -> List[Dict]:
+    for fighter in fighters:
+        found = False
+        for faction, entities in base_sizes.items():
+            for entity in entities:
+                if 'base_size_x' not in entity or 'base_size_y' not in entity:
+                    continue
+                if normalize(fighter['name']) == normalize(entity['name']):
+                    fighter['base_size_x'] = entity['base_size_x']
+                    fighter['base_size_y'] = entity['base_size_y']
+                    found = True
+                    break
+            if found:
+                break
+        if not found:
+            print(f"No match found in base sizes for: {fighter['name']}")
+    print("Base sizes successfully added to all applicable fighters.")
+    return fighters
+
+def capitalize_ability_costs(fighters: List[Dict]) -> List[Dict]:
+    for fighter in fighters:
+        if 'abilities' in fighter:
+            for ability in fighter['abilities'].values():
+                ability['cost'] = ability['cost'].capitalize()
+    print("Ability costs capitalized for all fighters.")
+    return fighters
+
+def custom_serialize(var, parent_key=None) -> str:
+    print("Starting serialization...")
+    if isinstance(var, (list, tuple)):
+        result = '{' + ', '.join([custom_serialize(x) for x in var]) + '}'
+    elif isinstance(var, dict):
+        if parent_key == 'abilities':
+            abilities_list = [{'cost': v['cost'].capitalize(), 'name': k} for k, v in var.items()]
+            result = '{' + ', '.join([custom_serialize(a) for a in abilities_list]) + '}'
+        else:
+            result = '{' + ', '.join([f'["{k}"]=' + custom_serialize(v, k) if not k.isidentifier() else f'{k}=' + custom_serialize(v, k) for k, v in var.items()]) + '}'
+    elif isinstance(var, str):
+        escaped_var = var.replace('\n', '').replace('"', '\\"')
+        result = f'"{escaped_var}"'
+    else:
+        result = f'"{str(var)}"'
+    print("Serialization completed.")
+    return result
+
+def fix_special_characters_in_names(fighters: List[Dict]) -> List[Dict]:
+    for fighter in fighters:
+        if fighter['_id'] == '6bb3286e':
+            fighter['name'] = 'Witch Aelf with Paired Sciansa'
+            print("Special characters fixed for Witch Aelf with Paired Sciansa.")
+        elif fighter['_id'] == '1aeda80d':
+            fighter['name'] = 'Witch Aelf with Sciansa and Bladed Buckler'
+            print("Special characters fixed for Witch Aelf with Sciansa and Bladed Buckler.")
+    print("Finished fixing special characters in fighter names.")
+    return fighters
+
+if __name__ == '__main__':
+    print("Script started.")
+    try:
+        fighters_url = 'https://krisling049.github.io/warcry_data/fighters_tts.json'
+        response_fighters = requests.get(fighters_url)
+        fighters = response_fighters.json()
+
+        # Fix special characters in names
+        fighters = fix_special_characters_in_names(fighters)
+
+        base_sizes_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-jr/data', 'baseSizes.json')
+        with open(base_sizes_path, 'r') as f:
+            base_sizes = json.load(f)
+
+        new_fighters_with_base_sizes = add_base_sizes(fighters, base_sizes)
+
+        output_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-jr/data', 'tts_fighters.json')
+        with open(output_path, 'w') as f:
+            json.dump(new_fighters_with_base_sizes, f, sort_keys=True, indent=4)
+
+        abilities_url = 'https://krisling049.github.io/warcry_data/abilities.json'
+        response_abilities = requests.get(abilities_url)
+        abilities = response_abilities.json()
+
+        abilities_key_value_table = {item['name']: item for item in abilities}
+        abilities_lua_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-jr/lua', 'abilities.lua')
+        with open(abilities_lua_path, 'w', encoding='utf-8') as lua_file:
+            lua_file.write("return " + custom_serialize(abilities_key_value_table))
+
+        fighters_lua_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-jr/lua', 'fighters.lua')
+        with open(fighters_lua_path, 'w', encoding='utf-8') as lua_file:
+            lua_file.write("return " + custom_serialize(new_fighters_with_base_sizes))
+
+        print("Script executed successfully.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
