@@ -24,14 +24,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Moment of Savagery"]={
-            cost="Double"
+         {
+            _id="48f97b6e"
          },
-         ["Worthy Foes"]={
-            cost="Quad"
+         {
+            _id="878a98e7"
          },
-         ["Lofty Disdain"]={
-            cost="Reaction"
+         {
+            _id="ef244143"
          }
       },
       base_size_x="28.5",
@@ -62,14 +62,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Moment of Savagery"]={
-            cost="Double"
+         {
+            _id="48f97b6e"
          },
-         ["Worthy Foes"]={
-            cost="Quad"
+         {
+            _id="878a98e7"
          },
-         ["Lofty Disdain"]={
-            cost="Reaction"
+         {
+            _id="ef244143"
          }
       },
       base_size_x="28.5",
@@ -100,14 +100,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Moment of Savagery"]={
-            cost="Double"
+         {
+            _id="48f97b6e"
          },
-         ["Beast Familiar"]={
-            cost="Double"
+         {
+            _id="f2a7365f"
          },
-         ["Lofty Disdain"]={
-            cost="Reaction"
+         {
+            _id="ef244143"
          }
       },
       base_size_x="32",
@@ -139,17 +139,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Moment of Savagery"]={
-            cost="Double"
+         {
+            _id="48f97b6e"
          },
-         ["Perfect Strike"]={
-            cost="Triple"
+         {
+            _id="a9afcaaa"
          },
-         ["Worthy Foes"]={
-            cost="Quad"
+         {
+            _id="878a98e7"
          },
-         ["Lofty Disdain"]={
-            cost="Reaction"
+         {
+            _id="ef244143"
          }
       },
       base_size_x="32",
@@ -181,17 +181,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Moment of Savagery"]={
-            cost="Double"
+         {
+            _id="48f97b6e"
          },
-         ["Perfect Strike"]={
-            cost="Triple"
+         {
+            _id="a9afcaaa"
          },
-         ["Worthy Foes"]={
-            cost="Quad"
+         {
+            _id="878a98e7"
          },
-         ["Lofty Disdain"]={
-            cost="Reaction"
+         {
+            _id="ef244143"
          }
       },
       base_size_x="32",
@@ -222,14 +222,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Moment of Savagery"]={
-            cost="Double"
+         {
+            _id="48f97b6e"
          },
-         ["Terrifying Howl"]={
-            cost="Double"
+         {
+            _id="309d7f51"
          },
-         ["Lofty Disdain"]={
-            cost="Reaction"
+         {
+            _id="ef244143"
          }
       },
       base_size_x="40",
@@ -262,20 +262,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Moment of Savagery"]={
-            cost="Double"
+         {
+            _id="48f97b6e"
          },
-         ["Perfect Strike"]={
-            cost="Triple"
+         {
+            _id="a9afcaaa"
          },
-         ["Worthy Foes"]={
-            cost="Quad"
+         {
+            _id="878a98e7"
          },
-         ["Magisterial Poise"]={
-            cost="Triple"
+         {
+            _id="401d92b1"
          },
-         ["Lofty Disdain"]={
-            cost="Reaction"
+         {
+            _id="ef244143"
          }
       },
       base_size_x="32",
@@ -306,11 +306,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -341,11 +341,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -376,11 +376,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -412,11 +412,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -448,11 +448,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -485,14 +485,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Chosen Champion"]={
-            cost="Quad"
+         {
+            _id="da80f37c"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -525,14 +525,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Chosen Champion"]={
-            cost="Quad"
+         {
+            _id="da80f37c"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -565,14 +565,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Chosen Champion"]={
-            cost="Quad"
+         {
+            _id="da80f37c"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -603,11 +603,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Deathly Charge"]={
-            cost="Triple"
+         {
+            _id="0e537da5"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="35",
@@ -638,11 +638,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Vampiric Agility"]={
-            cost="Double"
+         {
+            _id="82ad08d8"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="32",
@@ -673,8 +673,8 @@ return {
       },
       wounds="30",
       abilities={
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="40",
@@ -715,17 +715,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Necrotic Siphon"]={
-            cost="Double"
+         {
+            _id="cf6468c5"
          },
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Vanhel's Danse Macabre"]={
-            cost="Quad"
+         {
+            _id="27d4c9c2"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="32",
@@ -757,14 +757,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Beheading Strike"]={
-            cost="Double"
+         {
+            _id="bce2a409"
          },
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="32",
@@ -796,14 +796,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Deathly Charge"]={
-            cost="Triple"
+         {
+            _id="0e537da5"
          },
-         ["Chosen Champion"]={
-            cost="Quad"
+         {
+            _id="da80f37c"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="35",
@@ -834,11 +834,11 @@ return {
       },
       wounds="32",
       abilities={
-         ["Vampiric Agility"]={
-            cost="Double"
+         {
+            _id="82ad08d8"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="50",
@@ -870,11 +870,11 @@ return {
       },
       wounds="28",
       abilities={
-         ["Blood-maddened Feeding Frenzy"]={
-            cost="Double"
+         {
+            _id="fe9612fe"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="50",
@@ -906,14 +906,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Deathly Charge"]={
-            cost="Triple"
+         {
+            _id="0e537da5"
          },
-         ["Thirst for Blood"]={
-            cost="Triple"
+         {
+            _id="a3a590fc"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="42",
@@ -945,14 +945,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Deathly Charge"]={
-            cost="Triple"
+         {
+            _id="0e537da5"
          },
-         ["Thirst for Blood"]={
-            cost="Triple"
+         {
+            _id="a3a590fc"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="42",
@@ -985,17 +985,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Call the Crimson Feast"]={
-            cost="Triple"
+         {
+            _id="8c605055"
          },
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Thirst for Blood"]={
-            cost="Triple"
+         {
+            _id="a3a590fc"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="40",
@@ -1028,20 +1028,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Call the Crimson Feast"]={
-            cost="Triple"
+         {
+            _id="8c605055"
          },
-         ["Deathly Charge"]={
-            cost="Triple"
+         {
+            _id="0e537da5"
          },
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Thirst for Blood"]={
-            cost="Triple"
+         {
+            _id="a3a590fc"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="42",
@@ -1074,14 +1074,14 @@ return {
       },
       wounds="32",
       abilities={
-         ["Blood-maddened Feeding Frenzy"]={
-            cost="Double"
+         {
+            _id="fe9612fe"
          },
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="50",
@@ -1114,17 +1114,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Beheading Strike"]={
-            cost="Double"
+         {
+            _id="bce2a409"
          },
-         ["Deathly Charge"]={
-            cost="Triple"
+         {
+            _id="0e537da5"
          },
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="42",
@@ -1155,14 +1155,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Sibling Rivalry"]={
-            cost="Double"
+         {
+            _id="47185e2d"
          },
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -1193,14 +1193,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Sibling Rivalry"]={
-            cost="Double"
+         {
+            _id="47185e2d"
          },
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -1231,14 +1231,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Sibling Rivalry"]={
-            cost="Double"
+         {
+            _id="47185e2d"
          },
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -1269,14 +1269,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Sleepless Sentinel"]={
-            cost="Double"
+         {
+            _id="d02db365"
          },
-         ["Chosen Champion"]={
-            cost="Quad"
+         {
+            _id="da80f37c"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="40",
@@ -1308,17 +1308,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Deadly Command"]={
-            cost="Triple"
+         {
+            _id="9aa5e9d2"
          },
-         ["Beheading Strike"]={
-            cost="Double"
+         {
+            _id="bce2a409"
          },
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="32",
@@ -1349,14 +1349,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Thirst for Blood"]={
-            cost="Triple"
+         {
+            _id="a3a590fc"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["The Thrill of the Hunt"]={
-            cost="Double"
+         {
+            _id="243cf0a5"
          }
       },
       base_size_x="32",
@@ -1388,14 +1388,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Thirst for Blood"]={
-            cost="Triple"
+         {
+            _id="a3a590fc"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["The Thrill of the Hunt"]={
-            cost="Double"
+         {
+            _id="243cf0a5"
          }
       },
       base_size_x="32",
@@ -1426,14 +1426,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Thirst for Blood"]={
-            cost="Triple"
+         {
+            _id="a3a590fc"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["The Thrill of the Hunt"]={
-            cost="Double"
+         {
+            _id="243cf0a5"
          }
       },
       base_size_x="32",
@@ -1465,23 +1465,23 @@ return {
       },
       wounds="26",
       abilities={
-         ["Call the Crimson Feast"]={
-            cost="Triple"
+         {
+            _id="8c605055"
          },
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Thirst for Blood"]={
-            cost="Triple"
+         {
+            _id="a3a590fc"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Fiendish Lure"]={
-            cost="Double"
+         {
+            _id="235d62bf"
          },
-         ["The Thrill of the Hunt"]={
-            cost="Double"
+         {
+            _id="243cf0a5"
          }
       },
       base_size_x="32",
@@ -1513,11 +1513,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          }
       },
       base_size_x="25",
@@ -1549,14 +1549,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Crackling Arcs"]={
-            cost="Double"
+         {
+            _id="43139422"
          }
       },
       base_size_x="25",
@@ -1588,14 +1588,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Crackling Arcs"]={
-            cost="Double"
+         {
+            _id="43139422"
          }
       },
       base_size_x="25",
@@ -1627,14 +1627,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Crackling Arcs"]={
-            cost="Double"
+         {
+            _id="43139422"
          }
       },
       base_size_x="25",
@@ -1666,14 +1666,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Crackling Arcs"]={
-            cost="Double"
+         {
+            _id="43139422"
          }
       },
       base_size_x="25",
@@ -1704,11 +1704,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Dread Puppetry"]={
-            cost="Double"
+         {
+            _id="7442c30c"
          }
       },
       base_size_x="25",
@@ -1749,20 +1749,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Necrotic Siphon"]={
-            cost="Double"
+         {
+            _id="cf6468c5"
          },
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Vanhel's Danse Macabre"]={
-            cost="Quad"
+         {
+            _id="27d4c9c2"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Dynamic Enhancer"]={
-            cost="Triple"
+         {
+            _id="21e1790c"
          }
       },
       base_size_x="28.5",
@@ -1793,11 +1793,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Frightening Charge"]={
-            cost="Triple"
+         {
+            _id="f1a69fd6"
          }
       },
       base_size_x="25",
@@ -1828,11 +1828,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Frightening Charge"]={
-            cost="Triple"
+         {
+            _id="f1a69fd6"
          }
       },
       base_size_x="25",
@@ -1863,11 +1863,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Frightening Charge"]={
-            cost="Triple"
+         {
+            _id="f1a69fd6"
          }
       },
       base_size_x="25",
@@ -1898,14 +1898,14 @@ return {
       },
       wounds="14",
       abilities={
-         ["Chosen Champion"]={
-            cost="Quad"
+         {
+            _id="da80f37c"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Frightening Charge"]={
-            cost="Triple"
+         {
+            _id="f1a69fd6"
          }
       },
       base_size_x="25",
@@ -1936,14 +1936,14 @@ return {
       },
       wounds="14",
       abilities={
-         ["Chosen Champion"]={
-            cost="Quad"
+         {
+            _id="da80f37c"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Frightening Charge"]={
-            cost="Triple"
+         {
+            _id="f1a69fd6"
          }
       },
       base_size_x="25",
@@ -1974,14 +1974,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Frightening Charge"]={
-            cost="Triple"
+         {
+            _id="f1a69fd6"
          }
       },
       base_size_x="25",
@@ -2022,26 +2022,26 @@ return {
       },
       wounds="20",
       abilities={
-         ["Necrotic Siphon"]={
-            cost="Double"
+         {
+            _id="cf6468c5"
          },
-         ["Summon Undead Minions"]={
-            cost="Triple"
+         {
+            _id="5ed32297"
          },
-         ["Vanhel's Danse Macabre"]={
-            cost="Quad"
+         {
+            _id="27d4c9c2"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Lost Love"]={
-            cost="Reaction"
+         {
+            _id="c56b33cb"
          },
-         Gravebreaking={
-            cost="Double"
+         {
+            _id="fdb16861"
          },
-         ["Blind Devotion"]={
-            cost="Quad"
+         {
+            _id="552e00ac"
          }
       },
       base_size_x="32",
@@ -2072,17 +2072,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Vampiric Agility"]={
-            cost="Double"
+         {
+            _id="82ad08d8"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Lost Love"]={
-            cost="Reaction"
+         {
+            _id="c56b33cb"
          },
-         ["Devoted Strike"]={
-            cost="Triple"
+         {
+            _id="cccc7200"
          }
       },
       base_size_x="40",
@@ -2113,14 +2113,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Lost Love"]={
-            cost="Reaction"
+         {
+            _id="c56b33cb"
          }
       },
       base_size_x="25",
@@ -2151,14 +2151,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Lost Love"]={
-            cost="Reaction"
+         {
+            _id="c56b33cb"
          }
       },
       base_size_x="25",
@@ -2189,14 +2189,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shambling Horde"]={
-            cost="Double"
+         {
+            _id="584ded6d"
          },
-         ["Unfeeling Flesh"]={
-            cost="Reaction"
+         {
+            _id="86a7f856"
          },
-         ["Lost Love"]={
-            cost="Reaction"
+         {
+            _id="c56b33cb"
          }
       },
       base_size_x="25",
@@ -2228,11 +2228,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Slavering Charge"]={
-            cost="Double"
+         {
+            _id="4ebb51eb"
          },
-         ["Necromantic Bonds"]={
-            cost="Reaction"
+         {
+            _id="29483e90"
          }
       },
       base_size_x="35",
@@ -2265,11 +2265,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Scent of Gore"]={
-            cost="Triple"
+         {
+            _id="ad5ea812"
          },
-         ["Necromantic Bonds"]={
-            cost="Reaction"
+         {
+            _id="29483e90"
          }
       },
       base_size_x="40",
@@ -2302,14 +2302,14 @@ return {
       },
       wounds="50",
       abilities={
-         ["Swooping Dive"]={
-            cost="Double"
+         {
+            _id="deaa5772"
          },
-         ["Death Scream"]={
-            cost="Triple"
+         {
+            _id="a7e23cab"
          },
-         ["Infested with Bats"]={
-            cost="Quad"
+         {
+            _id="5a4eb2ae"
          }
       },
       base_size_x="130",
@@ -2342,14 +2342,14 @@ return {
       },
       wounds="50",
       abilities={
-         ["Swooping Dive"]={
-            cost="Double"
+         {
+            _id="b63d9f37"
          },
-         ["Sword-like Claws"]={
-            cost="Triple"
+         {
+            _id="aa4861f7"
          },
-         ["Pestilent Breath"]={
-            cost="Quad"
+         {
+            _id="6f7786d8"
          }
       },
       base_size_x="130",
@@ -2380,11 +2380,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Feed the Hounds"]={
-            cost="Double"
+         {
+            _id="6ae16d7b"
          },
-         ["Tenacious Hunters"]={
-            cost="Reaction"
+         {
+            _id="210d401d"
          }
       },
       base_size_x="25",
@@ -2415,14 +2415,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Feed the Hounds"]={
-            cost="Double"
+         {
+            _id="6ae16d7b"
          },
-         ["Unleash the Hounds"]={
-            cost="Triple"
+         {
+            _id="cc051723"
          },
-         ["Tenacious Hunters"]={
-            cost="Reaction"
+         {
+            _id="210d401d"
          }
       },
       base_size_x="28.5",
@@ -2453,14 +2453,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Feed the Hounds"]={
-            cost="Double"
+         {
+            _id="6ae16d7b"
          },
-         ["Sound the Hunt"]={
-            cost="Double"
+         {
+            _id="bd62865f"
          },
-         ["Tenacious Hunters"]={
-            cost="Reaction"
+         {
+            _id="210d401d"
          }
       },
       base_size_x="32",
@@ -2491,14 +2491,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Feed the Hounds"]={
-            cost="Double"
+         {
+            _id="6ae16d7b"
          },
-         ["Clambering Horrors"]={
-            cost="Double"
+         {
+            _id="98fdc691"
          },
-         ["Tenacious Hunters"]={
-            cost="Reaction"
+         {
+            _id="210d401d"
          }
       },
       base_size_x="40",
@@ -2529,17 +2529,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Feed the Hounds"]={
-            cost="Double"
+         {
+            _id="6ae16d7b"
          },
-         ["Pack Tactics"]={
-            cost="Triple"
+         {
+            _id="a11bf441"
          },
-         ["No Rest till our Quest is Done"]={
-            cost="Quad"
+         {
+            _id="ade2c4fa"
          },
-         ["Tenacious Hunters"]={
-            cost="Reaction"
+         {
+            _id="210d401d"
          }
       },
       base_size_x="32",
@@ -2570,17 +2570,17 @@ return {
       },
       wounds="8",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Scrabbling Hordes"]={
-            cost="Double"
+         {
+            _id="79d9faa1"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="25",
@@ -2611,20 +2611,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="25",
@@ -2655,20 +2655,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="32",
@@ -2700,20 +2700,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="32",
@@ -2744,14 +2744,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="50",
@@ -2783,20 +2783,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="40",
@@ -2827,20 +2827,20 @@ return {
       },
       wounds="32",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="50",
@@ -2872,17 +2872,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Death Scream"]={
-            cost="Triple"
+         {
+            _id="a471d576"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="50",
@@ -2913,20 +2913,20 @@ return {
       },
       wounds="36",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="50",
@@ -2959,23 +2959,23 @@ return {
       },
       wounds="32",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Death Scream"]={
-            cost="Triple"
+         {
+            _id="a471d576"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="50",
@@ -3007,23 +3007,23 @@ return {
       },
       wounds="35",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Noble Winged Beast"]={
-            cost="Double"
+         {
+            _id="e986e07a"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="52",
@@ -3056,23 +3056,23 @@ return {
       },
       wounds="36",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Death Scream"]={
-            cost="Triple"
+         {
+            _id="a471d576"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="50",
@@ -3105,23 +3105,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Winds of Shyish"]={
-            cost="Double"
+         {
+            _id="01e51087"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="40",
@@ -3154,23 +3154,23 @@ return {
       },
       wounds="25",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Predator's Pounce"]={
-            cost="Triple"
+         {
+            _id="98b3a5d8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="42",
@@ -3203,26 +3203,26 @@ return {
       },
       wounds="10",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Royal Bodyguard"]={
-            cost="Reaction"
+         {
+            _id="bec6b159"
          },
-         ["Scrabbling Hordes"]={
-            cost="Double"
+         {
+            _id="79d9faa1"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="25",
@@ -3255,26 +3255,26 @@ return {
       },
       wounds="10",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Royal Bodyguard"]={
-            cost="Reaction"
+         {
+            _id="bec6b159"
          },
-         ["Scrabbling Hordes"]={
-            cost="Double"
+         {
+            _id="79d9faa1"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="25",
@@ -3306,23 +3306,23 @@ return {
       },
       wounds="18",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["King's Entreaty"]={
-            cost="Triple"
+         {
+            _id="183defcb"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="32",
@@ -3353,20 +3353,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="32",
@@ -3398,20 +3398,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Royal Bodyguard"]={
-            cost="Reaction"
+         {
+            _id="bec6b159"
          },
-         ["Scrabbling Hordes"]={
-            cost="Double"
+         {
+            _id="79d9faa1"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="25",
@@ -3443,20 +3443,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Royal Bodyguard"]={
-            cost="Reaction"
+         {
+            _id="bec6b159"
          },
-         ["Scrabbling Hordes"]={
-            cost="Double"
+         {
+            _id="79d9faa1"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="25",
@@ -3488,17 +3488,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Predator's Pounce"]={
-            cost="Triple"
+         {
+            _id="98b3a5d8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="42",
@@ -3529,17 +3529,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Scrabbling Hordes"]={
-            cost="Double"
+         {
+            _id="79d9faa1"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="25",
@@ -3570,17 +3570,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Scrabbling Hordes"]={
-            cost="Double"
+         {
+            _id="79d9faa1"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="25",
@@ -3611,17 +3611,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Scrabbling Hordes"]={
-            cost="Double"
+         {
+            _id="79d9faa1"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="25",
@@ -3653,14 +3653,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="32",
@@ -3691,17 +3691,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Scrabbling Hordes"]={
-            cost="Double"
+         {
+            _id="79d9faa1"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="25",
@@ -3732,17 +3732,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Scrabbling Hordes"]={
-            cost="Double"
+         {
+            _id="79d9faa1"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          }
       },
       base_size_x="25",
@@ -3773,23 +3773,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          },
-         ["Royal Decree"]={
-            cost="Double"
+         {
+            _id="60f9e076"
          }
       },
       base_size_x="32",
@@ -3821,23 +3821,23 @@ return {
       },
       wounds="18",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Speak in Tongues"]={
-            cost="Double"
+         {
+            _id="6e8e86a1"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          }
       },
       base_size_x="32",
@@ -3868,36 +3868,36 @@ return {
       },
       wounds="20",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["Victory Feast"]={
-            cost="Triple"
+         {
+            _id="489f11f2"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Decree of Chivalry"]={
-            cost="Quad"
+         {
+            _id="4d8af2ce"
          },
-         ["Back to the Kitchens!"]={
-            cost="Reaction"
+         {
+            _id="c4d22bf7"
          },
-         ["Get Out of My Larder!"]={
-            cost="Double"
+         {
+            _id="746efa59"
          },
-         ["Plated Banquet"]={
-            cost="Triple"
+         {
+            _id="78d24670"
          },
-         ["Precise Filleting"]={
-            cost="Quad"
+         {
+            _id="32d0d02e"
          }
       },
-      base_size_x="25",
-      base_size_y="25"
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="c01a33d6",
@@ -3924,26 +3924,26 @@ return {
       },
       wounds="8",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Back to the Kitchens!"]={
-            cost="Reaction"
+         {
+            _id="c4d22bf7"
          },
-         ["Get Out of My Larder!"]={
-            cost="Double"
+         {
+            _id="746efa59"
          },
-         ["Plated Banquet"]={
-            cost="Triple"
+         {
+            _id="78d24670"
          },
-         ["Precise Filleting"]={
-            cost="Quad"
+         {
+            _id="32d0d02e"
          }
       },
       base_size_x="25",
@@ -3974,26 +3974,26 @@ return {
       },
       wounds="8",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Back to the Kitchens!"]={
-            cost="Reaction"
+         {
+            _id="c4d22bf7"
          },
-         ["Get Out of My Larder!"]={
-            cost="Double"
+         {
+            _id="746efa59"
          },
-         ["Plated Banquet"]={
-            cost="Triple"
+         {
+            _id="78d24670"
          },
-         ["Precise Filleting"]={
-            cost="Quad"
+         {
+            _id="32d0d02e"
          }
       },
       base_size_x="25",
@@ -4024,26 +4024,26 @@ return {
       },
       wounds="8",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Back to the Kitchens!"]={
-            cost="Reaction"
+         {
+            _id="c4d22bf7"
          },
-         ["Get Out of My Larder!"]={
-            cost="Double"
+         {
+            _id="746efa59"
          },
-         ["Plated Banquet"]={
-            cost="Triple"
+         {
+            _id="78d24670"
          },
-         ["Precise Filleting"]={
-            cost="Quad"
+         {
+            _id="32d0d02e"
          }
       },
       base_size_x="25",
@@ -4074,30 +4074,30 @@ return {
       },
       wounds="10",
       abilities={
-         ["Baffling Parlay"]={
-            cost="Reaction"
+         {
+            _id="0d073880"
          },
-         ["Hungry Talons"]={
-            cost="Double"
+         {
+            _id="2e4501f8"
          },
-         ["The Royal Hunt"]={
-            cost="Quad"
+         {
+            _id="ff7e8503"
          },
-         ["Back to the Kitchens!"]={
-            cost="Reaction"
+         {
+            _id="c4d22bf7"
          },
-         ["Get Out of My Larder!"]={
-            cost="Double"
+         {
+            _id="746efa59"
          },
-         ["Plated Banquet"]={
-            cost="Triple"
+         {
+            _id="78d24670"
          },
-         ["Precise Filleting"]={
-            cost="Quad"
+         {
+            _id="32d0d02e"
          }
       },
-      base_size_x="32",
-      base_size_y="32"
+      base_size_x="25",
+      base_size_y="25"
    },
    {
       _id="fb7ec24d",
@@ -4125,17 +4125,17 @@ return {
       },
       wounds="8",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Chilling Horde"]={
-            cost="Double"
+         {
+            _id="68d0f4f0"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="25",
@@ -4166,14 +4166,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4204,14 +4204,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4251,14 +4251,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4290,17 +4290,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Harrowing Shriek"]={
-            cost="Triple"
+         {
+            _id="e5e07960"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4332,20 +4332,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Soul-marked Prey"]={
-            cost="Double"
+         {
+            _id="e11eb84f"
          },
-         ["Reaped Like Corn"]={
-            cost="Quad"
+         {
+            _id="87e56fd8"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4376,14 +4376,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4416,20 +4416,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Chilling Horde"]={
-            cost="Double"
+         {
+            _id="68d0f4f0"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="25",
@@ -4460,14 +4460,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4508,17 +4508,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4550,17 +4550,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4593,20 +4593,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Sentenced to Eternal Torment"]={
-            cost="Triple"
+         {
+            _id="a75aa984"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="40",
@@ -4638,17 +4638,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Frightful Touch"]={
-            cost="Triple"
+         {
+            _id="01a3579a"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="35",
@@ -4681,20 +4681,20 @@ return {
       },
       wounds="15",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Harrowing Shriek"]={
-            cost="Triple"
+         {
+            _id="e5e07960"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4726,17 +4726,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Frightful Touch"]={
-            cost="Triple"
+         {
+            _id="01a3579a"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="50",
@@ -4778,20 +4778,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Unholy Light"]={
-            cost="Triple"
+         {
+            _id="17952096"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -4823,17 +4823,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="40",
@@ -4875,20 +4875,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Frightful Touch"]={
-            cost="Triple"
+         {
+            _id="01a3579a"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="25",
@@ -4921,23 +4921,23 @@ return {
       },
       wounds="18",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Soul-marked Prey"]={
-            cost="Double"
+         {
+            _id="e11eb84f"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Reaped Like Corn"]={
-            cost="Quad"
+         {
+            _id="87e56fd8"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="25",
@@ -4970,20 +4970,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Stolen Hours"]={
-            cost="Double"
+         {
+            _id="9917bf4d"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="32",
@@ -5016,20 +5016,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Captured Soul-energy"]={
-            cost="Quad"
+         {
+            _id="612582bc"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="40",
@@ -5062,20 +5062,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Frightful Touch"]={
-            cost="Triple"
+         {
+            _id="01a3579a"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="35",
@@ -5107,17 +5107,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="40",
@@ -5150,20 +5150,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Phantasmal Discorporation"]={
-            cost="Triple"
+         {
+            _id="edc2956e"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="35",
@@ -5196,20 +5196,20 @@ return {
       },
       wounds="28",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Stolen Hours"]={
-            cost="Double"
+         {
+            _id="9917bf4d"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="42",
@@ -5241,23 +5241,23 @@ return {
       },
       wounds="8",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          },
-         ["Swift Judgement"]={
-            cost="Double"
+         {
+            _id="120b6102"
          },
-         Sharpen={
-            cost="Double"
+         {
+            _id="2223f1bb"
          },
-         ["Hold Them Still"]={
-            cost="Triple"
+         {
+            _id="7b5f8cee"
          }
       },
       base_size_x="25",
@@ -5297,20 +5297,20 @@ return {
       },
       wounds="14",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          },
-         ["Swift Judgement"]={
-            cost="Double"
+         {
+            _id="120b6102"
          },
-         ["Hold Them Still"]={
-            cost="Triple"
+         {
+            _id="7b5f8cee"
          }
       },
       base_size_x="32",
@@ -5341,20 +5341,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          },
-         ["Swift Judgement"]={
-            cost="Double"
+         {
+            _id="120b6102"
          },
-         ["Hold Them Still"]={
-            cost="Triple"
+         {
+            _id="7b5f8cee"
          }
       },
       base_size_x="32",
@@ -5386,26 +5386,26 @@ return {
       },
       wounds="20",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          },
-         ["Swift Judgement"]={
-            cost="Double"
+         {
+            _id="120b6102"
          },
-         ["Hold Them Still"]={
-            cost="Triple"
+         {
+            _id="7b5f8cee"
          },
-         ["The Court Sentences You... To Death!"]={
-            cost="Quad"
+         {
+            _id="525a92c8"
          }
       },
       base_size_x="40",
@@ -5437,17 +5437,17 @@ return {
       },
       wounds="8",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Chilling Horde"]={
-            cost="Double"
+         {
+            _id="68d0f4f0"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="25",
@@ -5479,17 +5479,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Chilling Horde"]={
-            cost="Double"
+         {
+            _id="68d0f4f0"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="25",
@@ -5521,17 +5521,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Chilling Horde"]={
-            cost="Double"
+         {
+            _id="68d0f4f0"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          }
       },
       base_size_x="25",
@@ -5572,20 +5572,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Aura of Dread"]={
-            cost="Double"
+         {
+            _id="37ab8133"
          },
-         ["Spectral Summon"]={
-            cost="Triple"
+         {
+            _id="cd1184f1"
          },
-         ["Float Through Wall"]={
-            cost="Triple"
+         {
+            _id="a4f5881c"
          },
-         ["Flickering Form"]={
-            cost="Reaction"
+         {
+            _id="5e218340"
          },
-         ["Howling Vortex"]={
-            cost="Triple"
+         {
+            _id="fa042d57"
          }
       },
       base_size_x="32",
@@ -5626,20 +5626,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Balefire Cremation"]={
-            cost="Passive"
+         {
+            _id="22050b34"
          },
-         ["Fan the Flames"]={
-            cost="Double"
+         {
+            _id="78f7d995"
          },
-         ["Light the Pyre"]={
-            cost="Triple"
+         {
+            _id="85b75c37"
          },
-         Soulblaze={
-            cost="Triple"
+         {
+            _id="6bb4417d"
          },
-         ["Agonising Penance"]={
-            cost="Quad"
+         {
+            _id="ad5d0eb1"
          }
       },
       base_size_x="40",
@@ -5680,20 +5680,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Balefire Cremation"]={
-            cost="Passive"
+         {
+            _id="22050b34"
          },
-         ["Fan the Flames"]={
-            cost="Double"
+         {
+            _id="78f7d995"
          },
-         ["Light the Pyre"]={
-            cost="Triple"
+         {
+            _id="85b75c37"
          },
-         Soulblaze={
-            cost="Triple"
+         {
+            _id="6bb4417d"
          },
-         ["Agonising Penance"]={
-            cost="Quad"
+         {
+            _id="ad5d0eb1"
          }
       },
       base_size_x="40",
@@ -5725,20 +5725,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Balefire Cremation"]={
-            cost="Passive"
+         {
+            _id="22050b34"
          },
-         ["Fan the Flames"]={
-            cost="Double"
+         {
+            _id="78f7d995"
          },
-         ["Unblinking Guardian"]={
-            cost="Double"
+         {
+            _id="779e2be9"
          },
-         ["Light the Pyre"]={
-            cost="Triple"
+         {
+            _id="85b75c37"
          },
-         ["Agonising Penance"]={
-            cost="Quad"
+         {
+            _id="ad5d0eb1"
          }
       },
       base_size_x="32",
@@ -5770,20 +5770,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Balefire Cremation"]={
-            cost="Passive"
+         {
+            _id="22050b34"
          },
-         ["Fan the Flames"]={
-            cost="Double"
+         {
+            _id="78f7d995"
          },
-         ["Unblinking Guardian"]={
-            cost="Double"
+         {
+            _id="779e2be9"
          },
-         ["Light the Pyre"]={
-            cost="Triple"
+         {
+            _id="85b75c37"
          },
-         ["Agonising Penance"]={
-            cost="Quad"
+         {
+            _id="ad5d0eb1"
          }
       },
       base_size_x="32",
@@ -5824,20 +5824,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Balefire Cremation"]={
-            cost="Passive"
+         {
+            _id="22050b34"
          },
-         ["Fan the Flames"]={
-            cost="Double"
+         {
+            _id="78f7d995"
          },
-         ["Pyrerobber's Curse"]={
-            cost="Double"
+         {
+            _id="20a38f4f"
          },
-         ["Light the Pyre"]={
-            cost="Triple"
+         {
+            _id="85b75c37"
          },
-         ["Agonising Penance"]={
-            cost="Quad"
+         {
+            _id="ad5d0eb1"
          }
       },
       base_size_x="28.5",
@@ -5868,17 +5868,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Balefire Cremation"]={
-            cost="Passive"
+         {
+            _id="22050b34"
          },
-         ["Fan the Flames"]={
-            cost="Double"
+         {
+            _id="78f7d995"
          },
-         ["Light the Pyre"]={
-            cost="Triple"
+         {
+            _id="85b75c37"
          },
-         ["Agonising Penance"]={
-            cost="Quad"
+         {
+            _id="ad5d0eb1"
          }
       },
       base_size_x="32",
@@ -5909,17 +5909,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Balefire Cremation"]={
-            cost="Passive"
+         {
+            _id="22050b34"
          },
-         ["Fan the Flames"]={
-            cost="Double"
+         {
+            _id="78f7d995"
          },
-         ["Light the Pyre"]={
-            cost="Triple"
+         {
+            _id="85b75c37"
          },
-         ["Agonising Penance"]={
-            cost="Quad"
+         {
+            _id="ad5d0eb1"
          }
       },
       base_size_x="32",
@@ -5950,11 +5950,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="25",
@@ -5985,14 +5985,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Form Shieldwall"]={
-            cost="Double"
+         {
+            _id="da3f058b"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="25",
@@ -6023,14 +6023,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Form Shieldwall"]={
-            cost="Double"
+         {
+            _id="da3f058b"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="25",
@@ -6062,17 +6062,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Form Shieldwall"]={
-            cost="Double"
+         {
+            _id="da3f058b"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Unstoppable Advance"]={
-            cost="Triple"
+         {
+            _id="43124d95"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="25",
@@ -6104,14 +6104,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathrider Charge"]={
-            cost="Triple"
+         {
+            _id="96120f68"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="35",
@@ -6143,14 +6143,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathrider Charge"]={
-            cost="Triple"
+         {
+            _id="96120f68"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="35",
@@ -6191,17 +6191,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["The Boneshaper's Art"]={
-            cost="Triple"
+         {
+            _id="6d4a1974"
          },
-         ["Unstoppable Advance"]={
-            cost="Triple"
+         {
+            _id="43124d95"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="32",
@@ -6242,17 +6242,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Unstoppable Advance"]={
-            cost="Triple"
+         {
+            _id="43124d95"
          },
-         ["Soulreaper Scythe"]={
-            cost="Quad"
+         {
+            _id="3026ca6f"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="32",
@@ -6283,14 +6283,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Form Shieldwall"]={
-            cost="Double"
+         {
+            _id="da3f058b"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="50",
@@ -6332,17 +6332,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Soul-guide"]={
-            cost="Triple"
+         {
+            _id="96c6da56"
          },
-         ["Unstoppable Advance"]={
-            cost="Triple"
+         {
+            _id="43124d95"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="40",
@@ -6373,17 +6373,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Hunt and Kill"]={
-            cost="Double"
+         {
+            _id="945dc908"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Blade-strike Aspect"]={
-            cost="Quad"
+         {
+            _id="21166137"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="50",
@@ -6414,17 +6414,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Hunt and Kill"]={
-            cost="Double"
+         {
+            _id="945dc908"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Blade-strike Aspect"]={
-            cost="Quad"
+         {
+            _id="21166137"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="50",
@@ -6457,17 +6457,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathrider Charge"]={
-            cost="Triple"
+         {
+            _id="96120f68"
          },
-         ["Unstoppable Advance"]={
-            cost="Triple"
+         {
+            _id="43124d95"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="35",
@@ -6499,14 +6499,14 @@ return {
       },
       wounds="35",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Unbridled Ferocity"]={
-            cost="Triple"
+         {
+            _id="f74dc829"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="60",
@@ -6539,17 +6539,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Endless Duty"]={
-            cost="Double"
+         {
+            _id="8fdbd27a"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Unstoppable Advance"]={
-            cost="Triple"
+         {
+            _id="43124d95"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="80",
@@ -6581,14 +6581,14 @@ return {
       },
       wounds="35",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Unbridled Ferocity"]={
-            cost="Triple"
+         {
+            _id="f74dc829"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="60",
@@ -6619,11 +6619,11 @@ return {
       },
       wounds="35",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="60",
@@ -6654,11 +6654,11 @@ return {
       },
       wounds="35",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="60",
@@ -6689,14 +6689,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Form Shieldwall"]={
-            cost="Double"
+         {
+            _id="da3f058b"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="25",
@@ -6727,14 +6727,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Form Shieldwall"]={
-            cost="Double"
+         {
+            _id="da3f058b"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="25",
@@ -6774,11 +6774,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="25",
@@ -6809,14 +6809,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Form Shieldwall"]={
-            cost="Double"
+         {
+            _id="da3f058b"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="25",
@@ -6847,14 +6847,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Form Shieldwall"]={
-            cost="Double"
+         {
+            _id="da3f058b"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="25",
@@ -6894,17 +6894,17 @@ return {
       },
       wounds="26",
       abilities={
-         ["Executioner's Strike"]={
-            cost="Quad"
+         {
+            _id="76da2eab"
          },
-         ["Nadirite Weapon"]={
-            cost="Double"
+         {
+            _id="adad4b92"
          },
-         ["Unstoppable Advance"]={
-            cost="Triple"
+         {
+            _id="43124d95"
          },
-         ["Deathly Prowess"]={
-            cost="Reaction"
+         {
+            _id="cb23e335"
          }
       },
       base_size_x="40",
@@ -6935,20 +6935,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Slingshield Charge"]={
-            cost="Triple"
+         {
+            _id="9e8dde65"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -6979,17 +6979,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7020,20 +7020,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Duty Unto Death"]={
-            cost="Triple"
+         {
+            _id="7971a824"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7064,20 +7064,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Duty Unto Death"]={
-            cost="Triple"
+         {
+            _id="7971a824"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7109,23 +7109,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Masterflame Rune"]={
-            cost="Reaction"
+         {
+            _id="f9471479"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7157,23 +7157,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Runic Empowerment"]={
-            cost="Double"
+         {
+            _id="fff4a629"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7204,20 +7204,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7257,20 +7257,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Encase in Molten Rock"]={
-            cost="Double"
+         {
+            _id="7fd8398d"
          },
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7302,23 +7302,23 @@ return {
       },
       wounds="22",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Volcano's Call"]={
-            cost="Double"
+         {
+            _id="bd63f7d0"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7350,23 +7350,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Icon of Grimnir"]={
-            cost="Triple"
+         {
+            _id="b8932927"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7398,23 +7398,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Lodge Leader"]={
-            cost="Double"
+         {
+            _id="bd3f9bdd"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7446,23 +7446,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Lodge Leader"]={
-            cost="Double"
+         {
+            _id="bd3f9bdd"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7493,20 +7493,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7538,23 +7538,23 @@ return {
       },
       wounds="22",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Battle Fury"]={
-            cost="Quad"
+         {
+            _id="0ef93182"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7595,23 +7595,23 @@ return {
       },
       wounds="16",
       abilities={
-         ["Encase in Molten Rock"]={
-            cost="Double"
+         {
+            _id="7fd8398d"
          },
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7643,23 +7643,23 @@ return {
       },
       wounds="16",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Duty Unto Death"]={
-            cost="Triple"
+         {
+            _id="7971a824"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7691,23 +7691,23 @@ return {
       },
       wounds="16",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Duty Unto Death"]={
-            cost="Triple"
+         {
+            _id="7971a824"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7739,23 +7739,23 @@ return {
       },
       wounds="22",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Lodge Leader"]={
-            cost="Double"
+         {
+            _id="bd3f9bdd"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          }
       },
       base_size_x="32",
@@ -7786,20 +7786,20 @@ return {
       },
       wounds="14",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          },
-         ["The Chosen Kin"]={
-            cost="Double"
+         {
+            _id="3382fbfd"
          }
       },
       base_size_x="32",
@@ -7830,20 +7830,20 @@ return {
       },
       wounds="14",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          },
-         ["The Chosen Kin"]={
-            cost="Double"
+         {
+            _id="3382fbfd"
          }
       },
       base_size_x="32",
@@ -7874,20 +7874,20 @@ return {
       },
       wounds="14",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          },
-         ["The Chosen Kin"]={
-            cost="Double"
+         {
+            _id="3382fbfd"
          }
       },
       base_size_x="32",
@@ -7919,26 +7919,26 @@ return {
       },
       wounds="26",
       abilities={
-         ["Fyresteel Throwing Axe"]={
-            cost="Double"
+         {
+            _id="e8fe0845"
          },
-         ["Lodge Leader"]={
-            cost="Double"
+         {
+            _id="bd3f9bdd"
          },
-         ["Relentless Zeal"]={
-            cost="Double"
+         {
+            _id="9986b64c"
          },
-         ["Honour Our Oaths"]={
-            cost="Triple"
+         {
+            _id="5adfeed4"
          },
-         ["Unleash Runic Fury"]={
-            cost="Quad"
+         {
+            _id="8d633d3b"
          },
-         ["Gathered Heroes"]={
-            cost="Reaction"
+         {
+            _id="18341dd4"
          },
-         ["The Chosen Kin"]={
-            cost="Double"
+         {
+            _id="3382fbfd"
          }
       },
       base_size_x="32",
@@ -7969,14 +7969,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Darting Attack"]={
-            cost="Triple"
+         {
+            _id="b10cbb4f"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8007,14 +8007,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Soul-shield Channelling"]={
-            cost="Triple"
+         {
+            _id="68419ac4"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8045,14 +8045,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Soul-shield Channelling"]={
-            cost="Triple"
+         {
+            _id="68419ac4"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8083,14 +8083,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Summon Celestial Lightning"]={
-            cost="Double"
+         {
+            _id="d4790a75"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8121,14 +8121,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Summon Celestial Lightning"]={
-            cost="Double"
+         {
+            _id="d4790a75"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8160,17 +8160,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Soul-shield Channelling"]={
-            cost="Triple"
+         {
+            _id="68419ac4"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8201,11 +8201,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8238,20 +8238,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Soul-shield Channelling"]={
-            cost="Triple"
+         {
+            _id="68419ac4"
          },
-         ["Open Redemption Cache"]={
-            cost="Quad"
+         {
+            _id="84ec2ed7"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8283,17 +8283,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Soul-shield Channelling"]={
-            cost="Triple"
+         {
+            _id="68419ac4"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8325,17 +8325,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Summon Celestial Lightning"]={
-            cost="Double"
+         {
+            _id="d4790a75"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8367,17 +8367,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Summon Celestial Lightning"]={
-            cost="Double"
+         {
+            _id="d4790a75"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8418,17 +8418,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Shatter Spirit Flask"]={
-            cost="Triple"
+         {
+            _id="d6de3d94"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8468,14 +8468,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Burst of Celestial Lightning"]={
-            cost="Triple"
+         {
+            _id="4c650b05"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8516,17 +8516,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Shatter Spirit Flask"]={
-            cost="Triple"
+         {
+            _id="d6de3d94"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8567,17 +8567,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Open Redemption Cache"]={
-            cost="Quad"
+         {
+            _id="84ec2ed7"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8609,17 +8609,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Meteoric Slam"]={
-            cost="Double"
+         {
+            _id="89d633d2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8651,17 +8651,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Meteoric Slam"]={
-            cost="Double"
+         {
+            _id="89d633d2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8702,17 +8702,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Burst of Celestial Lightning"]={
-            cost="Triple"
+         {
+            _id="4c650b05"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -8744,17 +8744,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Summon Celestial Lightning"]={
-            cost="Double"
+         {
+            _id="d4790a75"
          },
-         ["Thunderous Pounce"]={
-            cost="Quad"
+         {
+            _id="34ececfd"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="52",
@@ -8786,17 +8786,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Summon Celestial Lightning"]={
-            cost="Double"
+         {
+            _id="d4790a75"
          },
-         ["Thunderous Pounce"]={
-            cost="Quad"
+         {
+            _id="34ececfd"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="52",
@@ -8838,17 +8838,17 @@ return {
       },
       wounds="38",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Shatter Spirit Flask"]={
-            cost="Triple"
+         {
+            _id="d6de3d94"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="52",
@@ -8881,20 +8881,20 @@ return {
       },
       wounds="35",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Summon Celestial Lightning"]={
-            cost="Double"
+         {
+            _id="d4790a75"
          },
-         ["Thunderous Pounce"]={
-            cost="Quad"
+         {
+            _id="34ececfd"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="52",
@@ -8936,20 +8936,20 @@ return {
       },
       wounds="40",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Shatter Spirit Flask"]={
-            cost="Triple"
+         {
+            _id="d6de3d94"
          },
-         ["Thunderous Pounce"]={
-            cost="Quad"
+         {
+            _id="34ececfd"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="52",
@@ -8982,20 +8982,20 @@ return {
       },
       wounds="35",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Summon Celestial Lightning"]={
-            cost="Double"
+         {
+            _id="d4790a75"
          },
-         ["Thunderous Pounce"]={
-            cost="Quad"
+         {
+            _id="34ececfd"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="52",
@@ -9026,14 +9026,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Summon Celestial Lightning"]={
-            cost="Double"
+         {
+            _id="d4790a75"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -9064,14 +9064,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Summon Celestial Lightning"]={
-            cost="Double"
+         {
+            _id="d4790a75"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          }
       },
       base_size_x="40",
@@ -9112,20 +9112,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Channelled Empowerment"]={
-            cost="Double"
+         {
+            _id="17c7c7d4"
          },
-         ["Cleanse the Realms of Taint"]={
-            cost="Double"
+         {
+            _id="0c743bc2"
          },
-         ["Open Redemption Cache"]={
-            cost="Quad"
+         {
+            _id="84ec2ed7"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="872ecca8"
          },
-         ["Storm of Eldritch Lightning"]={
-            cost="Triple"
+         {
+            _id="38af3e28"
          }
       },
       base_size_x="40",
@@ -9156,8 +9156,8 @@ return {
       },
       wounds="8",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          }
       },
       base_size_x="25",
@@ -9188,8 +9188,8 @@ return {
       },
       wounds="8",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          }
       },
       base_size_x="25",
@@ -9220,11 +9220,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Merciless Raiders"]={
-            cost="Double"
+         {
+            _id="7c1293c8"
          }
       },
       base_size_x="25",
@@ -9264,11 +9264,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Merciless Raiders"]={
-            cost="Double"
+         {
+            _id="7c1293c8"
          }
       },
       base_size_x="25",
@@ -9308,11 +9308,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Volley of Shots"]={
-            cost="Triple"
+         {
+            _id="1f3a3aaa"
          }
       },
       base_size_x="25",
@@ -9343,11 +9343,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Steel and Sorcery"]={
-            cost="Double"
+         {
+            _id="b9abbfb5"
          }
       },
       base_size_x="25",
@@ -9378,11 +9378,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Executioner's Strike"]={
-            cost="Double"
+         {
+            _id="131697f8"
          }
       },
       base_size_x="25",
@@ -9414,11 +9414,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Form Shieldwall"]={
-            cost="Double"
+         {
+            _id="1b9d036d"
          }
       },
       base_size_x="25",
@@ -9459,11 +9459,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Volley of Shots"]={
-            cost="Triple"
+         {
+            _id="1f3a3aaa"
          }
       },
       base_size_x="25",
@@ -9495,11 +9495,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Merciless Raiders"]={
-            cost="Double"
+         {
+            _id="7c1293c8"
          }
       },
       base_size_x="25",
@@ -9531,11 +9531,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Steel and Sorcery"]={
-            cost="Double"
+         {
+            _id="b9abbfb5"
          }
       },
       base_size_x="25",
@@ -9576,11 +9576,11 @@ return {
       },
       wounds="18",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Vitriolic Spray"]={
-            cost="Quad"
+         {
+            _id="842a6074"
          }
       },
       base_size_x="25",
@@ -9612,11 +9612,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Executioner's Strike"]={
-            cost="Double"
+         {
+            _id="131697f8"
          }
       },
       base_size_x="25",
@@ -9648,11 +9648,11 @@ return {
       },
       wounds="18",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Merciless Raiders"]={
-            cost="Double"
+         {
+            _id="7c1293c8"
          }
       },
       base_size_x="25",
@@ -9693,11 +9693,11 @@ return {
       },
       wounds="18",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Swift Disengage"]={
-            cost="Double"
+         {
+            _id="5a1f0437"
          }
       },
       base_size_x="35",
@@ -9729,11 +9729,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Cavalry Charge"]={
-            cost="Triple"
+         {
+            _id="a35477d9"
          }
       },
       base_size_x="35",
@@ -9764,8 +9764,8 @@ return {
       },
       wounds="18",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          }
       },
       base_size_x="25",
@@ -9807,11 +9807,11 @@ return {
       },
       wounds="22",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Volley of Shots"]={
-            cost="Triple"
+         {
+            _id="1f3a3aaa"
          }
       },
       base_size_x="35",
@@ -9844,11 +9844,11 @@ return {
       },
       wounds="25",
       abilities={
-         ["Cut-throat Strike"]={
-            cost="Reaction"
+         {
+            _id="70a5f036"
          },
-         ["Cavalry Charge"]={
-            cost="Triple"
+         {
+            _id="a35477d9"
          }
       },
       base_size_x="35",
@@ -9879,17 +9879,17 @@ return {
       },
       wounds="8",
       abilities={
-         ["Cursed Darts"]={
-            cost="Double"
+         {
+            _id="27a6269a"
          },
-         ["Shadow Leap"]={
-            cost="Double"
+         {
+            _id="8574d874"
          },
-         ["Dance of Death"]={
-            cost="Triple"
+         {
+            _id="863437da"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="0639c5be"
          }
       },
       base_size_x="28.5",
@@ -9920,17 +9920,17 @@ return {
       },
       wounds="8",
       abilities={
-         ["Cursed Darts"]={
-            cost="Double"
+         {
+            _id="27a6269a"
          },
-         ["Shadow Leap"]={
-            cost="Double"
+         {
+            _id="8574d874"
          },
-         ["Dance of Death"]={
-            cost="Triple"
+         {
+            _id="863437da"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="0639c5be"
          }
       },
       base_size_x="28.5",
@@ -9961,17 +9961,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Shadow Leap"]={
-            cost="Double"
+         {
+            _id="8574d874"
          },
-         ["Dance of Death"]={
-            cost="Triple"
+         {
+            _id="863437da"
          },
-         ["Harness Shadow"]={
-            cost="Triple"
+         {
+            _id="a73ee76a"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="0639c5be"
          }
       },
       base_size_x="28.5",
@@ -10011,17 +10011,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Shadow Leap"]={
-            cost="Double"
+         {
+            _id="8574d874"
          },
-         ["Dance of Death"]={
-            cost="Triple"
+         {
+            _id="863437da"
          },
-         ["Harness Shadow"]={
-            cost="Triple"
+         {
+            _id="a73ee76a"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="0639c5be"
          }
       },
       base_size_x="28.5",
@@ -10053,20 +10053,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Cursed Darts"]={
-            cost="Double"
+         {
+            _id="27a6269a"
          },
-         ["Instrument of Khaine"]={
-            cost="Double"
+         {
+            _id="c3899b32"
          },
-         ["Shadow Leap"]={
-            cost="Double"
+         {
+            _id="8574d874"
          },
-         ["Dance of Death"]={
-            cost="Triple"
+         {
+            _id="863437da"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="0639c5be"
          }
       },
       base_size_x="28.5",
@@ -10098,20 +10098,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Cursed Darts"]={
-            cost="Double"
+         {
+            _id="27a6269a"
          },
-         ["Instrument of Khaine"]={
-            cost="Double"
+         {
+            _id="c3899b32"
          },
-         ["Shadow Leap"]={
-            cost="Double"
+         {
+            _id="8574d874"
          },
-         ["Dance of Death"]={
-            cost="Triple"
+         {
+            _id="863437da"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="0639c5be"
          }
       },
       base_size_x="28.5",
@@ -10151,17 +10151,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Shadow Leap"]={
-            cost="Double"
+         {
+            _id="8574d874"
          },
-         ["Dance of Death"]={
-            cost="Triple"
+         {
+            _id="863437da"
          },
-         ["Ensnaring Darkness"]={
-            cost="Quad"
+         {
+            _id="7bb5e8da"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="0639c5be"
          }
       },
       base_size_x="40",
@@ -10192,11 +10192,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10227,11 +10227,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Mountain Stance"]={
-            cost="Double"
+         {
+            _id="982850c8"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10262,11 +10262,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Mountain Stance"]={
-            cost="Double"
+         {
+            _id="982850c8"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10299,14 +10299,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Sharp-eyed Scryhawk"]={
-            cost="Triple"
+         {
+            _id="ddf04ee7"
          },
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10346,11 +10346,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10383,14 +10383,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Moonfire Flask"]={
-            cost="Double"
+         {
+            _id="8232a785"
          },
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10422,11 +10422,11 @@ return {
       },
       wounds="16",
       abilities={
-         ["Emotional Transference"]={
-            cost="Triple"
+         {
+            _id="81390092"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10458,11 +10458,11 @@ return {
       },
       wounds="16",
       abilities={
-         ["Mountain Stance"]={
-            cost="Double"
+         {
+            _id="982850c8"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10494,14 +10494,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Perfect Strike"]={
-            cost="Quad"
+         {
+            _id="2e4114a8"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10542,11 +10542,11 @@ return {
       },
       wounds="18",
       abilities={
-         Realmscribe={
-            cost="Double"
+         {
+            _id="273344b9"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10587,11 +10587,11 @@ return {
       },
       wounds="18",
       abilities={
-         ["Lone Agent"]={
-            cost="Double"
+         {
+            _id="26d53a6b"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10631,8 +10631,8 @@ return {
       },
       wounds="18",
       abilities={
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10665,14 +10665,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Perfect Strike"]={
-            cost="Quad"
+         {
+            _id="2e4114a8"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10713,14 +10713,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Go Where the Wind Blows"]={
-            cost="Double"
+         {
+            _id="45a57d8c"
          },
-         ["Move Like the Wind"]={
-            cost="Triple"
+         {
+            _id="593efa51"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="35",
@@ -10753,14 +10753,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Perfect Strike"]={
-            cost="Quad"
+         {
+            _id="2e4114a8"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -10802,11 +10802,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Gravitic Redirection"]={
-            cost="Quad"
+         {
+            _id="7aeeb3c3"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="40",
@@ -10838,14 +10838,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Lances of the Dawn"]={
-            cost="Triple"
+         {
+            _id="8c2e5b33"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="35",
@@ -10887,14 +10887,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Go Where the Wind Blows"]={
-            cost="Double"
+         {
+            _id="45a57d8c"
          },
-         ["Move Like the Wind"]={
-            cost="Triple"
+         {
+            _id="593efa51"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="35",
@@ -10936,11 +10936,11 @@ return {
       },
       wounds="22",
       abilities={
-         ["Move Like the Wind"]={
-            cost="Triple"
+         {
+            _id="593efa51"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="35",
@@ -10973,14 +10973,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Lances of the Dawn"]={
-            cost="Triple"
+         {
+            _id="8c2e5b33"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="35",
@@ -11022,14 +11022,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Lances of the Dawn"]={
-            cost="Triple"
+         {
+            _id="8c2e5b33"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="52",
@@ -11069,11 +11069,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -11105,14 +11105,14 @@ return {
       },
       wounds="14",
       abilities={
-         ["Shining Company"]={
-            cost="Double"
+         {
+            _id="c0016767"
          },
-         ["Perfect Strike"]={
-            cost="Quad"
+         {
+            _id="2e4114a8"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -11143,11 +11143,11 @@ return {
       },
       wounds="14",
       abilities={
-         ["Mountain Stance"]={
-            cost="Double"
+         {
+            _id="982850c8"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          }
       },
       base_size_x="32",
@@ -11188,14 +11188,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Sharp-eyed Scryhawk"]={
-            cost="Triple"
+         {
+            _id="ddf04ee7"
          },
-         ["Blinding Brilliance"]={
-            cost="Reaction"
+         {
+            _id="f9a0b0b3"
          },
-         ["Dazzling Light"]={
-            cost="Triple"
+         {
+            _id="927cb4b0"
          }
       },
       base_size_x="32",
@@ -11226,11 +11226,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="28.5",
@@ -11261,14 +11261,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["You Won't Even Miss It"]={
-            cost="Double"
+         {
+            _id="ccfc40cf"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="28.5",
@@ -11299,11 +11299,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="25",
@@ -11334,11 +11334,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="25",
@@ -11369,11 +11369,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="25",
@@ -11413,14 +11413,14 @@ return {
       },
       wounds="14",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["Tune of the Corpus Somni"]={
-            cost="Triple"
+         {
+            _id="0484e57b"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="40",
@@ -11451,14 +11451,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["Sinister Spymaster"]={
-            cost="Quad"
+         {
+            _id="4b27ad43"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="28.5",
@@ -11489,11 +11489,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="25",
@@ -11525,14 +11525,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["Castelite Formation"]={
-            cost="Double"
+         {
+            _id="64779ea3"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="25",
@@ -11563,14 +11563,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["To Me, Warriors!"]={
-            cost="Triple"
+         {
+            _id="f6eb6f6a"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="28.5",
@@ -11611,14 +11611,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          },
-         ["Enchant Weapons"]={
-            cost="Quad"
+         {
+            _id="9a705dd1"
          }
       },
       base_size_x="25",
@@ -11650,14 +11650,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["Rousing Speech"]={
-            cost="Double"
+         {
+            _id="d58adaf5"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="32",
@@ -11697,11 +11697,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="28.5",
@@ -11742,14 +11742,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["Blazing Weapons"]={
-            cost="Triple"
+         {
+            _id="7189a938"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="32",
@@ -11790,14 +11790,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["Take Aim!"]={
-            cost="Triple"
+         {
+            _id="7e4b2898"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="28.5",
@@ -11838,14 +11838,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["Take Aim!"]={
-            cost="Triple"
+         {
+            _id="7e4b2898"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="32",
@@ -11877,14 +11877,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["Castelite Formation"]={
-            cost="Double"
+         {
+            _id="64779ea3"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="32",
@@ -11916,14 +11916,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["Rousing Speech"]={
-            cost="Double"
+         {
+            _id="d58adaf5"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="32",
@@ -11954,14 +11954,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For Sigmar, Charge!"]={
-            cost="Double"
+         {
+            _id="fbfb0c43"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="35",
@@ -11993,14 +11993,14 @@ return {
       },
       wounds="24",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For Sigmar, Charge!"]={
-            cost="Double"
+         {
+            _id="fbfb0c43"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="35",
@@ -12042,17 +12042,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["Castelite Formation"]={
-            cost="Double"
+         {
+            _id="64779ea3"
          },
-         ["Take Aim!"]={
-            cost="Triple"
+         {
+            _id="7e4b2898"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="50",
@@ -12084,14 +12084,14 @@ return {
       },
       wounds="26",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For Sigmar, Charge!"]={
-            cost="Double"
+         {
+            _id="fbfb0c43"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          }
       },
       base_size_x="42",
@@ -12131,23 +12131,23 @@ return {
       },
       wounds="25",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          },
-         ["Ultimate Resistor"]={
-            cost="Reaction"
+         {
+            _id="387652bc"
          },
-         ["Thunderous Blast"]={
-            cost="Double"
+         {
+            _id="2239ee7f"
          },
-         ["Furious Abandon"]={
-            cost="Triple"
+         {
+            _id="f44687c7"
          },
-         ["Unleashing His Fury"]={
-            cost="Quad"
+         {
+            _id="5f9ed484"
          }
       },
       base_size_x="40",
@@ -12187,23 +12187,23 @@ return {
       },
       wounds="18",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          },
-         ["Ultimate Resistor"]={
-            cost="Reaction"
+         {
+            _id="387652bc"
          },
-         ["Thunderous Blast"]={
-            cost="Double"
+         {
+            _id="2239ee7f"
          },
-         ["Furious Abandon"]={
-            cost="Triple"
+         {
+            _id="f44687c7"
          },
-         ["Unleashing His Fury"]={
-            cost="Quad"
+         {
+            _id="5f9ed484"
          }
       },
       base_size_x="32",
@@ -12243,23 +12243,23 @@ return {
       },
       wounds="12",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          },
-         ["Ultimate Resistor"]={
-            cost="Reaction"
+         {
+            _id="387652bc"
          },
-         ["Thunderous Blast"]={
-            cost="Double"
+         {
+            _id="2239ee7f"
          },
-         ["Furious Abandon"]={
-            cost="Triple"
+         {
+            _id="f44687c7"
          },
-         ["Unleashing His Fury"]={
-            cost="Quad"
+         {
+            _id="5f9ed484"
          }
       },
       base_size_x="25",
@@ -12299,23 +12299,23 @@ return {
       },
       wounds="10",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          },
-         ["Ultimate Resistor"]={
-            cost="Reaction"
+         {
+            _id="387652bc"
          },
-         ["Thunderous Blast"]={
-            cost="Double"
+         {
+            _id="2239ee7f"
          },
-         ["Furious Abandon"]={
-            cost="Triple"
+         {
+            _id="f44687c7"
          },
-         ["Unleashing His Fury"]={
-            cost="Quad"
+         {
+            _id="5f9ed484"
          }
       },
       base_size_x="25",
@@ -12355,23 +12355,23 @@ return {
       },
       wounds="10",
       abilities={
-         ["Castelite Wall"]={
-            cost="Reaction"
+         {
+            _id="be7e8fe2"
          },
-         ["For the Dawn!"]={
-            cost="Quad"
+         {
+            _id="fac70527"
          },
-         ["Ultimate Resistor"]={
-            cost="Reaction"
+         {
+            _id="387652bc"
          },
-         ["Thunderous Blast"]={
-            cost="Double"
+         {
+            _id="2239ee7f"
          },
-         ["Furious Abandon"]={
-            cost="Triple"
+         {
+            _id="f44687c7"
          },
-         ["Unleashing His Fury"]={
-            cost="Quad"
+         {
+            _id="5f9ed484"
          }
       },
       base_size_x="25",
@@ -12411,11 +12411,11 @@ return {
       },
       wounds="25",
       abilities={
-         ["Shield of Azyr"]={
-            cost="Reaction"
+         {
+            _id="af6705e7"
          },
-         ["Storm of Justice"]={
-            cost="Double"
+         {
+            _id="f4925187"
          }
       },
       base_size_x="40",
@@ -12456,11 +12456,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Shield of Azyr"]={
-            cost="Reaction"
+         {
+            _id="af6705e7"
          },
-         ["Nebulous Sea-fog"]={
-            cost="Triple"
+         {
+            _id="ba962bd6"
          }
       },
       base_size_x="40",
@@ -12500,11 +12500,11 @@ return {
       },
       wounds="25",
       abilities={
-         ["Shield of Azyr"]={
-            cost="Reaction"
+         {
+            _id="af6705e7"
          },
-         Headshot={
-            cost="Triple"
+         {
+            _id="cc2a11b5"
          }
       },
       base_size_x="40",
@@ -12535,11 +12535,11 @@ return {
       },
       wounds="25",
       abilities={
-         ["Shield of Azyr"]={
-            cost="Reaction"
+         {
+            _id="af6705e7"
          },
-         ["Storm of Justice"]={
-            cost="Double"
+         {
+            _id="f4925187"
          }
       },
       base_size_x="40",
@@ -12579,11 +12579,11 @@ return {
       },
       wounds="30",
       abilities={
-         ["Shield of Azyr"]={
-            cost="Reaction"
+         {
+            _id="af6705e7"
          },
-         Windrider={
-            cost="Quad"
+         {
+            _id="a6ff68ea"
          }
       },
       base_size_x="40",
@@ -12615,26 +12615,26 @@ return {
       },
       wounds="18",
       abilities={
-         ["Lethal Gyre"]={
-            cost="Reaction"
+         {
+            _id="25a93cd6"
          },
-         Riverblades={
-            cost="Double"
+         {
+            _id="0e14ad5e"
          },
-         ["Rapids Rising Leap"]={
-            cost="Double"
+         {
+            _id="ef131c72"
          },
-         ["Whitecrest Strike"]={
-            cost="Double"
+         {
+            _id="a553063f"
          },
-         ["Standing Wave Stance"]={
-            cost="Triple"
+         {
+            _id="5254442e"
          },
-         ["Release the River"]={
-            cost="Triple"
+         {
+            _id="5be919af"
          },
-         ["Boiling Wrath"]={
-            cost="Quad"
+         {
+            _id="988d3836"
          }
       },
       base_size_x="32",
@@ -12666,26 +12666,26 @@ return {
       },
       wounds="18",
       abilities={
-         ["Lethal Gyre"]={
-            cost="Reaction"
+         {
+            _id="25a93cd6"
          },
-         Riverblades={
-            cost="Double"
+         {
+            _id="0e14ad5e"
          },
-         ["Rapids Rising Leap"]={
-            cost="Double"
+         {
+            _id="ef131c72"
          },
-         ["Whitecrest Strike"]={
-            cost="Double"
+         {
+            _id="a553063f"
          },
-         ["Standing Wave Stance"]={
-            cost="Triple"
+         {
+            _id="5254442e"
          },
-         ["Release the River"]={
-            cost="Triple"
+         {
+            _id="5be919af"
          },
-         ["Boiling Wrath"]={
-            cost="Quad"
+         {
+            _id="988d3836"
          }
       },
       base_size_x="32",
@@ -12717,26 +12717,26 @@ return {
       },
       wounds="18",
       abilities={
-         ["Lethal Gyre"]={
-            cost="Reaction"
+         {
+            _id="25a93cd6"
          },
-         Riverblades={
-            cost="Double"
+         {
+            _id="0e14ad5e"
          },
-         ["Rapids Rising Leap"]={
-            cost="Double"
+         {
+            _id="ef131c72"
          },
-         ["Whitecrest Strike"]={
-            cost="Double"
+         {
+            _id="a553063f"
          },
-         ["Standing Wave Stance"]={
-            cost="Triple"
+         {
+            _id="5254442e"
          },
-         ["Release the River"]={
-            cost="Triple"
+         {
+            _id="5be919af"
          },
-         ["Boiling Wrath"]={
-            cost="Quad"
+         {
+            _id="988d3836"
          }
       },
       base_size_x="32",
@@ -12767,20 +12767,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Lethal Gyre"]={
-            cost="Reaction"
+         {
+            _id="25a93cd6"
          },
-         Riverblades={
-            cost="Double"
+         {
+            _id="0e14ad5e"
          },
-         ["Rapids Rising Leap"]={
-            cost="Double"
+         {
+            _id="ef131c72"
          },
-         ["Standing Wave Stance"]={
-            cost="Triple"
+         {
+            _id="5254442e"
          },
-         ["Boiling Wrath"]={
-            cost="Quad"
+         {
+            _id="988d3836"
          }
       },
       base_size_x="32",
@@ -12811,20 +12811,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Lethal Gyre"]={
-            cost="Reaction"
+         {
+            _id="25a93cd6"
          },
-         Riverblades={
-            cost="Double"
+         {
+            _id="0e14ad5e"
          },
-         ["Rapids Rising Leap"]={
-            cost="Double"
+         {
+            _id="ef131c72"
          },
-         ["Standing Wave Stance"]={
-            cost="Triple"
+         {
+            _id="5254442e"
          },
-         ["Boiling Wrath"]={
-            cost="Quad"
+         {
+            _id="988d3836"
          }
       },
       base_size_x="32",
@@ -12855,17 +12855,17 @@ return {
       },
       wounds="8",
       abilities={
-         ["Lethal Gyre"]={
-            cost="Reaction"
+         {
+            _id="25a93cd6"
          },
-         Riverblades={
-            cost="Double"
+         {
+            _id="0e14ad5e"
          },
-         ["Standing Wave Stance"]={
-            cost="Triple"
+         {
+            _id="5254442e"
          },
-         ["Boiling Wrath"]={
-            cost="Quad"
+         {
+            _id="988d3836"
          }
       },
       base_size_x="28.5",
@@ -12896,17 +12896,17 @@ return {
       },
       wounds="8",
       abilities={
-         ["Lethal Gyre"]={
-            cost="Reaction"
+         {
+            _id="25a93cd6"
          },
-         Riverblades={
-            cost="Double"
+         {
+            _id="0e14ad5e"
          },
-         ["Standing Wave Stance"]={
-            cost="Triple"
+         {
+            _id="5254442e"
          },
-         ["Boiling Wrath"]={
-            cost="Quad"
+         {
+            _id="988d3836"
          }
       },
       base_size_x="28.5",
@@ -12937,17 +12937,17 @@ return {
       },
       wounds="8",
       abilities={
-         ["Agile Climbers"]={
-            cost="Double"
+         {
+            _id="0b3e0162"
          },
-         ["Envenomed Weapons"]={
-            cost="Double"
+         {
+            _id="0bb29a64"
          },
-         ["Hit and Run"]={
-            cost="Quad"
+         {
+            _id="08b62c60"
          },
-         Slippery={
-            cost="Reaction"
+         {
+            _id="133bc02c"
          }
       },
       base_size_x="25",
@@ -12979,20 +12979,20 @@ return {
       },
       wounds="8",
       abilities={
-         ["Agile Climbers"]={
-            cost="Double"
+         {
+            _id="0b3e0162"
          },
-         ["Envenomed Weapons"]={
-            cost="Double"
+         {
+            _id="0bb29a64"
          },
-         ["Hurled Bolas"]={
-            cost="Triple"
+         {
+            _id="50fdb642"
          },
-         ["Hit and Run"]={
-            cost="Quad"
+         {
+            _id="08b62c60"
          },
-         Slippery={
-            cost="Reaction"
+         {
+            _id="133bc02c"
          }
       },
       base_size_x="25",
@@ -13024,20 +13024,20 @@ return {
       },
       wounds="8",
       abilities={
-         ["Agile Climbers"]={
-            cost="Double"
+         {
+            _id="0b3e0162"
          },
-         ["Envenomed Weapons"]={
-            cost="Double"
+         {
+            _id="0bb29a64"
          },
-         ["Call of the Hunt"]={
-            cost="Triple"
+         {
+            _id="fac6ce44"
          },
-         ["Hit and Run"]={
-            cost="Quad"
+         {
+            _id="08b62c60"
          },
-         Slippery={
-            cost="Reaction"
+         {
+            _id="133bc02c"
          }
       },
       base_size_x="25",
@@ -13069,20 +13069,20 @@ return {
       },
       wounds="8",
       abilities={
-         ["Agile Climbers"]={
-            cost="Double"
+         {
+            _id="0b3e0162"
          },
-         ["Envenomed Weapons"]={
-            cost="Double"
+         {
+            _id="0bb29a64"
          },
-         ["Call of the Hunt"]={
-            cost="Triple"
+         {
+            _id="fac6ce44"
          },
-         ["Hit and Run"]={
-            cost="Quad"
+         {
+            _id="08b62c60"
          },
-         Slippery={
-            cost="Reaction"
+         {
+            _id="133bc02c"
          }
       },
       base_size_x="25",
@@ -13114,20 +13114,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Agile Climbers"]={
-            cost="Double"
+         {
+            _id="0b3e0162"
          },
-         ["Envenomed Weapons"]={
-            cost="Double"
+         {
+            _id="0bb29a64"
          },
-         ["Bellow of the Carnosaur"]={
-            cost="Triple"
+         {
+            _id="642e57d4"
          },
-         ["Hit and Run"]={
-            cost="Quad"
+         {
+            _id="08b62c60"
          },
-         Slippery={
-            cost="Reaction"
+         {
+            _id="133bc02c"
          }
       },
       base_size_x="28.5",
@@ -13159,17 +13159,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Agile Climbers"]={
-            cost="Double"
+         {
+            _id="0b3e0162"
          },
-         ["Envenomed Weapons"]={
-            cost="Double"
+         {
+            _id="0bb29a64"
          },
-         ["Hit and Run"]={
-            cost="Quad"
+         {
+            _id="08b62c60"
          },
-         Slippery={
-            cost="Reaction"
+         {
+            _id="133bc02c"
          }
       },
       base_size_x="28.5",
@@ -13202,20 +13202,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Agile Climbers"]={
-            cost="Double"
+         {
+            _id="0b3e0162"
          },
-         ["Envenomed Weapons"]={
-            cost="Double"
+         {
+            _id="0bb29a64"
          },
-         ["Hurled Bolas"]={
-            cost="Triple"
+         {
+            _id="50fdb642"
          },
-         ["Hit and Run"]={
-            cost="Quad"
+         {
+            _id="08b62c60"
          },
-         Slippery={
-            cost="Reaction"
+         {
+            _id="133bc02c"
          }
       },
       base_size_x="28.5",
@@ -13277,14 +13277,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Darting Attack"]={
-            cost="Triple"
+         {
+            _id="5ee74fcf"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13315,14 +13315,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Force of a Falling Star"]={
-            cost="Quad"
+         {
+            _id="bf2c784c"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13353,11 +13353,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13388,14 +13388,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Vanquish the Horde"]={
-            cost="Triple"
+         {
+            _id="05a70c95"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13426,14 +13426,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Force of a Falling Star"]={
-            cost="Quad"
+         {
+            _id="bf2c784c"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13464,14 +13464,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Soul-forged Guardians"]={
-            cost="Double"
+         {
+            _id="695f78d4"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13511,14 +13511,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Guiding Lightning"]={
-            cost="Triple"
+         {
+            _id="fffee111"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13550,17 +13550,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Plant the Banner of the Reforged"]={
-            cost="Double"
+         {
+            _id="6f7de86f"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13591,14 +13591,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13630,17 +13630,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Force of a Falling Star"]={
-            cost="Quad"
+         {
+            _id="bf2c784c"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13672,17 +13672,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Purifying Incense"]={
-            cost="Triple"
+         {
+            _id="fcf85bfd"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13714,17 +13714,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Vanquish the Horde"]={
-            cost="Triple"
+         {
+            _id="05a70c95"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13756,17 +13756,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Force of a Falling Star"]={
-            cost="Quad"
+         {
+            _id="bf2c784c"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13807,17 +13807,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Bolt from the Heavens"]={
-            cost="Double"
+         {
+            _id="01dfa0ae"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13849,17 +13849,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Soul-forged Guardians"]={
-            cost="Double"
+         {
+            _id="695f78d4"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13900,17 +13900,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Guiding Lightning"]={
-            cost="Triple"
+         {
+            _id="fffee111"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -13951,17 +13951,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Draw the Gaze of Sigmar"]={
-            cost="Quad"
+         {
+            _id="9102f333"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="52",
@@ -14002,17 +14002,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Coordinated Strike"]={
-            cost="Triple"
+         {
+            _id="f83bf46f"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -14053,20 +14053,20 @@ return {
       },
       wounds="28",
       abilities={
-         Aetherforce={
-            cost="Double"
+         {
+            _id="1cbf55e2"
          },
-         ["Scouring Blows"]={
-            cost="Double"
+         {
+            _id="4542248b"
          },
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -14107,20 +14107,20 @@ return {
       },
       wounds="30",
       abilities={
-         Aetherforce={
-            cost="Double"
+         {
+            _id="1cbf55e2"
          },
-         ["Electrokinetic Blast"]={
-            cost="Quad"
+         {
+            _id="fcaf3366"
          },
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -14161,20 +14161,20 @@ return {
       },
       wounds="28",
       abilities={
-         Aetherforce={
-            cost="Double"
+         {
+            _id="1cbf55e2"
          },
-         ["Rushing Gales"]={
-            cost="Triple"
+         {
+            _id="edcf7815"
          },
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="40",
@@ -14206,14 +14206,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Darting Attack"]={
-            cost="Triple"
+         {
+            _id="5ee74fcf"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          }
       },
       base_size_x="25",
@@ -14244,17 +14244,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Force of a Falling Star"]={
-            cost="Quad"
+         {
+            _id="bf2c784c"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          },
-         ["Staggering Blow"]={
-            cost="Double"
+         {
+            _id="57997258"
          }
       },
       base_size_x="40",
@@ -14294,17 +14294,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Guiding Lightning"]={
-            cost="Triple"
+         {
+            _id="fffee111"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          },
-         ["Quick Volley"]={
-            cost="Triple"
+         {
+            _id="bea7fb8e"
          }
       },
       base_size_x="40",
@@ -14336,20 +14336,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blaze of Glory"]={
-            cost="Double"
+         {
+            _id="e3826ee2"
          },
-         ["Shock and Awe"]={
-            cost="Double"
+         {
+            _id="326f5fd1"
          },
-         ["Coordinated Strike"]={
-            cost="Triple"
+         {
+            _id="f83bf46f"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="2857d558"
          },
-         ["Lantern Astrala"]={
-            cost="Double"
+         {
+            _id="b0a0b989"
          }
       },
       base_size_x="40",
@@ -14381,14 +14381,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Warning Cry"]={
-            cost="Reaction"
+         {
+            _id="5b61673d"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="32",
@@ -14419,14 +14419,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Darting Attack"]={
-            cost="Triple"
+         {
+            _id="fdd57def"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="40",
@@ -14466,11 +14466,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="40",
@@ -14510,14 +14510,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Righteous Aura"]={
-            cost="Double"
+         {
+            _id="be5f2527"
          },
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="40",
@@ -14557,14 +14557,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Aimed Strike"]={
-            cost="Quad"
+         {
+            _id="fded2018"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="35",
@@ -14605,17 +14605,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Lightning-fast Strikes"]={
-            cost="Double"
+         {
+            _id="f0625e61"
          },
-         ["Righteous Aura"]={
-            cost="Double"
+         {
+            _id="be5f2527"
          },
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="40",
@@ -14655,14 +14655,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Rapid Fire"]={
-            cost="Triple"
+         {
+            _id="7adc00f3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="40",
@@ -14702,14 +14702,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Ride the Winds Aetheric"]={
-            cost="Double"
+         {
+            _id="86a90c64"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="42",
@@ -14751,20 +14751,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Righteous Aura"]={
-            cost="Double"
+         {
+            _id="be5f2527"
          },
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Aimed Strike"]={
-            cost="Quad"
+         {
+            _id="fded2018"
          },
-         ["Warning Cry"]={
-            cost="Reaction"
+         {
+            _id="5b61673d"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="40",
@@ -14804,14 +14804,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Ride the Winds Aetheric"]={
-            cost="Double"
+         {
+            _id="86a90c64"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="42",
@@ -14852,17 +14852,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Righteous Aura"]={
-            cost="Double"
+         {
+            _id="be5f2527"
          },
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Rapid Fire"]={
-            cost="Triple"
+         {
+            _id="7adc00f3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="40",
@@ -14895,17 +14895,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Righteous Aura"]={
-            cost="Double"
+         {
+            _id="be5f2527"
          },
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["The Light of Sigmar"]={
-            cost="Quad"
+         {
+            _id="6908dc7d"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="50",
@@ -14946,17 +14946,17 @@ return {
       },
       wounds="32",
       abilities={
-         ["Righteous Aura"]={
-            cost="Double"
+         {
+            _id="be5f2527"
          },
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Ride the Winds Aetheric"]={
-            cost="Double"
+         {
+            _id="86a90c64"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="42",
@@ -14997,17 +14997,17 @@ return {
       },
       wounds="32",
       abilities={
-         ["Righteous Aura"]={
-            cost="Double"
+         {
+            _id="be5f2527"
          },
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Ride the Winds Aetheric"]={
-            cost="Double"
+         {
+            _id="86a90c64"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="42",
@@ -15048,17 +15048,17 @@ return {
       },
       wounds="38",
       abilities={
-         ["Righteous Aura"]={
-            cost="Double"
+         {
+            _id="be5f2527"
          },
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Ride the Winds Aetheric"]={
-            cost="Double"
+         {
+            _id="86a90c64"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="52",
@@ -15100,17 +15100,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Righteous Aura"]={
-            cost="Double"
+         {
+            _id="be5f2527"
          },
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Star-fated Arrow"]={
-            cost="Triple"
+         {
+            _id="f57e8928"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="50",
@@ -15150,11 +15150,11 @@ return {
       },
       wounds="22",
       abilities={
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="40",
@@ -15194,11 +15194,11 @@ return {
       },
       wounds="22",
       abilities={
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          }
       },
       base_size_x="40",
@@ -15239,17 +15239,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Righteous Aura"]={
-            cost="Double"
+         {
+            _id="be5f2527"
          },
-         ["Tireless Hunters"]={
-            cost="Double"
+         {
+            _id="c5955d4a"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="90f154cc"
          },
-         ["Guided by the Astral Compass"]={
-            cost="Triple"
+         {
+            _id="6a8cfa78"
          }
       },
       base_size_x="40",
@@ -15289,17 +15289,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Runic Flare"]={
-            cost="Reaction"
+         {
+            _id="898148e6"
          },
-         ["Blazing Impetus"]={
-            cost="Double"
+         {
+            _id="7b080e60"
          },
-         ["Ignite Weapon"]={
-            cost="Double"
+         {
+            _id="d854accf"
          },
-         ["Aspect of the Scale"]={
-            cost="Quad"
+         {
+            _id="3321a1f9"
          }
       },
       base_size_x="28.5",
@@ -15339,17 +15339,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Runic Flare"]={
-            cost="Reaction"
+         {
+            _id="898148e6"
          },
-         ["Blazing Impetus"]={
-            cost="Double"
+         {
+            _id="7b080e60"
          },
-         ["Ignite Weapon"]={
-            cost="Double"
+         {
+            _id="d854accf"
          },
-         ["Aspect of the Scale"]={
-            cost="Quad"
+         {
+            _id="3321a1f9"
          }
       },
       base_size_x="28.5",
@@ -15389,17 +15389,17 @@ return {
       },
       wounds="10",
       abilities={
-         Kyndlebreath={
-            cost="Double"
+         {
+            _id="7f6cb9c8"
          },
-         ["Blazing Impetus"]={
-            cost="Double"
+         {
+            _id="7b080e60"
          },
-         ["Ignite Weapon"]={
-            cost="Double"
+         {
+            _id="d854accf"
          },
-         ["Aspect of the Scale"]={
-            cost="Quad"
+         {
+            _id="3321a1f9"
          }
       },
       base_size_x="32",
@@ -15440,20 +15440,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Runic Flare"]={
-            cost="Reaction"
+         {
+            _id="898148e6"
          },
-         ["Blazing Impetus"]={
-            cost="Double"
+         {
+            _id="7b080e60"
          },
-         ["Ignite Weapon"]={
-            cost="Double"
+         {
+            _id="d854accf"
          },
-         ["Creed of Flame"]={
-            cost="Triple"
+         {
+            _id="2b449c1f"
          },
-         ["Aspect of the Scale"]={
-            cost="Quad"
+         {
+            _id="3321a1f9"
          }
       },
       base_size_x="32",
@@ -15494,20 +15494,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Runic Flare"]={
-            cost="Reaction"
+         {
+            _id="898148e6"
          },
-         ["Blazing Impetus"]={
-            cost="Double"
+         {
+            _id="7b080e60"
          },
-         ["Ignite Weapon"]={
-            cost="Double"
+         {
+            _id="d854accf"
          },
-         ["Berserk Rampage"]={
-            cost="Triple"
+         {
+            _id="5f5f7e4f"
          },
-         ["Aspect of the Scale"]={
-            cost="Quad"
+         {
+            _id="3321a1f9"
          }
       },
       base_size_x="32",
@@ -15548,17 +15548,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Runic Flare"]={
-            cost="Reaction"
+         {
+            _id="898148e6"
          },
-         ["Blazing Impetus"]={
-            cost="Double"
+         {
+            _id="7b080e60"
          },
-         ["Ignite Weapon"]={
-            cost="Double"
+         {
+            _id="d854accf"
          },
-         ["Aspect of the Scale"]={
-            cost="Quad"
+         {
+            _id="3321a1f9"
          }
       },
       base_size_x="32",
@@ -15599,17 +15599,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Runic Flare"]={
-            cost="Reaction"
+         {
+            _id="898148e6"
          },
-         ["Blazing Impetus"]={
-            cost="Double"
+         {
+            _id="7b080e60"
          },
-         ["Ignite Weapon"]={
-            cost="Double"
+         {
+            _id="d854accf"
          },
-         ["Aspect of the Scale"]={
-            cost="Quad"
+         {
+            _id="3321a1f9"
          }
       },
       base_size_x="32",
@@ -15641,14 +15641,14 @@ return {
       },
       wounds="45",
       abilities={
-         ["Quick with the Lash"]={
-            cost="Double"
+         {
+            _id="9f01600b"
          },
-         ["Fiery Breath"]={
-            cost="Triple"
+         {
+            _id="69a56b0c"
          },
-         ["Sever One Head, Another Takes Its Place"]={
-            cost="Quad"
+         {
+            _id="98a476a3"
          }
       },
       base_size_x="92",
@@ -15680,14 +15680,14 @@ return {
       },
       wounds="45",
       abilities={
-         ["Quick with the Lash"]={
-            cost="Double"
+         {
+            _id="7a9f79ce"
          },
-         ["Abyssal Howl"]={
-            cost="Triple"
+         {
+            _id="87348921"
          },
-         ["Spiked Tail"]={
-            cost="Quad"
+         {
+            _id="86b60a14"
          }
       },
       base_size_x="92",
@@ -15719,17 +15719,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Thundering Strides"]={
-            cost="Double"
+         {
+            _id="3a2c183b"
          },
-         ["Face Me, Cowards!"]={
-            cost="Triple"
+         {
+            _id="ba51b7f7"
          },
-         ["You Won't Even Slow Me Down"]={
-            cost="Double"
+         {
+            _id="5b24ebcb"
          },
-         ["Swift Retribution"]={
-            cost="Reaction"
+         {
+            _id="838252a4"
          }
       },
       base_size_x="40",
@@ -15761,17 +15761,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Thundering Strides"]={
-            cost="Double"
+         {
+            _id="3a2c183b"
          },
-         ["With the Force of a Thunderbolt"]={
-            cost="Double"
+         {
+            _id="c9ece71e"
          },
-         ["You Won't Even Slow Me Down"]={
-            cost="Double"
+         {
+            _id="5b24ebcb"
          },
-         ["Swift Retribution"]={
-            cost="Reaction"
+         {
+            _id="838252a4"
          }
       },
       base_size_x="40",
@@ -15803,17 +15803,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Thundering Strides"]={
-            cost="Double"
+         {
+            _id="3a2c183b"
          },
-         ["With the Force of a Thunderbolt"]={
-            cost="Double"
+         {
+            _id="c9ece71e"
          },
-         ["You Won't Even Slow Me Down"]={
-            cost="Double"
+         {
+            _id="5b24ebcb"
          },
-         ["Swift Retribution"]={
-            cost="Reaction"
+         {
+            _id="838252a4"
          }
       },
       base_size_x="40",
@@ -15845,17 +15845,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Thundering Strides"]={
-            cost="Double"
+         {
+            _id="3a2c183b"
          },
-         ["With the Force of a Thunderbolt"]={
-            cost="Double"
+         {
+            _id="c9ece71e"
          },
-         ["You Won't Even Slow Me Down"]={
-            cost="Double"
+         {
+            _id="5b24ebcb"
          },
-         ["Swift Retribution"]={
-            cost="Reaction"
+         {
+            _id="838252a4"
          }
       },
       base_size_x="40",
@@ -15896,17 +15896,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Thundering Strides"]={
-            cost="Double"
+         {
+            _id="3a2c183b"
          },
-         Translocation={
-            cost="Quad"
+         {
+            _id="54b02d01"
          },
-         ["You Won't Even Slow Me Down"]={
-            cost="Double"
+         {
+            _id="5b24ebcb"
          },
-         ["Swift Retribution"]={
-            cost="Reaction"
+         {
+            _id="838252a4"
          }
       },
       base_size_x="40",
@@ -15938,17 +15938,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Thundering Strides"]={
-            cost="Double"
+         {
+            _id="3a2c183b"
          },
-         ["Searing Light"]={
-            cost="Triple"
+         {
+            _id="3e3777bd"
          },
-         ["You Won't Even Slow Me Down"]={
-            cost="Double"
+         {
+            _id="5b24ebcb"
          },
-         ["Swift Retribution"]={
-            cost="Reaction"
+         {
+            _id="838252a4"
          }
       },
       base_size_x="40",
@@ -15979,14 +15979,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Thundering Strides"]={
-            cost="Double"
+         {
+            _id="3a2c183b"
          },
-         ["You Won't Even Slow Me Down"]={
-            cost="Double"
+         {
+            _id="5b24ebcb"
          },
-         ["Swift Retribution"]={
-            cost="Reaction"
+         {
+            _id="838252a4"
          }
       },
       base_size_x="40",
@@ -16017,14 +16017,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Walk the Spirit Paths"]={
-            cost="Triple"
+         {
+            _id="43d14552"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16055,14 +16055,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Enrapturing Song"]={
-            cost="Triple"
+         {
+            _id="4f3d198b"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16093,14 +16093,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Shrieking Terror"]={
-            cost="Double"
+         {
+            _id="20404631"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16132,17 +16132,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Walk the Spirit Paths"]={
-            cost="Triple"
+         {
+            _id="43d14552"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16174,17 +16174,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Walk the Spirit Paths"]={
-            cost="Triple"
+         {
+            _id="43d14552"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16225,14 +16225,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Larval Shafts"]={
-            cost="Double"
+         {
+            _id="ae21c6f1"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16264,17 +16264,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Enrapturing Song"]={
-            cost="Triple"
+         {
+            _id="4f3d198b"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16306,17 +16306,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Shrieking Terror"]={
-            cost="Double"
+         {
+            _id="20404631"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16357,17 +16357,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Blessing of the Forest"]={
-            cost="Triple"
+         {
+            _id="8d12cf45"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16408,17 +16408,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Swarm of Spites"]={
-            cost="Double"
+         {
+            _id="e90fc819"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16450,14 +16450,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Thrumming with Life"]={
-            cost="Quad"
+         {
+            _id="9fb23a1b"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="60",
@@ -16499,17 +16499,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Larval Shafts"]={
-            cost="Double"
+         {
+            _id="ae21c6f1"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -16540,11 +16540,11 @@ return {
       },
       wounds="28",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="50",
@@ -16575,11 +16575,11 @@ return {
       },
       wounds="28",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="50",
@@ -16611,14 +16611,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Thrumming with Life"]={
-            cost="Quad"
+         {
+            _id="9fb23a1b"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="60",
@@ -16658,11 +16658,11 @@ return {
       },
       wounds="28",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="50",
@@ -16695,17 +16695,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Thrumming with Life"]={
-            cost="Quad"
+         {
+            _id="9fb23a1b"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="60",
@@ -16736,14 +16736,14 @@ return {
       },
       wounds="32",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="50",
@@ -16776,17 +16776,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Thrumming with Life"]={
-            cost="Quad"
+         {
+            _id="9fb23a1b"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="60",
@@ -16817,14 +16817,14 @@ return {
       },
       wounds="32",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="50",
@@ -16864,14 +16864,14 @@ return {
       },
       wounds="32",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="50",
@@ -16904,20 +16904,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Zephyrspite's Tail Pincers"]={
-            cost="Double"
+         {
+            _id="6d4ff90b"
          },
-         ["Call to Battle"]={
-            cost="Triple"
+         {
+            _id="009640ab"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="40",
@@ -16948,11 +16948,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="25",
@@ -16983,11 +16983,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -17027,11 +17027,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -17062,14 +17062,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Might of Kurnoth"]={
-            cost="Triple"
+         {
+            _id="c29c2e03"
          },
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="32",
@@ -17101,14 +17101,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          }
       },
       base_size_x="25",
@@ -17148,14 +17148,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          },
-         ["Vigour and Wrath"]={
-            cost="Double"
+         {
+            _id="39080dc4"
          }
       },
       base_size_x="32",
@@ -17186,14 +17186,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          },
-         ["Vigour and Wrath"]={
-            cost="Double"
+         {
+            _id="39080dc4"
          }
       },
       base_size_x="32",
@@ -17224,14 +17224,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          },
-         ["Vigour and Wrath"]={
-            cost="Double"
+         {
+            _id="39080dc4"
          }
       },
       base_size_x="32",
@@ -17271,20 +17271,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Draw from the Spirit-song"]={
-            cost="Double"
+         {
+            _id="7eef6cb9"
          },
-         ["Envoy of the Everqueen"]={
-            cost="Quad"
+         {
+            _id="88c6da2f"
          },
-         ["Vengeful Spites"]={
-            cost="Reaction"
+         {
+            _id="4f03b091"
          },
-         ["Vigour and Wrath"]={
-            cost="Double"
+         {
+            _id="39080dc4"
          },
-         ["The Reaping"]={
-            cost="Quad"
+         {
+            _id="a78a0f6d"
          }
       },
       base_size_x="32",
@@ -17315,14 +17315,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Sweeping Blow"]={
-            cost="Double"
+         {
+            _id="094f07e8"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="32",
@@ -17362,14 +17362,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Storm Fire"]={
-            cost="Double"
+         {
+            _id="e9d22c1c"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="32",
@@ -17410,17 +17410,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         Riptide={
-            cost="Double"
+         {
+            _id="fe0cb3c3"
          },
-         ["High Tide"]={
-            cost="Triple"
+         {
+            _id="be1c62dd"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="32",
@@ -17452,17 +17452,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["High Tide"]={
-            cost="Triple"
+         {
+            _id="be1c62dd"
          },
-         ["Scryfish Shoal"]={
-            cost="Triple"
+         {
+            _id="997d8ddd"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="32",
@@ -17494,17 +17494,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["High Tide"]={
-            cost="Triple"
+         {
+            _id="be1c62dd"
          },
-         ["Way of the Depths"]={
-            cost="Triple"
+         {
+            _id="4d837d86"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="32",
@@ -17536,14 +17536,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Biovoltaic Barrier"]={
-            cost="Triple"
+         {
+            _id="60bba3cb"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="35",
@@ -17584,17 +17584,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Hangman's Knot"]={
-            cost="Double"
+         {
+            _id="7c49099a"
          },
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["High Tide"]={
-            cost="Triple"
+         {
+            _id="be1c62dd"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="40",
@@ -17626,14 +17626,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Biovoltaic Blast"]={
-            cost="Quad"
+         {
+            _id="190ec318"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="35",
@@ -17666,17 +17666,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Biovoltaic Barrier"]={
-            cost="Triple"
+         {
+            _id="60bba3cb"
          },
-         ["High Tide"]={
-            cost="Triple"
+         {
+            _id="be1c62dd"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="35",
@@ -17709,17 +17709,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["High Tide"]={
-            cost="Triple"
+         {
+            _id="be1c62dd"
          },
-         ["Biovoltaic Blast"]={
-            cost="Quad"
+         {
+            _id="190ec318"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="35",
@@ -17752,17 +17752,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Storm of Blows"]={
-            cost="Double"
+         {
+            _id="f498473c"
          },
-         ["High Tide"]={
-            cost="Triple"
+         {
+            _id="be1c62dd"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="60",
@@ -17795,17 +17795,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Storm of Blows"]={
-            cost="Double"
+         {
+            _id="f498473c"
          },
-         ["High Tide"]={
-            cost="Triple"
+         {
+            _id="be1c62dd"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="60",
@@ -17837,11 +17837,11 @@ return {
       },
       wounds="6",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="25",
@@ -17872,14 +17872,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Riptide Harpoon"]={
-            cost="Triple"
+         {
+            _id="f5bce2eb"
          },
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="32",
@@ -17910,11 +17910,11 @@ return {
       },
       wounds="16",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="32",
@@ -17945,11 +17945,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="32",
@@ -17989,17 +17989,17 @@ return {
       },
       wounds="24",
       abilities={
-         Soulnet={
-            cost="Double"
+         {
+            _id="efc50c98"
          },
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["High Tide"]={
-            cost="Triple"
+         {
+            _id="be1c62dd"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          }
       },
       base_size_x="32",
@@ -18039,17 +18039,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["High Tide"]={
-            cost="Triple"
+         {
+            _id="be1c62dd"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          },
-         Hammertide={
-            cost="Triple"
+         {
+            _id="06b33bb6"
          }
       },
       base_size_x="32",
@@ -18089,17 +18089,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Sweeping Blow"]={
-            cost="Double"
+         {
+            _id="094f07e8"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          },
-         ["Hurl Lanmari Blade"]={
-            cost="Double"
+         {
+            _id="7479b3ed"
          }
       },
       base_size_x="32",
@@ -18139,17 +18139,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Sweeping Blow"]={
-            cost="Double"
+         {
+            _id="094f07e8"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          },
-         ["Hurl Lanmari Blade"]={
-            cost="Double"
+         {
+            _id="7479b3ed"
          }
       },
       base_size_x="32",
@@ -18180,17 +18180,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Low Tide"]={
-            cost="Double"
+         {
+            _id="10f4fc28"
          },
-         ["Fade from Memory"]={
-            cost="Reaction"
+         {
+            _id="f76c0a5e"
          },
-         ["Ink Jet"]={
-            cost="Reaction"
+         {
+            _id="6d695b7a"
          },
-         ["Crushing Wrap"]={
-            cost="Quad"
+         {
+            _id="c5c07e49"
          }
       },
       base_size_x="40",
@@ -18290,11 +18290,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Grim Resolve"]={
-            cost="Reaction"
+         {
+            _id="f223520e"
          },
-         ["Hallowed Vengeance"]={
-            cost="Quad"
+         {
+            _id="928b8ab0"
          }
       },
       base_size_x="28.5",
@@ -18325,11 +18325,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Grim Resolve"]={
-            cost="Reaction"
+         {
+            _id="f223520e"
          },
-         ["Hallowed Vengeance"]={
-            cost="Quad"
+         {
+            _id="928b8ab0"
          }
       },
       base_size_x="32",
@@ -18370,14 +18370,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Grim Resolve"]={
-            cost="Reaction"
+         {
+            _id="f223520e"
          },
-         ["Brand of Righteousness"]={
-            cost="Triple"
+         {
+            _id="acdc7595"
          },
-         ["Hallowed Vengeance"]={
-            cost="Quad"
+         {
+            _id="928b8ab0"
          }
       },
       base_size_x="28.5",
@@ -18418,14 +18418,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Explosive Bolts"]={
-            cost="Double"
+         {
+            _id="68f565a2"
          },
-         ["Grim Resolve"]={
-            cost="Reaction"
+         {
+            _id="f223520e"
          },
-         ["Hallowed Vengeance"]={
-            cost="Quad"
+         {
+            _id="928b8ab0"
          }
       },
       base_size_x="28.5",
@@ -18467,17 +18467,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Grim Resolve"]={
-            cost="Reaction"
+         {
+            _id="f223520e"
          },
-         ["Brand of Righteousness"]={
-            cost="Triple"
+         {
+            _id="acdc7595"
          },
-         ["Hallowed Vengeance"]={
-            cost="Quad"
+         {
+            _id="928b8ab0"
          },
-         ["Right Tool for the Job"]={
-            cost="Triple"
+         {
+            _id="955712d2"
          }
       },
       base_size_x="28.5",
@@ -18518,14 +18518,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Grim Resolve"]={
-            cost="Reaction"
+         {
+            _id="f223520e"
          },
-         ["Hallowed Vengeance"]={
-            cost="Quad"
+         {
+            _id="928b8ab0"
          },
-         ["Give 'Em Both Barrels"]={
-            cost="Triple"
+         {
+            _id="56c1f56c"
          }
       },
       base_size_x="28.5",
@@ -18557,14 +18557,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Grim Resolve"]={
-            cost="Reaction"
+         {
+            _id="f223520e"
          },
-         ["Hallowed Vengeance"]={
-            cost="Quad"
+         {
+            _id="928b8ab0"
          },
-         ["They Will Break Upon My Shield"]={
-            cost="Triple"
+         {
+            _id="fd209b57"
          }
       },
       base_size_x="40",
@@ -18604,8 +18604,8 @@ return {
       },
       wounds="15",
       abilities={
-         ["Secrets from the Shadows"]={
-            cost="Triple"
+         {
+            _id="00dbeb85"
          }
       },
       base_size_x="28.5",
@@ -18637,8 +18637,8 @@ return {
       },
       wounds="15",
       abilities={
-         ["Tangle Them Up"]={
-            cost="Triple"
+         {
+            _id="40b73e05"
          }
       },
       base_size_x="28.5",
@@ -18699,11 +18699,11 @@ return {
       },
       wounds="6",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Death Grip"]={
-            cost="Double"
+         {
+            _id="a4350dad"
          }
       },
       base_size_x="25",
@@ -18743,14 +18743,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="481d3beb"
          },
-         ["Regroup!"]={
-            cost="Quad"
+         {
+            _id="23ad24c1"
          }
       },
       base_size_x="25",
@@ -18790,14 +18790,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="481d3beb"
          },
-         ["Regroup!"]={
-            cost="Quad"
+         {
+            _id="23ad24c1"
          }
       },
       base_size_x="25",
@@ -18838,17 +18838,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="481d3beb"
          },
-         ["Trailblazer's Might"]={
-            cost="Triple"
+         {
+            _id="75157160"
          },
-         ["Regroup!"]={
-            cost="Quad"
+         {
+            _id="23ad24c1"
          }
       },
       base_size_x="28.5",
@@ -18880,17 +18880,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="481d3beb"
          },
-         ["Trailblazer's Might"]={
-            cost="Triple"
+         {
+            _id="75157160"
          },
-         ["Regroup!"]={
-            cost="Quad"
+         {
+            _id="23ad24c1"
          }
       },
       base_size_x="28.5",
@@ -18922,17 +18922,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="481d3beb"
          },
-         ["Hunter's Eye"]={
-            cost="Double"
+         {
+            _id="29090cad"
          },
-         ["Regroup!"]={
-            cost="Quad"
+         {
+            _id="23ad24c1"
          }
       },
       base_size_x="28.5",
@@ -18973,17 +18973,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="481d3beb"
          },
-         ["Hunter's Eye"]={
-            cost="Double"
+         {
+            _id="29090cad"
          },
-         ["Regroup!"]={
-            cost="Quad"
+         {
+            _id="23ad24c1"
          }
       },
       base_size_x="28.5",
@@ -19016,17 +19016,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="481d3beb"
          },
-         ["Hunter's Eye"]={
-            cost="Double"
+         {
+            _id="29090cad"
          },
-         ["Regroup!"]={
-            cost="Quad"
+         {
+            _id="23ad24c1"
          }
       },
       base_size_x="40",
@@ -19059,17 +19059,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="481d3beb"
          },
-         ["Kill!"]={
-            cost="Triple"
+         {
+            _id="071c01f6"
          },
-         ["Regroup!"]={
-            cost="Quad"
+         {
+            _id="23ad24c1"
          }
       },
       base_size_x="40",
@@ -19111,17 +19111,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="481d3beb"
          },
-         ["Hunter's Eye"]={
-            cost="Double"
+         {
+            _id="29090cad"
          },
-         ["Regroup!"]={
-            cost="Quad"
+         {
+            _id="23ad24c1"
          }
       },
       base_size_x="40",
@@ -19161,14 +19161,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Smart Step Backwards"]={
-            cost="Reaction"
+         {
+            _id="ce5ea450"
          },
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="481d3beb"
          },
-         ["Regroup!"]={
-            cost="Quad"
+         {
+            _id="23ad24c1"
          }
       },
       base_size_x="40",
@@ -19199,14 +19199,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Darting Attack"]={
-            cost="Triple"
+         {
+            _id="212678fb"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19238,17 +19238,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Sigmarite Shield Bash"]={
-            cost="Double"
+         {
+            _id="bdfcb284"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19280,17 +19280,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Sigmarite Shield Bash"]={
-            cost="Double"
+         {
+            _id="bdfcb284"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19321,14 +19321,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Earth-shattering Blow"]={
-            cost="Quad"
+         {
+            _id="8efe94c3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19359,14 +19359,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Earth-shattering Blow"]={
-            cost="Quad"
+         {
+            _id="8efe94c3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19397,14 +19397,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19435,14 +19435,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19473,14 +19473,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Earth-shattering Blow"]={
-            cost="Quad"
+         {
+            _id="8efe94c3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19511,14 +19511,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19549,14 +19549,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Earth-shattering Blow"]={
-            cost="Quad"
+         {
+            _id="8efe94c3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19587,14 +19587,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19627,20 +19627,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Sigmarite Shield Bash"]={
-            cost="Double"
+         {
+            _id="bdfcb284"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19672,17 +19672,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Tempest Winds"]={
-            cost="Quad"
+         {
+            _id="f1dcea64"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19715,20 +19715,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Sigmarite Shield Bash"]={
-            cost="Double"
+         {
+            _id="bdfcb284"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19760,17 +19760,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Lightning Storm"]={
-            cost="Triple"
+         {
+            _id="3721f845"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19802,17 +19802,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Lantern of Abjuration"]={
-            cost="Double"
+         {
+            _id="7e1800a5"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19844,17 +19844,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Earth-shattering Blow"]={
-            cost="Quad"
+         {
+            _id="8efe94c3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19886,17 +19886,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Tempest Winds"]={
-            cost="Quad"
+         {
+            _id="f1dcea64"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19928,17 +19928,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Earth-shattering Blow"]={
-            cost="Quad"
+         {
+            _id="8efe94c3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -19970,17 +19970,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Sigmarite Shield Bash"]={
-            cost="Double"
+         {
+            _id="bdfcb284"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20012,17 +20012,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20054,17 +20054,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20104,11 +20104,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20140,17 +20140,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Warding Lantern"]={
-            cost="Triple"
+         {
+            _id="1ac592af"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20182,17 +20182,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Earth-shattering Blow"]={
-            cost="Quad"
+         {
+            _id="8efe94c3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20232,11 +20232,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20277,17 +20277,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Sigmarite Shield Bash"]={
-            cost="Double"
+         {
+            _id="bdfcb284"
          },
-         ["Wings of Divine Life"]={
-            cost="Double"
+         {
+            _id="312c27f0"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20319,17 +20319,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Warcloak's Storm Magic"]={
-            cost="Double"
+         {
+            _id="c85bbc80"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20370,17 +20370,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Sigmarite Shield Bash"]={
-            cost="Double"
+         {
+            _id="bdfcb284"
          },
-         ["Wings of Divine Life"]={
-            cost="Double"
+         {
+            _id="312c27f0"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20420,14 +20420,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Wings of Divine Life"]={
-            cost="Double"
+         {
+            _id="312c27f0"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20467,14 +20467,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20505,14 +20505,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Wings of Divine Life"]={
-            cost="Double"
+         {
+            _id="312c27f0"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20552,11 +20552,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20596,14 +20596,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20644,17 +20644,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Sigmarite Shield Bash"]={
-            cost="Double"
+         {
+            _id="bdfcb284"
          },
-         ["Wings of Divine Life"]={
-            cost="Double"
+         {
+            _id="312c27f0"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20694,11 +20694,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20729,14 +20729,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Wings of Divine Life"]={
-            cost="Double"
+         {
+            _id="312c27f0"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20767,14 +20767,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Wings of Divine Life"]={
-            cost="Double"
+         {
+            _id="312c27f0"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20815,17 +20815,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Wings of Divine Life"]={
-            cost="Double"
+         {
+            _id="312c27f0"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20867,20 +20867,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Sigmarite Shield Bash"]={
-            cost="Double"
+         {
+            _id="bdfcb284"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Wings of Divine Life"]={
-            cost="Double"
+         {
+            _id="312c27f0"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20921,17 +20921,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Wings of Divine Life"]={
-            cost="Double"
+         {
+            _id="312c27f0"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -20963,20 +20963,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Heroic Guard"]={
-            cost="Double"
+         {
+            _id="54330cc8"
          },
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Sigmarite Shield Bash"]={
-            cost="Double"
+         {
+            _id="bdfcb284"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -21007,17 +21007,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Heroic Guard"]={
-            cost="Double"
+         {
+            _id="54330cc8"
          },
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -21049,20 +21049,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Heroic Guard"]={
-            cost="Double"
+         {
+            _id="54330cc8"
          },
-         ["Furious Avengers"]={
-            cost="Double"
+         {
+            _id="6641bbd3"
          },
-         ["Lay Low the Tyrants"]={
-            cost="Double"
+         {
+            _id="249422d1"
          },
-         ["Staunch Defender"]={
-            cost="Double"
+         {
+            _id="bbf887b2"
          },
-         ["Thunderous Departure"]={
-            cost="Reaction"
+         {
+            _id="8cb2d5ee"
          }
       },
       base_size_x="40",
@@ -21093,14 +21093,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="25",
@@ -21131,14 +21131,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="25",
@@ -21169,14 +21169,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="25",
@@ -21207,14 +21207,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="25",
@@ -21245,17 +21245,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="25",
@@ -21286,17 +21286,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="25",
@@ -21328,20 +21328,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         Witchbrew={
-            cost="Double"
+         {
+            _id="971edd8f"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="25",
@@ -21381,17 +21381,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Doomfire Bolt"]={
-            cost="Triple"
+         {
+            _id="dd4d59b4"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="35",
@@ -21423,17 +21423,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Death on the Wind"]={
-            cost="Quad"
+         {
+            _id="ce7caf2f"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -21465,17 +21465,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Death on the Wind"]={
-            cost="Quad"
+         {
+            _id="ce7caf2f"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -21506,17 +21506,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Turned to Crystal"]={
-            cost="Double"
+         {
+            _id="1ea8e8d5"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -21557,20 +21557,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Doomfire Bolt"]={
-            cost="Triple"
+         {
+            _id="dd4d59b4"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="35",
@@ -21602,20 +21602,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Orgy of Slaughter"]={
-            cost="Quad"
+         {
+            _id="55556335"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="25",
@@ -21655,17 +21655,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         Heartseekers={
-            cost="Triple"
+         {
+            _id="f40299bf"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -21697,20 +21697,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Killing Stroke"]={
-            cost="Double"
+         {
+            _id="1d8101c7"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="32",
@@ -21743,20 +21743,20 @@ return {
       },
       wounds="15",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Death on the Wind"]={
-            cost="Quad"
+         {
+            _id="ce7caf2f"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -21789,20 +21789,20 @@ return {
       },
       wounds="15",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Death on the Wind"]={
-            cost="Quad"
+         {
+            _id="ce7caf2f"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -21843,20 +21843,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         Heartseekers={
-            cost="Triple"
+         {
+            _id="f40299bf"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -21897,20 +21897,20 @@ return {
       },
       wounds="28",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Turned to Crystal"]={
-            cost="Double"
+         {
+            _id="1ea8e8d5"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -21942,20 +21942,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Turned to Crystal"]={
-            cost="Double"
+         {
+            _id="1ea8e8d5"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -21987,20 +21987,20 @@ return {
       },
       wounds="35",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Bloodwrack Stare"]={
-            cost="Triple"
+         {
+            _id="27ef2336"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -22031,26 +22031,26 @@ return {
       },
       wounds="8",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          },
-         ["Peerless Combatant"]={
-            cost="Double"
+         {
+            _id="2c353eb1"
          },
-         ["Combination Attack"]={
-            cost="Triple"
+         {
+            _id="b3047b15"
          },
-         ["Marshal the Bladestorm"]={
-            cost="Triple"
+         {
+            _id="be42bda3"
          },
-         ["Acrobatic Display"]={
-            cost="Reaction"
+         {
+            _id="b3eb52dd"
          }
       },
       base_size_x="28.5",
@@ -22081,26 +22081,26 @@ return {
       },
       wounds="8",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          },
-         ["Peerless Combatant"]={
-            cost="Double"
+         {
+            _id="2c353eb1"
          },
-         ["Combination Attack"]={
-            cost="Triple"
+         {
+            _id="b3047b15"
          },
-         ["Marshal the Bladestorm"]={
-            cost="Triple"
+         {
+            _id="be42bda3"
          },
-         ["Acrobatic Display"]={
-            cost="Reaction"
+         {
+            _id="b3eb52dd"
          }
       },
       base_size_x="28.5",
@@ -22131,26 +22131,26 @@ return {
       },
       wounds="8",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          },
-         ["Peerless Combatant"]={
-            cost="Double"
+         {
+            _id="2c353eb1"
          },
-         ["Combination Attack"]={
-            cost="Triple"
+         {
+            _id="b3047b15"
          },
-         ["Marshal the Bladestorm"]={
-            cost="Triple"
+         {
+            _id="be42bda3"
          },
-         ["Acrobatic Display"]={
-            cost="Reaction"
+         {
+            _id="b3eb52dd"
          }
       },
       base_size_x="28.5",
@@ -22181,26 +22181,26 @@ return {
       },
       wounds="8",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          },
-         ["Peerless Combatant"]={
-            cost="Double"
+         {
+            _id="2c353eb1"
          },
-         ["Combination Attack"]={
-            cost="Triple"
+         {
+            _id="b3047b15"
          },
-         ["Marshal the Bladestorm"]={
-            cost="Triple"
+         {
+            _id="be42bda3"
          },
-         ["Acrobatic Display"]={
-            cost="Reaction"
+         {
+            _id="b3eb52dd"
          }
       },
       base_size_x="28.5",
@@ -22231,29 +22231,29 @@ return {
       },
       wounds="20",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          },
-         ["Peerless Combatant"]={
-            cost="Double"
+         {
+            _id="2c353eb1"
          },
-         ["Combination Attack"]={
-            cost="Triple"
+         {
+            _id="b3047b15"
          },
-         ["Marshal the Bladestorm"]={
-            cost="Triple"
+         {
+            _id="be42bda3"
          },
-         ["Acrobatic Display"]={
-            cost="Reaction"
+         {
+            _id="b3eb52dd"
          }
       },
       base_size_x="32",
@@ -22284,14 +22284,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="32",
@@ -22322,14 +22322,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="32",
@@ -22360,14 +22360,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="32",
@@ -22399,23 +22399,23 @@ return {
       },
       wounds="22",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         Witchbrew={
-            cost="Double"
+         {
+            _id="971edd8f"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          },
-         ["Daughters of the First Temple"]={
-            cost="Double"
+         {
+            _id="98ece5ab"
          }
       },
       base_size_x="32",
@@ -22455,17 +22455,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         Heartseekers={
-            cost="Triple"
+         {
+            _id="f40299bf"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          }
       },
       base_size_x="40",
@@ -22505,23 +22505,23 @@ return {
       },
       wounds="12",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="ab45a9bd"
          },
-         ["Shadestalker Darts"]={
-            cost="Double"
+         {
+            _id="3b009c24"
          },
-         ["Gloomweb Hex"]={
-            cost="Triple"
+         {
+            _id="2c3fa72f"
          }
       },
       base_size_x="28.5",
@@ -22552,20 +22552,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="ab45a9bd"
          },
-         ["Shadestalker Darts"]={
-            cost="Double"
+         {
+            _id="3b009c24"
          }
       },
       base_size_x="28.5",
@@ -22596,20 +22596,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="ab45a9bd"
          },
-         ["Shadestalker Darts"]={
-            cost="Double"
+         {
+            _id="3b009c24"
          }
       },
       base_size_x="28.5",
@@ -22640,26 +22640,26 @@ return {
       },
       wounds="20",
       abilities={
-         ["Bathe In Blood"]={
-            cost="Double"
+         {
+            _id="879f9846"
          },
-         ["Sacrifice to Khaine"]={
-            cost="Triple"
+         {
+            _id="b87b3267"
          },
-         ["Slaughter's Strength"]={
-            cost="Triple"
+         {
+            _id="26f66ad2"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="4e213d1d"
          },
-         ["Slip Between Shadows"]={
-            cost="Reaction"
+         {
+            _id="ab45a9bd"
          },
-         ["Shadestalker Darts"]={
-            cost="Double"
+         {
+            _id="3b009c24"
          },
-         ["Shadow Ambush"]={
-            cost="Quad"
+         {
+            _id="e3a5da77"
          }
       },
       base_size_x="40",
@@ -22690,17 +22690,17 @@ return {
       },
       wounds="12",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         ["Stand Together"]={
-            cost="Double"
+         {
+            _id="c955b2cf"
          }
       },
       base_size_x="25",
@@ -22731,17 +22731,17 @@ return {
       },
       wounds="12",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         ["Back In My Day..."]={
-            cost="Double"
+         {
+            _id="650dced5"
          }
       },
       base_size_x="25",
@@ -22772,17 +22772,17 @@ return {
       },
       wounds="12",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         Kingsguard={
-            cost="Double"
+         {
+            _id="aa014211"
          }
       },
       base_size_x="25",
@@ -22813,17 +22813,17 @@ return {
       },
       wounds="12",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         ["Back In My Day..."]={
-            cost="Double"
+         {
+            _id="650dced5"
          }
       },
       base_size_x="25",
@@ -22863,17 +22863,17 @@ return {
       },
       wounds="12",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         ["Flesh-melting Torrent"]={
-            cost="Triple"
+         {
+            _id="190c721a"
          }
       },
       base_size_x="25",
@@ -22914,17 +22914,17 @@ return {
       },
       wounds="16",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         ["Stand Together"]={
-            cost="Double"
+         {
+            _id="c955b2cf"
          }
       },
       base_size_x="25",
@@ -22956,17 +22956,17 @@ return {
       },
       wounds="16",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         ["Back In My Day..."]={
-            cost="Double"
+         {
+            _id="650dced5"
          }
       },
       base_size_x="25",
@@ -22998,17 +22998,17 @@ return {
       },
       wounds="20",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         Forgefire={
-            cost="Double"
+         {
+            _id="8f77042d"
          }
       },
       base_size_x="25",
@@ -23040,17 +23040,17 @@ return {
       },
       wounds="16",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         Kingsguard={
-            cost="Double"
+         {
+            _id="aa014211"
          }
       },
       base_size_x="25",
@@ -23082,17 +23082,17 @@ return {
       },
       wounds="22",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         ["Fearless Leader"]={
-            cost="Quad"
+         {
+            _id="c9708363"
          }
       },
       base_size_x="25",
@@ -23133,17 +23133,17 @@ return {
       },
       wounds="20",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         ["Raking Fire"]={
-            cost="Triple"
+         {
+            _id="d9a24311"
          }
       },
       base_size_x="25",
@@ -23184,17 +23184,17 @@ return {
       },
       wounds="16",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          },
-         ["Flesh-melting Torrent"]={
-            cost="Triple"
+         {
+            _id="190c721a"
          }
       },
       base_size_x="25",
@@ -23234,14 +23234,14 @@ return {
       },
       wounds="22",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          }
       },
       base_size_x="50",
@@ -23281,14 +23281,14 @@ return {
       },
       wounds="25",
       abilities={
-         Grudgebearers={
-            cost="Reaction"
+         {
+            _id="4aaba4d0"
          },
-         ["Grim Last Stand"]={
-            cost="Double"
+         {
+            _id="4e9bf91b"
          },
-         ["Over My Dead Body"]={
-            cost="Double"
+         {
+            _id="fe6e96a6"
          }
       },
       base_size_x="50",
@@ -23319,14 +23319,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -23358,17 +23358,17 @@ return {
       },
       wounds="8",
       abilities={
-         ["Hunting Pack"]={
-            cost="Double"
+         {
+            _id="fc86e672"
          },
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -23408,14 +23408,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -23455,14 +23455,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -23493,14 +23493,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="32",
@@ -23531,14 +23531,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="32",
@@ -23570,17 +23570,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -23621,17 +23621,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -23662,14 +23662,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="32",
@@ -23711,20 +23711,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Tide of Serpents"]={
-            cost="Double"
+         {
+            _id="eece11bc"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -23755,11 +23755,11 @@ return {
       },
       wounds="16",
       abilities={
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="35",
@@ -23791,17 +23791,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="32",
@@ -23832,11 +23832,11 @@ return {
       },
       wounds="16",
       abilities={
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="35",
@@ -23878,20 +23878,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Tide of Serpents"]={
-            cost="Double"
+         {
+            _id="eece11bc"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -23924,20 +23924,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Revivifying Energies"]={
-            cost="Quad"
+         {
+            _id="9fb8d738"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="40",
@@ -23969,14 +23969,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="35",
@@ -24008,14 +24008,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="35",
@@ -24047,14 +24047,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Voracious Appetite"]={
-            cost="Double"
+         {
+            _id="b4a104fc"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="50",
@@ -24095,14 +24095,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Meteoric Barrage"]={
-            cost="Triple"
+         {
+            _id="0bcb02c6"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="50",
@@ -24143,14 +24143,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Meteoric Barrage"]={
-            cost="Triple"
+         {
+            _id="0bcb02c6"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="50",
@@ -24182,17 +24182,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="32",
@@ -24224,17 +24224,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="32",
@@ -24265,14 +24265,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="50",
@@ -24304,17 +24304,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="32",
@@ -24347,17 +24347,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Tide of Serpents"]={
-            cost="Double"
+         {
+            _id="eece11bc"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="50",
@@ -24389,17 +24389,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="40",
@@ -24432,17 +24432,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="35",
@@ -24484,17 +24484,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Meteoric Barrage"]={
-            cost="Triple"
+         {
+            _id="0bcb02c6"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="50",
@@ -24536,17 +24536,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Meteoric Barrage"]={
-            cost="Triple"
+         {
+            _id="0bcb02c6"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="50",
@@ -24579,17 +24579,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="35",
@@ -24622,17 +24622,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Voracious Appetite"]={
-            cost="Double"
+         {
+            _id="b4a104fc"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="50",
@@ -24665,17 +24665,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Lead from On High"]={
-            cost="Double"
+         {
+            _id="2f33cac4"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="50",
@@ -24708,17 +24708,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Voracious Appetite"]={
-            cost="Double"
+         {
+            _id="b4a104fc"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="50",
@@ -24751,17 +24751,17 @@ return {
       },
       wounds="32",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Lords of Space and Time"]={
-            cost="Triple"
+         {
+            _id="53e140fc"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="80",
@@ -24792,14 +24792,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -24840,17 +24840,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          },
-         ["Chameleon Ambush"]={
-            cost="Double"
+         {
+            _id="fa891e0e"
          }
       },
       base_size_x="25",
@@ -24890,14 +24890,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -24937,14 +24937,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="25",
@@ -24985,20 +24985,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Cold-blooded Commander"]={
-            cost="Double"
+         {
+            _id="7e0c051b"
          },
-         ["Nimble Retreat"]={
-            cost="Double"
+         {
+            _id="9dc1bf09"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          },
-         ["Imbue with Azyrite Energy"]={
-            cost="Triple"
+         {
+            _id="da1dd1e6"
          }
       },
       base_size_x="25",
@@ -25029,14 +25029,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Tearing Bite"]={
-            cost="Triple"
+         {
+            _id="7a97b023"
          },
-         ["Wrath of the Old Ones"]={
-            cost="Quad"
+         {
+            _id="339d66b0"
          },
-         Starborn={
-            cost="Reaction"
+         {
+            _id="72ea88ae"
          }
       },
       base_size_x="32",
@@ -25076,11 +25076,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="25",
@@ -25111,11 +25111,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="25",
@@ -25155,11 +25155,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="25",
@@ -25199,14 +25199,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Fight for Profit"]={
-            cost="Triple"
+         {
+            _id="48c586d4"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="25",
@@ -25246,11 +25246,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="25",
@@ -25290,14 +25290,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Keep Your Distance"]={
-            cost="Triple"
+         {
+            _id="c434229e"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25337,14 +25337,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Keep Your Distance"]={
-            cost="Triple"
+         {
+            _id="c434229e"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25375,14 +25375,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Keep Your Distance"]={
-            cost="Triple"
+         {
+            _id="c434229e"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25422,14 +25422,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Keep Your Distance"]={
-            cost="Triple"
+         {
+            _id="c434229e"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25470,17 +25470,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Fight for Profit"]={
-            cost="Triple"
+         {
+            _id="48c586d4"
          },
-         Aetherstorm={
-            cost="Quad"
+         {
+            _id="4a3d1c1b"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25520,14 +25520,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Keep Your Distance"]={
-            cost="Triple"
+         {
+            _id="c434229e"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25559,17 +25559,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Supercharged Endrinharness"]={
-            cost="Double"
+         {
+            _id="98131dd5"
          },
-         ["Fight for Profit"]={
-            cost="Triple"
+         {
+            _id="48c586d4"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25609,14 +25609,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Fight for Profit"]={
-            cost="Triple"
+         {
+            _id="48c586d4"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25657,17 +25657,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Atmospheric Isolation"]={
-            cost="Triple"
+         {
+            _id="76fc95e1"
          },
-         ["Fight for Profit"]={
-            cost="Triple"
+         {
+            _id="48c586d4"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25709,20 +25709,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Harrying Drillbill"]={
-            cost="Double"
+         {
+            _id="49638f8a"
          },
-         ["Fight for Profit"]={
-            cost="Triple"
+         {
+            _id="48c586d4"
          },
-         ["Keep Your Distance"]={
-            cost="Triple"
+         {
+            _id="c434229e"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25762,14 +25762,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25810,17 +25810,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Timed Charges"]={
-            cost="Quad"
+         {
+            _id="70d72c9d"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25861,17 +25861,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Timed Charges"]={
-            cost="Quad"
+         {
+            _id="70d72c9d"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25912,17 +25912,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Grapnel Launcher"]={
-            cost="Triple"
+         {
+            _id="01f45dea"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -25962,14 +25962,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -26011,20 +26011,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Grapnel Launcher"]={
-            cost="Triple"
+         {
+            _id="01f45dea"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Timed Charges"]={
-            cost="Quad"
+         {
+            _id="70d72c9d"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -26064,14 +26064,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -26112,17 +26112,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Timed Charges"]={
-            cost="Quad"
+         {
+            _id="70d72c9d"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -26162,14 +26162,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -26210,17 +26210,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Timed Charges"]={
-            cost="Quad"
+         {
+            _id="70d72c9d"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -26262,20 +26262,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Fight for Profit"]={
-            cost="Triple"
+         {
+            _id="48c586d4"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Timed Charges"]={
-            cost="Quad"
+         {
+            _id="70d72c9d"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -26316,17 +26316,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Fight for Profit"]={
-            cost="Triple"
+         {
+            _id="48c586d4"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="32",
@@ -26367,17 +26367,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Fight for Profit"]={
-            cost="Triple"
+         {
+            _id="48c586d4"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          }
       },
       base_size_x="40",
@@ -26417,14 +26417,14 @@ return {
       },
       wounds="14",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          },
-         ["Win Recognition"]={
-            cost="Triple"
+         {
+            _id="cce1c9d6"
          }
       },
       base_size_x="25",
@@ -26464,14 +26464,14 @@ return {
       },
       wounds="14",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          },
-         ["Win Recognition"]={
-            cost="Triple"
+         {
+            _id="cce1c9d6"
          }
       },
       base_size_x="25",
@@ -26511,17 +26511,17 @@ return {
       },
       wounds="14",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Keep Your Distance"]={
-            cost="Triple"
+         {
+            _id="c434229e"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          },
-         ["Win Recognition"]={
-            cost="Triple"
+         {
+            _id="cce1c9d6"
          }
       },
       base_size_x="32",
@@ -26562,20 +26562,20 @@ return {
       },
       wounds="24",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Atmospheric Isolation"]={
-            cost="Triple"
+         {
+            _id="76fc95e1"
          },
-         ["Fight for Profit"]={
-            cost="Triple"
+         {
+            _id="48c586d4"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          },
-         ["Win Recognition"]={
-            cost="Triple"
+         {
+            _id="cce1c9d6"
          }
       },
       base_size_x="32",
@@ -26615,17 +26615,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Ancestral Fortitude"]={
-            cost="Double"
+         {
+            _id="500bda45"
          },
-         ["Master the Skies"]={
-            cost="Double"
+         {
+            _id="1637d730"
          },
-         ["Return Fire"]={
-            cost="Reaction"
+         {
+            _id="11442553"
          },
-         ["Win Recognition"]={
-            cost="Triple"
+         {
+            _id="cce1c9d6"
          }
       },
       base_size_x="32",
@@ -26656,14 +26656,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Krule Trap"]={
-            cost="Reaction"
+         {
+            _id="2a3d1d3e"
          },
-         ["Krule Stabbin'"]={
-            cost="Double"
+         {
+            _id="a65e52e8"
          },
-         ["Nasty Muggin'"]={
-            cost="Quad"
+         {
+            _id="91c3121c"
          }
       },
       base_size_x="28.5",
@@ -26694,14 +26694,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Krule Trap"]={
-            cost="Reaction"
+         {
+            _id="2a3d1d3e"
          },
-         ["Krule Stabbin'"]={
-            cost="Double"
+         {
+            _id="a65e52e8"
          },
-         ["Nasty Muggin'"]={
-            cost="Quad"
+         {
+            _id="91c3121c"
          }
       },
       base_size_x="32",
@@ -26733,17 +26733,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Krule Trap"]={
-            cost="Reaction"
+         {
+            _id="2a3d1d3e"
          },
-         ["Krule Stabbin'"]={
-            cost="Double"
+         {
+            _id="a65e52e8"
          },
-         ["Drum and Holler"]={
-            cost="Triple"
+         {
+            _id="fa51972c"
          },
-         ["Nasty Muggin'"]={
-            cost="Quad"
+         {
+            _id="91c3121c"
          }
       },
       base_size_x="32",
@@ -26775,17 +26775,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Krule Trap"]={
-            cost="Reaction"
+         {
+            _id="2a3d1d3e"
          },
-         ["Krule Stabbin'"]={
-            cost="Double"
+         {
+            _id="a65e52e8"
          },
-         ["Drum and Holler"]={
-            cost="Triple"
+         {
+            _id="fa51972c"
          },
-         ["Nasty Muggin'"]={
-            cost="Quad"
+         {
+            _id="91c3121c"
          }
       },
       base_size_x="32",
@@ -26826,17 +26826,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Krule Trap"]={
-            cost="Reaction"
+         {
+            _id="2a3d1d3e"
          },
-         ["Rip It Out"]={
-            cost="Double"
+         {
+            _id="f54e7999"
          },
-         ["Krule Stabbin'"]={
-            cost="Double"
+         {
+            _id="a65e52e8"
          },
-         ["Nasty Muggin'"]={
-            cost="Quad"
+         {
+            _id="91c3121c"
          }
       },
       base_size_x="32",
@@ -26868,17 +26868,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Krule Trap"]={
-            cost="Reaction"
+         {
+            _id="2a3d1d3e"
          },
-         ["Krule Stabbin'"]={
-            cost="Double"
+         {
+            _id="a65e52e8"
          },
-         ["Saw 'Em Up"]={
-            cost="Triple"
+         {
+            _id="77f385b7"
          },
-         ["Nasty Muggin'"]={
-            cost="Quad"
+         {
+            _id="91c3121c"
          }
       },
       base_size_x="32",
@@ -26949,17 +26949,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Krule Trap"]={
-            cost="Reaction"
+         {
+            _id="2a3d1d3e"
          },
-         ["Krule Taunt"]={
-            cost="Double"
+         {
+            _id="6a76938e"
          },
-         ["Krule Stabbin'"]={
-            cost="Double"
+         {
+            _id="a65e52e8"
          },
-         ["Nasty Muggin'"]={
-            cost="Quad"
+         {
+            _id="91c3121c"
          }
       },
       base_size_x="40",
@@ -26990,14 +26990,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27028,14 +27028,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27066,17 +27066,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Toof Shiv"]={
-            cost="Double"
+         {
+            _id="53fcba10"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27116,17 +27116,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Loadsa Arrows"]={
-            cost="Triple"
+         {
+            _id="5321a281"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27157,17 +27157,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Beast Spirit Ju-ju"]={
-            cost="Double"
+         {
+            _id="d0d1290a"
          },
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27198,17 +27198,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Tusker Charge"]={
-            cost="Triple"
+         {
+            _id="50812283"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="35",
@@ -27239,17 +27239,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Tusker Charge"]={
-            cost="Triple"
+         {
+            _id="50812283"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="35",
@@ -27290,20 +27290,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Loadsa Arrows"]={
-            cost="Triple"
+         {
+            _id="5321a281"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="5ba602b2"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27334,17 +27334,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="5ba602b2"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27385,20 +27385,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Ritual Dance"]={
-            cost="Triple"
+         {
+            _id="13a02a24"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="5ba602b2"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27439,20 +27439,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Beast-mask Dance"]={
-            cost="Triple"
+         {
+            _id="3ef065cc"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="5ba602b2"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27483,14 +27483,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="35",
@@ -27521,17 +27521,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="5ba602b2"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27563,20 +27563,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="5ba602b2"
          },
-         ["Mighty Waaagh!"]={
-            cost="Quad"
+         {
+            _id="df574062"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27608,20 +27608,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Toof Shiv"]={
-            cost="Double"
+         {
+            _id="53fcba10"
          },
-         ["Tusker Charge"]={
-            cost="Triple"
+         {
+            _id="50812283"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="35",
@@ -27653,20 +27653,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Beast Spirit Ju-ju"]={
-            cost="Double"
+         {
+            _id="d0d1290a"
          },
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Tusker Charge"]={
-            cost="Triple"
+         {
+            _id="50812283"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="35",
@@ -27708,23 +27708,23 @@ return {
       },
       wounds="28",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Weird Squig"]={
-            cost="Double"
+         {
+            _id="0efd6211"
          },
-         ["Tusker Charge"]={
-            cost="Triple"
+         {
+            _id="50812283"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="5ba602b2"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="35",
@@ -27756,20 +27756,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Tusker Charge"]={
-            cost="Triple"
+         {
+            _id="50812283"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="5ba602b2"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="35",
@@ -27801,20 +27801,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Tusker Charge"]={
-            cost="Triple"
+         {
+            _id="50812283"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="5ba602b2"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="35",
@@ -27845,14 +27845,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="40",
@@ -27892,17 +27892,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Loadsa Arrows"]={
-            cost="Triple"
+         {
+            _id="5321a281"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27933,14 +27933,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          }
       },
       base_size_x="32",
@@ -27981,26 +27981,26 @@ return {
       },
       wounds="26",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="ab5c803d"
          },
-         ["Beast-mask Dance"]={
-            cost="Triple"
+         {
+            _id="3ef065cc"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="5ba602b2"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="cb267758"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="f1603108"
          },
-         ["An Eye for Weakness"]={
-            cost="Triple"
+         {
+            _id="7bb09959"
          },
-         ["Bone Krusha"]={
-            cost="Quad"
+         {
+            _id="4a0aa589"
          }
       },
       base_size_x="32",
@@ -28033,14 +28033,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Noxious Vomit"]={
-            cost="Double"
+         {
+            _id="c8b9eb22"
          },
-         ["Troggoth Regrowth"]={
-            cost="Double"
+         {
+            _id="6a083be7"
          },
-         ["Horrific Stench"]={
-            cost="Reaction"
+         {
+            _id="7beccbda"
          }
       },
       base_size_x="50",
@@ -28072,11 +28072,11 @@ return {
       },
       wounds="28",
       abilities={
-         ["Troggoth Regrowth"]={
-            cost="Double"
+         {
+            _id="6a083be7"
          },
-         ["Horrific Stench"]={
-            cost="Reaction"
+         {
+            _id="7beccbda"
          }
       },
       base_size_x="50",
@@ -28108,14 +28108,14 @@ return {
       },
       wounds="45",
       abilities={
-         ["Squiggly-beast Followers"]={
-            cost="Double"
+         {
+            _id="6e5b14b2"
          },
-         ["Troggoth Regrowth"]={
-            cost="Double"
+         {
+            _id="17e5bdf0"
          },
-         ["Crushing Grip"]={
-            cost="Triple"
+         {
+            _id="835cd781"
          }
       },
       base_size_x="60",
@@ -28147,14 +28147,14 @@ return {
       },
       wounds="45",
       abilities={
-         ["Drunken Stagger"]={
-            cost="Double"
+         {
+            _id="c15ac47e"
          },
-         ["Mighty Kick"]={
-            cost="Triple"
+         {
+            _id="dd928981"
          },
-         ["Vicious 'Eadbutt"]={
-            cost="Quad"
+         {
+            _id="4dd76429"
          }
       },
       base_size_x="52",
@@ -28186,14 +28186,14 @@ return {
       },
       wounds="55",
       abilities={
-         ["Wall Crawler"]={
-            cost="Double"
+         {
+            _id="fcd24c77"
          },
-         ["Paralysing Venom"]={
-            cost="Triple"
+         {
+            _id="e55373fd"
          },
-         ["Dragged Victim"]={
-            cost="Quad"
+         {
+            _id="d43e0dc0"
          }
       },
       base_size_x="160",
@@ -28224,17 +28224,17 @@ return {
       },
       wounds="6",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Go Dat Way!"]={
-            cost="Triple"
+         {
+            _id="e9f0c865"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -28265,17 +28265,17 @@ return {
       },
       wounds="6",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Barbed Net"]={
-            cost="Double"
+         {
+            _id="501349fc"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -28306,14 +28306,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -28344,14 +28344,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -28382,14 +28382,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="32",
@@ -28421,20 +28421,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         Mesmerise={
-            cost="Double"
+         {
+            _id="bd41d7ed"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Spiteful Demise"]={
-            cost="Reaction"
+         {
+            _id="ae5c000d"
          }
       },
       base_size_x="32",
@@ -28466,20 +28466,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Loonshine Potion"]={
-            cost="Double"
+         {
+            _id="da790fc4"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Spiteful Demise"]={
-            cost="Reaction"
+         {
+            _id="ae5c000d"
          }
       },
       base_size_x="32",
@@ -28519,14 +28519,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -28558,20 +28558,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Poison Brew"]={
-            cost="Double"
+         {
+            _id="6eaa49d2"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Spiteful Demise"]={
-            cost="Reaction"
+         {
+            _id="ae5c000d"
          }
       },
       base_size_x="32",
@@ -28602,14 +28602,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -28641,20 +28641,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Fungoid Cloud"]={
-            cost="Triple"
+         {
+            _id="e6090ac7"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Spiteful Demise"]={
-            cost="Reaction"
+         {
+            _id="ae5c000d"
          }
       },
       base_size_x="32",
@@ -28686,20 +28686,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Bogeyman Dance"]={
-            cost="Triple"
+         {
+            _id="0ec7a143"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Spiteful Demise"]={
-            cost="Reaction"
+         {
+            _id="ae5c000d"
          }
       },
       base_size_x="32",
@@ -28731,20 +28731,20 @@ return {
       },
       wounds="6",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Madcap Destruction"]={
-            cost="Triple"
+         {
+            _id="7ba53615"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Spore Cloud"]={
-            cost="Reaction"
+         {
+            _id="16486f1f"
          }
       },
       base_size_x="32",
@@ -28775,17 +28775,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -28816,17 +28816,17 @@ return {
       },
       wounds="6",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Madcap Destruction"]={
-            cost="Triple"
+         {
+            _id="7ba53615"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="32",
@@ -28867,20 +28867,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Magic Spore Maws"]={
-            cost="Triple"
+         {
+            _id="83341ebc"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="32",
@@ -28921,20 +28921,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Speed of the Spider God"]={
-            cost="Double"
+         {
+            _id="8329b962"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -28966,20 +28966,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["I'm Da Boss; Now Stab 'Em Good!"]={
-            cost="Quad"
+         {
+            _id="103c0992"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="32",
@@ -29019,17 +29019,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Spider Bite"]={
-            cost="Triple"
+         {
+            _id="757c3331"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="35",
@@ -29070,20 +29070,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Spider Bite"]={
-            cost="Triple"
+         {
+            _id="757c3331"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="35",
@@ -29115,17 +29115,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Madcap Destruction"]={
-            cost="Triple"
+         {
+            _id="7ba53615"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="32",
@@ -29157,17 +29157,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Madcap Destruction"]={
-            cost="Triple"
+         {
+            _id="7ba53615"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="32",
@@ -29200,20 +29200,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Madcap Destruction"]={
-            cost="Triple"
+         {
+            _id="7ba53615"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="32",
@@ -29245,20 +29245,20 @@ return {
       },
       wounds="26",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Spider Bite"]={
-            cost="Triple"
+         {
+            _id="757c3331"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="60",
@@ -29291,20 +29291,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Madcap Destruction"]={
-            cost="Triple"
+         {
+            _id="7ba53615"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="32",
@@ -29337,20 +29337,20 @@ return {
       },
       wounds="26",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Madcap Destruction"]={
-            cost="Triple"
+         {
+            _id="7ba53615"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="40",
@@ -29381,20 +29381,20 @@ return {
       },
       wounds="6",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Enthusiastic Dubbin'"]={
-            cost="Double"
+         {
+            _id="80846cd7"
          },
-         ["Tuff Nut"]={
-            cost="Reaction"
+         {
+            _id="23a2faeb"
          }
       },
       base_size_x="25",
@@ -29425,20 +29425,20 @@ return {
       },
       wounds="6",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Enthusiastic Dubbin'"]={
-            cost="Double"
+         {
+            _id="80846cd7"
          },
-         ["Tuff Nut"]={
-            cost="Reaction"
+         {
+            _id="23a2faeb"
          }
       },
       base_size_x="25",
@@ -29478,23 +29478,23 @@ return {
       },
       wounds="6",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Enthusiastic Dubbin'"]={
-            cost="Double"
+         {
+            _id="80846cd7"
          },
-         ["Sound da Charge!"]={
-            cost="Triple"
+         {
+            _id="5550a018"
          },
-         ["Tuff Nut"]={
-            cost="Reaction"
+         {
+            _id="23a2faeb"
          }
       },
       base_size_x="25",
@@ -29525,20 +29525,20 @@ return {
       },
       wounds="8",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Enthusiastic Dubbin'"]={
-            cost="Double"
+         {
+            _id="80846cd7"
          },
-         ["Tuff Nut"]={
-            cost="Reaction"
+         {
+            _id="23a2faeb"
          }
       },
       base_size_x="25",
@@ -29578,20 +29578,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Enthusiastic Dubbin'"]={
-            cost="Double"
+         {
+            _id="80846cd7"
          },
-         ["Tuff Nut"]={
-            cost="Reaction"
+         {
+            _id="23a2faeb"
          }
       },
       base_size_x="32",
@@ -29623,29 +29623,29 @@ return {
       },
       wounds="16",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["I'm Da Boss; Now Stab 'Em Good!"]={
-            cost="Quad"
+         {
+            _id="103c0992"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Questin' Knight"]={
-            cost="Double"
+         {
+            _id="a523f4de"
          },
-         ["Enthusiastic Dubbin'"]={
-            cost="Double"
+         {
+            _id="80846cd7"
          },
-         ["Tuff Nut"]={
-            cost="Reaction"
+         {
+            _id="23a2faeb"
          }
       },
       base_size_x="32",
@@ -29677,23 +29677,23 @@ return {
       },
       wounds="15",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Madcap Destruction"]={
-            cost="Triple"
+         {
+            _id="7ba53615"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Enthusiastic Dubbin'"]={
-            cost="Double"
+         {
+            _id="80846cd7"
          },
-         ["Tuff Nut"]={
-            cost="Reaction"
+         {
+            _id="23a2faeb"
          }
       },
       base_size_x="32",
@@ -29725,14 +29725,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -29763,26 +29763,26 @@ return {
       },
       wounds="35",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Hurl Jabbertoad"]={
-            cost="Double"
+         {
+            _id="120bc628"
          },
-         ["Summon Stalagsquig"]={
-            cost="Double"
+         {
+            _id="16395fb8"
          },
-         ["Summon Spiteshroom"]={
-            cost="Triple"
+         {
+            _id="16aaac30"
          }
       },
       base_size_x="50",
@@ -29813,20 +29813,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Snarlfang's Jaws"]={
-            cost="Double"
+         {
+            _id="5ed43c1c"
          },
-         ["Ferocious Pounce"]={
-            cost="Quad"
+         {
+            _id="18a0ccfa"
          }
       },
       base_size_x="25",
@@ -29866,20 +29866,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Snarlfang's Jaws"]={
-            cost="Double"
+         {
+            _id="5ed43c1c"
          },
-         ["Ferocious Pounce"]={
-            cost="Quad"
+         {
+            _id="18a0ccfa"
          }
       },
       base_size_x="25",
@@ -29911,23 +29911,23 @@ return {
       },
       wounds="22",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Snarlfang's Jaws"]={
-            cost="Double"
+         {
+            _id="5ed43c1c"
          },
-         ["Ferocious Pounce"]={
-            cost="Quad"
+         {
+            _id="18a0ccfa"
          }
       },
       base_size_x="25",
@@ -29958,17 +29958,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Barbed Net"]={
-            cost="Double"
+         {
+            _id="501349fc"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -30008,14 +30008,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -30046,17 +30046,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Go Dat Way!"]={
-            cost="Triple"
+         {
+            _id="e9f0c865"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -30087,20 +30087,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Fungoid Cloud"]={
-            cost="Triple"
+         {
+            _id="e6090ac7"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Whirling Death"]={
-            cost="Quad"
+         {
+            _id="46e10186"
          }
       },
       base_size_x="25",
@@ -30140,20 +30140,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="315054de"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          },
-         ["Face of Da Bad Moon"]={
-            cost="Double"
+         {
+            _id="75b35f0c"
          }
       },
       base_size_x="25",
@@ -30184,14 +30184,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Backstabbing Mob"]={
-            cost="Double"
+         {
+            _id="a2f5c060"
          },
-         ["Sneaky Stab"]={
-            cost="Quad"
+         {
+            _id="59b00d5a"
          },
-         ["Pile On"]={
-            cost="Reaction"
+         {
+            _id="c15373cf"
          }
       },
       base_size_x="25",
@@ -30222,14 +30222,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="32",
@@ -30260,14 +30260,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="32",
@@ -30298,14 +30298,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="32",
@@ -30336,17 +30336,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="cb771b64"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="32",
@@ -30377,20 +30377,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Duff Up Da Big Thing"]={
-            cost="Double"
+         {
+            _id="06a33891"
          },
-         ["You Messin'"]={
-            cost="Triple"
+         {
+            _id="3a23c80f"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="40",
@@ -30421,20 +30421,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Duff Up Da Big Thing"]={
-            cost="Double"
+         {
+            _id="06a33891"
          },
-         ["You Messin'"]={
-            cost="Triple"
+         {
+            _id="3a23c80f"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="40",
@@ -30475,20 +30475,20 @@ return {
       },
       wounds="32",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Foot of Gork"]={
-            cost="Triple"
+         {
+            _id="19680c71"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="cb771b64"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="40",
@@ -30519,20 +30519,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Duff Up Da Big Thing"]={
-            cost="Double"
+         {
+            _id="06a33891"
          },
-         ["You Messin'"]={
-            cost="Triple"
+         {
+            _id="3a23c80f"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="40",
@@ -30564,20 +30564,20 @@ return {
       },
       wounds="32",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Warchanter's Beat"]={
-            cost="Double"
+         {
+            _id="aecd0a65"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="cb771b64"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="40",
@@ -30609,23 +30609,23 @@ return {
       },
       wounds="30",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Duff Up Da Big Thing"]={
-            cost="Double"
+         {
+            _id="06a33891"
          },
-         ["You Messin'"]={
-            cost="Triple"
+         {
+            _id="3a23c80f"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="cb771b64"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="40",
@@ -30658,26 +30658,26 @@ return {
       },
       wounds="30",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Duff Up Da Big Thing"]={
-            cost="Double"
+         {
+            _id="06a33891"
          },
-         ["You Messin'"]={
-            cost="Triple"
+         {
+            _id="3a23c80f"
          },
-         ["Da Grab an' Bash"]={
-            cost="Triple"
+         {
+            _id="4f9b5078"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="cb771b64"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="40",
@@ -30709,20 +30709,20 @@ return {
       },
       wounds="35",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="cb771b64"
          },
-         ["Mighty Waaagh!"]={
-            cost="Quad"
+         {
+            _id="da50dd2f"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="60",
@@ -30754,17 +30754,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Gore-grunta Charge"]={
-            cost="Triple"
+         {
+            _id="9b0f513f"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="52",
@@ -30796,17 +30796,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Gore-grunta Charge"]={
-            cost="Triple"
+         {
+            _id="9b0f513f"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="52",
@@ -30839,20 +30839,20 @@ return {
       },
       wounds="40",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Gore-grunta Charge"]={
-            cost="Triple"
+         {
+            _id="9b0f513f"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="cb771b64"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="52",
@@ -30885,20 +30885,20 @@ return {
       },
       wounds="40",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Gore-grunta Charge"]={
-            cost="Triple"
+         {
+            _id="9b0f513f"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="cb771b64"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          }
       },
       base_size_x="52",
@@ -30929,17 +30929,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          },
-         ["Dead 'Ard"]={
-            cost="Double"
+         {
+            _id="928413af"
          }
       },
       base_size_x="32",
@@ -30970,17 +30970,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          },
-         ["Dead 'Ard"]={
-            cost="Double"
+         {
+            _id="928413af"
          }
       },
       base_size_x="32",
@@ -31011,17 +31011,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          },
-         ["Dead 'Ard"]={
-            cost="Double"
+         {
+            _id="928413af"
          }
       },
       base_size_x="32",
@@ -31052,20 +31052,20 @@ return {
       },
       wounds="26",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="cb771b64"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          },
-         ["Dead 'Ard"]={
-            cost="Double"
+         {
+            _id="928413af"
          }
       },
       base_size_x="32",
@@ -31096,23 +31096,23 @@ return {
       },
       wounds="26",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Duff Up Da Big Thing"]={
-            cost="Double"
+         {
+            _id="06a33891"
          },
-         ["You Messin'"]={
-            cost="Triple"
+         {
+            _id="3a23c80f"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          },
-         Beastbashas={
-            cost="Triple"
+         {
+            _id="0c289874"
          }
       },
       base_size_x="40",
@@ -31143,23 +31143,23 @@ return {
       },
       wounds="26",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Duff Up Da Big Thing"]={
-            cost="Double"
+         {
+            _id="06a33891"
          },
-         ["You Messin'"]={
-            cost="Triple"
+         {
+            _id="3a23c80f"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          },
-         Beastbashas={
-            cost="Triple"
+         {
+            _id="0c289874"
          }
       },
       base_size_x="40",
@@ -31191,26 +31191,26 @@ return {
       },
       wounds="35",
       abilities={
-         ["Charge!"]={
-            cost="Double"
+         {
+            _id="32ae9085"
          },
-         ["Duff Up Da Big Thing"]={
-            cost="Double"
+         {
+            _id="06a33891"
          },
-         ["You Messin'"]={
-            cost="Triple"
+         {
+            _id="3a23c80f"
          },
-         ["Waaagh!"]={
-            cost="Triple"
+         {
+            _id="cb771b64"
          },
-         ["Rampaging Destroyer"]={
-            cost="Quad"
+         {
+            _id="24ef0a67"
          },
-         ["Get Stuck In"]={
-            cost="Reaction"
+         {
+            _id="2531bf9c"
          },
-         Beastbashas={
-            cost="Triple"
+         {
+            _id="0c289874"
          }
       },
       base_size_x="40",
@@ -31241,8 +31241,8 @@ return {
       },
       wounds="6",
       abilities={
-         ["Sneaky Traps"]={
-            cost="Double"
+         {
+            _id="62590600"
          }
       },
       base_size_x="25",
@@ -31313,17 +31313,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Thunderous Blast of Hot Metal"]={
-            cost="Quad"
+         {
+            _id="0fbe4c5b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="40",
@@ -31355,17 +31355,17 @@ return {
       },
       wounds="28",
       abilities={
-         Ironfist={
-            cost="Double"
+         {
+            _id="c45c8a49"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="40",
@@ -31397,17 +31397,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Bounding Leaps"]={
-            cost="Double"
+         {
+            _id="ac53eae6"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="50",
@@ -31438,14 +31438,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="40",
@@ -31476,8 +31476,8 @@ return {
       },
       wounds="25",
       abilities={
-         ["Bounding Leaps"]={
-            cost="Double"
+         {
+            _id="ac53eae6"
          }
       },
       base_size_x="50",
@@ -31517,14 +31517,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="50",
@@ -31566,20 +31566,20 @@ return {
       },
       wounds="32",
       abilities={
-         ["Might Makes Right"]={
-            cost="Double"
+         {
+            _id="0562672c"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Thunderous Blast of Hot Metal"]={
-            cost="Quad"
+         {
+            _id="0fbe4c5b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="40",
@@ -31621,20 +31621,20 @@ return {
       },
       wounds="38",
       abilities={
-         Bloodgruel={
-            cost="Double"
+         {
+            _id="8e24e130"
          },
-         ["Might Makes Right"]={
-            cost="Double"
+         {
+            _id="0562672c"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="50",
@@ -31676,20 +31676,20 @@ return {
       },
       wounds="38",
       abilities={
-         ["Might Makes Right"]={
-            cost="Double"
+         {
+            _id="0562672c"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Fire Breath"]={
-            cost="Quad"
+         {
+            _id="ef08e341"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="50",
@@ -31720,14 +31720,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="40",
@@ -31760,20 +31760,20 @@ return {
       },
       wounds="32",
       abilities={
-         Ironfist={
-            cost="Double"
+         {
+            _id="c45c8a49"
          },
-         ["Might Makes Right"]={
-            cost="Double"
+         {
+            _id="0562672c"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="40",
@@ -31805,17 +31805,17 @@ return {
       },
       wounds="32",
       abilities={
-         ["Might Makes Right"]={
-            cost="Double"
+         {
+            _id="0562672c"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="40",
@@ -31857,20 +31857,20 @@ return {
       },
       wounds="40",
       abilities={
-         ["Lead the Skal"]={
-            cost="Double"
+         {
+            _id="4d1168cf"
          },
-         ["Might Makes Right"]={
-            cost="Double"
+         {
+            _id="0562672c"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="50",
@@ -31903,17 +31903,17 @@ return {
       },
       wounds="35",
       abilities={
-         Ironfist={
-            cost="Double"
+         {
+            _id="c45c8a49"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="52",
@@ -31945,14 +31945,14 @@ return {
       },
       wounds="35",
       abilities={
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="52",
@@ -31994,20 +31994,20 @@ return {
       },
       wounds="42",
       abilities={
-         ["Might Makes Right"]={
-            cost="Double"
+         {
+            _id="0562672c"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Bully of the First Degree"]={
-            cost="Triple"
+         {
+            _id="f908717e"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="50",
@@ -32049,17 +32049,17 @@ return {
       },
       wounds="40",
       abilities={
-         ["Might Makes Right"]={
-            cost="Double"
+         {
+            _id="0562672c"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="52",
@@ -32090,8 +32090,8 @@ return {
       },
       wounds="6",
       abilities={
-         ["Sic 'Em"]={
-            cost="Double"
+         {
+            _id="40159f70"
          }
       },
       base_size_x="25",
@@ -32152,8 +32152,8 @@ return {
       },
       wounds="6",
       abilities={
-         ["Sic 'Em"]={
-            cost="Double"
+         {
+            _id="40159f70"
          }
       },
       base_size_x="25",
@@ -32225,23 +32225,23 @@ return {
       },
       wounds="30",
       abilities={
-         ["Bird Strike"]={
-            cost="Double"
+         {
+            _id="dac75ae0"
          },
-         Broadside={
-            cost="Triple"
+         {
+            _id="cafaa4d4"
          },
-         ["Might Makes Right"]={
-            cost="Double"
+         {
+            _id="0562672c"
          },
-         ["On the Mawpath"]={
-            cost="Double"
+         {
+            _id="27d60586"
          },
-         Bullcharge={
-            cost="Triple"
+         {
+            _id="ee97ec8b"
          },
-         ["Quick Bite"]={
-            cost="Reaction"
+         {
+            _id="5021d08c"
          }
       },
       base_size_x="50",
@@ -32272,11 +32272,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Lay Mantrap"]={
-            cost="Double"
+         {
+            _id="f700a7cf"
          },
-         ["Sneaky Traps"]={
-            cost="Double"
+         {
+            _id="62590600"
          }
       },
       base_size_x="25",
@@ -32307,8 +32307,8 @@ return {
       },
       wounds="8",
       abilities={
-         ["Here You Go, Boss!"]={
-            cost="Triple"
+         {
+            _id="27400a51"
          }
       },
       base_size_x="25",
@@ -32409,11 +32409,11 @@ return {
       },
       wounds="40",
       abilities={
-         ["Lead the Skal"]={
-            cost="Double"
+         {
+            _id="4d1168cf"
          },
-         ["Might Makes Right"]={
-            cost="Double"
+         {
+            _id="0562672c"
          }
       },
       base_size_x="40",
@@ -32444,17 +32444,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Rending Bite"]={
-            cost="Reaction"
+         {
+            _id="e3ae1ed5"
          },
-         ["Bounding Leaps"]={
-            cost="Double"
+         {
+            _id="cab60322"
          },
-         ["Glimmer of Consciousness"]={
-            cost="Double"
+         {
+            _id="6a45bb85"
          },
-         ["Starving Rampage"]={
-            cost="Quad"
+         {
+            _id="1d3da6e3"
          }
       },
       base_size_x="50",
@@ -32485,17 +32485,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Rending Bite"]={
-            cost="Reaction"
+         {
+            _id="e3ae1ed5"
          },
-         ["Bounding Leaps"]={
-            cost="Double"
+         {
+            _id="cab60322"
          },
-         ["Glimmer of Consciousness"]={
-            cost="Double"
+         {
+            _id="6a45bb85"
          },
-         ["Starving Rampage"]={
-            cost="Quad"
+         {
+            _id="1d3da6e3"
          }
       },
       base_size_x="50",
@@ -32527,20 +32527,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Rending Bite"]={
-            cost="Reaction"
+         {
+            _id="e3ae1ed5"
          },
-         ["Bounding Leaps"]={
-            cost="Double"
+         {
+            _id="cab60322"
          },
-         ["Glimmer of Consciousness"]={
-            cost="Double"
+         {
+            _id="6a45bb85"
          },
-         ["Maddened Blows"]={
-            cost="Triple"
+         {
+            _id="2cedb53d"
          },
-         ["Starving Rampage"]={
-            cost="Quad"
+         {
+            _id="1d3da6e3"
          }
       },
       base_size_x="50",
@@ -32572,20 +32572,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Rending Bite"]={
-            cost="Reaction"
+         {
+            _id="e3ae1ed5"
          },
-         ["Bounding Leaps"]={
-            cost="Double"
+         {
+            _id="cab60322"
          },
-         ["Glimmer of Consciousness"]={
-            cost="Double"
+         {
+            _id="6a45bb85"
          },
-         ["Agonising Roar"]={
-            cost="Triple"
+         {
+            _id="bebbf0d1"
          },
-         ["Starving Rampage"]={
-            cost="Quad"
+         {
+            _id="1d3da6e3"
          }
       },
       base_size_x="50",
@@ -32616,17 +32616,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Rending Bite"]={
-            cost="Reaction"
+         {
+            _id="e3ae1ed5"
          },
-         ["Bounding Leaps"]={
-            cost="Double"
+         {
+            _id="cab60322"
          },
-         ["Unnatural Force"]={
-            cost="Double"
+         {
+            _id="bfae953f"
          },
-         ["Starving Rampage"]={
-            cost="Quad"
+         {
+            _id="1d3da6e3"
          }
       },
       base_size_x="50",
@@ -32657,11 +32657,11 @@ return {
       },
       wounds="6",
       abilities={
-         ["Brewed Elixir"]={
-            cost="Triple"
+         {
+            _id="f2ad33bb"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="25",
@@ -32693,8 +32693,8 @@ return {
       },
       wounds="6",
       abilities={
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="25",
@@ -32734,8 +32734,8 @@ return {
       },
       wounds="8",
       abilities={
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="25",
@@ -32766,11 +32766,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="32",
@@ -32801,11 +32801,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="32",
@@ -32846,11 +32846,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="c7f0da76"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="25",
@@ -32891,14 +32891,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Aimed Shot"]={
-            cost="Double"
+         {
+            _id="c867eb77"
          },
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="32",
@@ -32930,14 +32930,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Attack"]={
-            cost="Quad"
+         {
+            _id="f8fa5631"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="32",
@@ -32969,14 +32969,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Attack"]={
-            cost="Quad"
+         {
+            _id="f8fa5631"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="32",
@@ -33009,17 +33009,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Breath of the Mire-drake"]={
-            cost="Triple"
+         {
+            _id="f7eaecfa"
          },
-         ["Kunnin' Attack"]={
-            cost="Quad"
+         {
+            _id="f8fa5631"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="40",
@@ -33061,17 +33061,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Summon Boggy Mist"]={
-            cost="Triple"
+         {
+            _id="8c31db62"
          },
-         ["Kunnin' Attack"]={
-            cost="Quad"
+         {
+            _id="f8fa5631"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="40",
@@ -33113,17 +33113,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Aimed Shot"]={
-            cost="Double"
+         {
+            _id="c867eb77"
          },
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Attack"]={
-            cost="Quad"
+         {
+            _id="f8fa5631"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="32",
@@ -33156,17 +33156,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["You Hold 'Em Off"]={
-            cost="Double"
+         {
+            _id="1af77c38"
          },
-         ["Kunnin' Attack"]={
-            cost="Quad"
+         {
+            _id="f8fa5631"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="40",
@@ -33199,17 +33199,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["You Hold 'Em Off"]={
-            cost="Double"
+         {
+            _id="1af77c38"
          },
-         ["Kunnin' Attack"]={
-            cost="Quad"
+         {
+            _id="f8fa5631"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="40",
@@ -33242,17 +33242,17 @@ return {
       },
       wounds="38",
       abilities={
-         ["Bone-crushing Bite"]={
-            cost="Double"
+         {
+            _id="2525ab3f"
          },
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Attack"]={
-            cost="Quad"
+         {
+            _id="f8fa5631"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="70",
@@ -33284,14 +33284,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Gang Up"]={
-            cost="Double"
+         {
+            _id="0af73084"
          },
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="25",
@@ -33323,14 +33323,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Gang Up"]={
-            cost="Double"
+         {
+            _id="0af73084"
          },
-         ["Sneaky Snares"]={
-            cost="Double"
+         {
+            _id="759bc2a8"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="25",
@@ -33371,14 +33371,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Gang Up"]={
-            cost="Double"
+         {
+            _id="0af73084"
          },
-         ["Stab 'Em Good"]={
-            cost="Triple"
+         {
+            _id="c7f0da76"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="25",
@@ -33410,14 +33410,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Sneaky Snares"]={
-            cost="Double"
+         {
+            _id="759bc2a8"
          },
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="32",
@@ -33449,17 +33449,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Master of Murk"]={
-            cost="Double"
+         {
+            _id="f56775f9"
          },
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Attack"]={
-            cost="Quad"
+         {
+            _id="f8fa5631"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          }
       },
       base_size_x="40",
@@ -33491,17 +33491,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Attack"]={
-            cost="Quad"
+         {
+            _id="f8fa5631"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          },
-         ["Stealin' Your Finks"]={
-            cost="Quad"
+         {
+            _id="6b7e69c6"
          }
       },
       base_size_x="32",
@@ -33533,14 +33533,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          },
-         ["Leave Ya Bleedin'"]={
-            cost="Double"
+         {
+            _id="574b4620"
          }
       },
       base_size_x="32",
@@ -33572,14 +33572,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          },
-         ["Roar of Kragnos"]={
-            cost="Triple"
+         {
+            _id="cc8aa230"
          }
       },
       base_size_x="32",
@@ -33611,14 +33611,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Venom-encrusted Weapon"]={
-            cost="Double"
+         {
+            _id="26a4ea2f"
          },
-         ["Kunnin' Trap"]={
-            cost="Reaction"
+         {
+            _id="64b1818c"
          },
-         ["Hookin' Your Guts"]={
-            cost="Double"
+         {
+            _id="eaba1b07"
          }
       },
       base_size_x="32",
@@ -33651,11 +33651,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Outrunner of Chaos"]={
-            cost="Double"
+         {
+            _id="639d31e7"
          },
-         ["The Master's Voice"]={
-            cost="Reaction"
+         {
+            _id="df25190d"
          }
       },
       base_size_x="35",
@@ -33688,11 +33688,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Crazed Flock"]={
-            cost="Triple"
+         {
+            _id="432cbdbc"
          },
-         ["The Master's Voice"]={
-            cost="Reaction"
+         {
+            _id="df25190d"
          }
       },
       base_size_x="35",
@@ -33725,11 +33725,11 @@ return {
       },
       wounds="8",
       abilities={
-         Cower={
-            cost="Triple"
+         {
+            _id="14938b02"
          },
-         ["The Master's Voice"]={
-            cost="Reaction"
+         {
+            _id="df25190d"
          }
       },
       base_size_x="32",
@@ -33762,11 +33762,11 @@ return {
       },
       wounds="30",
       abilities={
-         ["The Master's Voice"]={
-            cost="Reaction"
+         {
+            _id="df25190d"
          },
-         ["Writhing Tentacles"]={
-            cost="Triple"
+         {
+            _id="e9455430"
          }
       },
       base_size_x="50",
@@ -33799,11 +33799,11 @@ return {
       },
       wounds="25",
       abilities={
-         ["Uncontrollable Stampede"]={
-            cost="Triple"
+         {
+            _id="b26ac39f"
          },
-         ["The Master's Voice"]={
-            cost="Reaction"
+         {
+            _id="df25190d"
          }
       },
       base_size_x="42",
@@ -33835,17 +33835,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Hurl Masonry"]={
-            cost="Double"
+         {
+            _id="2d6a9f87"
          },
-         ["Rampaging Charge"]={
-            cost="Triple"
+         {
+            _id="9a527ccb"
          },
-         ["Bloody Trophy"]={
-            cost="Double"
+         {
+            _id="68c2f956"
          },
-         ["Unthinking Destruction"]={
-            cost="Reaction"
+         {
+            _id="710715ea"
          }
       },
       base_size_x="60",
@@ -33877,17 +33877,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Telepathic Threatening"]={
-            cost="Double"
+         {
+            _id="ec0cec2a"
          },
-         ["Dominate Mind"]={
-            cost="Triple"
+         {
+            _id="c6ede27d"
          },
-         Charm={
-            cost="Quad"
+         {
+            _id="f86e1ac0"
          },
-         ["Spiteful Reprisal"]={
-            cost="Reaction"
+         {
+            _id="261f0ed9"
          }
       },
       base_size_x="52",
@@ -33919,17 +33919,17 @@ return {
       },
       wounds="30",
       abilities={
-         Berserk={
-            cost="Double"
+         {
+            _id="43a52834"
          },
-         ["Arcane Fury"]={
-            cost="Triple"
+         {
+            _id="7bbc8ec9"
          },
-         ["Blood Marshal"]={
-            cost="Triple"
+         {
+            _id="739e521e"
          },
-         ["Test of Skill"]={
-            cost="Reaction"
+         {
+            _id="2908288b"
          }
       },
       base_size_x="50",
@@ -33971,17 +33971,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Skewer, Drag and Bludgeon"]={
-            cost="Quad"
+         {
+            _id="fb6f504b"
          },
-         ["Cruel Strike"]={
-            cost="Reaction"
+         {
+            _id="bb806355"
          },
-         ["Marshal's Net"]={
-            cost="Double"
+         {
+            _id="bf43048a"
          },
-         ["Trampling Charge"]={
-            cost="Triple"
+         {
+            _id="a2752287"
          }
       },
       base_size_x="80",
@@ -34013,14 +34013,14 @@ return {
       },
       wounds="50",
       abilities={
-         ["Rip and Tear Masonry"]={
-            cost="Double"
+         {
+            _id="a2ab02f6"
          },
-         ["Hurl Boulder"]={
-            cost="Triple"
+         {
+            _id="e849e327"
          },
-         ["Soul-eater"]={
-            cost="Quad"
+         {
+            _id="8922ef18"
          }
       },
       base_size_x="92",
@@ -34052,14 +34052,14 @@ return {
       },
       wounds="45",
       abilities={
-         ["Drunken Stagger"]={
-            cost="Double"
+         {
+            _id="90a08960"
          },
-         ["Mighty Kick"]={
-            cost="Triple"
+         {
+            _id="7bbcb219"
          },
-         ["Vicious 'Eadbutt"]={
-            cost="Quad"
+         {
+            _id="8613c6ea"
          }
       },
       base_size_x="52",
@@ -34091,14 +34091,14 @@ return {
       },
       wounds="50",
       abilities={
-         ["Maw Tentacles"]={
-            cost="Double"
+         {
+            _id="8a3c74a0"
          },
-         ["Mutant Regeneration"]={
-            cost="Triple"
+         {
+            _id="f498740f"
          },
-         ["Aura of Mutation"]={
-            cost="Quad"
+         {
+            _id="b7b106a5"
          }
       },
       base_size_x="92",
@@ -34130,14 +34130,14 @@ return {
       },
       wounds="50",
       abilities={
-         ["Roaring Charge"]={
-            cost="Double"
+         {
+            _id="e2a3a52d"
          },
-         ["Slavering Maw"]={
-            cost="Triple"
+         {
+            _id="04e790c9"
          },
-         ["Ravenous Bloodgreed"]={
-            cost="Quad"
+         {
+            _id="2d016ef5"
          }
       },
       base_size_x="92",
@@ -34169,14 +34169,14 @@ return {
       },
       wounds="55",
       abilities={
-         ["Regenerating Monstrosity"]={
-            cost="Double"
+         {
+            _id="94cb55a7"
          },
-         ["Avalanche of Flesh"]={
-            cost="Triple"
+         {
+            _id="4ea5d6ac"
          },
-         ["Too Horrible to Die"]={
-            cost="Quad"
+         {
+            _id="53858b0f"
          }
       },
       base_size_x="92",
@@ -34208,14 +34208,14 @@ return {
       },
       wounds="50",
       abilities={
-         ["Mighty Jaws"]={
-            cost="Double"
+         {
+            _id="cf5c1090"
          },
-         ["Beast Unbound"]={
-            cost="Triple"
+         {
+            _id="c3d76f91"
          },
-         ["Rampaging Charge"]={
-            cost="Double"
+         {
+            _id="29de0ba8"
          }
       },
       base_size_x="92",
@@ -34248,14 +34248,14 @@ return {
       },
       wounds="45",
       abilities={
-         ["Tail Whip"]={
-            cost="Double"
+         {
+            _id="5966dc17"
          },
-         ["Leonine Roar"]={
-            cost="Triple"
+         {
+            _id="e19e1937"
          },
-         ["Draconic Head's Fiery Breath"]={
-            cost="Quad"
+         {
+            _id="cd07297b"
          }
       },
       base_size_x="92",
@@ -34286,14 +34286,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Gladiator's Net"]={
-            cost="Double"
+         {
+            _id="73945e60"
          },
-         ["Pit Fighter"]={
-            cost="Double"
+         {
+            _id="a0c80fdf"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="632890a8"
          }
       },
       base_size_x="25",
@@ -34324,14 +34324,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Gladiator's Net"]={
-            cost="Double"
+         {
+            _id="73945e60"
          },
-         ["Pit Fighter"]={
-            cost="Double"
+         {
+            _id="a0c80fdf"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="632890a8"
          }
       },
       base_size_x="25",
@@ -34362,14 +34362,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Gladiator's Net"]={
-            cost="Double"
+         {
+            _id="73945e60"
          },
-         ["Pit Fighter"]={
-            cost="Double"
+         {
+            _id="a0c80fdf"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="632890a8"
          }
       },
       base_size_x="25",
@@ -34400,17 +34400,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Gladiator's Net"]={
-            cost="Double"
+         {
+            _id="73945e60"
          },
-         ["Pit Fighter"]={
-            cost="Double"
+         {
+            _id="a0c80fdf"
          },
-         ["Readied Stance"]={
-            cost="Triple"
+         {
+            _id="8a79eeb6"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="632890a8"
          }
       },
       base_size_x="28.5",
@@ -34442,20 +34442,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Gladiator's Net"]={
-            cost="Double"
+         {
+            _id="73945e60"
          },
-         ["Pit Fighter"]={
-            cost="Double"
+         {
+            _id="a0c80fdf"
          },
-         ["Shield Ram"]={
-            cost="Double"
+         {
+            _id="27158e20"
          },
-         ["Readied Stance"]={
-            cost="Triple"
+         {
+            _id="8a79eeb6"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="632890a8"
          }
       },
       base_size_x="28.5",
@@ -34486,17 +34486,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Gladiator's Net"]={
-            cost="Double"
+         {
+            _id="73945e60"
          },
-         ["Pit Fighter"]={
-            cost="Double"
+         {
+            _id="a0c80fdf"
          },
-         ["Readied Stance"]={
-            cost="Triple"
+         {
+            _id="8a79eeb6"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="632890a8"
          }
       },
       base_size_x="28.5",
@@ -34527,17 +34527,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Gladiator's Net"]={
-            cost="Double"
+         {
+            _id="73945e60"
          },
-         ["Pit Fighter"]={
-            cost="Double"
+         {
+            _id="a0c80fdf"
          },
-         ["Brutal Strike"]={
-            cost="Quad"
+         {
+            _id="c1ba4e23"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="632890a8"
          }
       },
       base_size_x="32",
@@ -34568,17 +34568,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Gladiator's Net"]={
-            cost="Double"
+         {
+            _id="73945e60"
          },
-         ["Pit Fighter"]={
-            cost="Double"
+         {
+            _id="a0c80fdf"
          },
-         ["Brutal Strike"]={
-            cost="Quad"
+         {
+            _id="c1ba4e23"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="632890a8"
          }
       },
       base_size_x="32",
@@ -34618,17 +34618,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Gladiator's Net"]={
-            cost="Double"
+         {
+            _id="73945e60"
          },
-         ["Pit Fighter"]={
-            cost="Double"
+         {
+            _id="a0c80fdf"
          },
-         ["Champion of the Warpits"]={
-            cost="Triple"
+         {
+            _id="4fd15d12"
          },
-         ["Gladiatorial Display"]={
-            cost="Reaction"
+         {
+            _id="632890a8"
          }
       },
       base_size_x="32",
@@ -34659,11 +34659,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Throw Bolas"]={
-            cost="Double"
+         {
+            _id="4f9ac0c4"
          },
-         ["Clashing Iron"]={
-            cost="Reaction"
+         {
+            _id="1bbc1dfd"
          }
       },
       base_size_x="28.5",
@@ -34703,11 +34703,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Throw Bolas"]={
-            cost="Double"
+         {
+            _id="4f9ac0c4"
          },
-         ["Clashing Iron"]={
-            cost="Reaction"
+         {
+            _id="1bbc1dfd"
          }
       },
       base_size_x="28.5",
@@ -34738,11 +34738,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Throw Bolas"]={
-            cost="Double"
+         {
+            _id="4f9ac0c4"
          },
-         ["Clashing Iron"]={
-            cost="Reaction"
+         {
+            _id="1bbc1dfd"
          }
       },
       base_size_x="28.5",
@@ -34773,11 +34773,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Throw Bolas"]={
-            cost="Double"
+         {
+            _id="4f9ac0c4"
          },
-         ["Clashing Iron"]={
-            cost="Reaction"
+         {
+            _id="1bbc1dfd"
          }
       },
       base_size_x="28.5",
@@ -34808,14 +34808,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Throw Bolas"]={
-            cost="Double"
+         {
+            _id="4f9ac0c4"
          },
-         ["Stand Defiant"]={
-            cost="Triple"
+         {
+            _id="a690cb84"
          },
-         ["Clashing Iron"]={
-            cost="Reaction"
+         {
+            _id="1bbc1dfd"
          }
       },
       base_size_x="32",
@@ -34846,14 +34846,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Spine-crushing Blow"]={
-            cost="Double"
+         {
+            _id="f73c77a3"
          },
-         ["Throw Bolas"]={
-            cost="Double"
+         {
+            _id="4f9ac0c4"
          },
-         ["Clashing Iron"]={
-            cost="Reaction"
+         {
+            _id="1bbc1dfd"
          }
       },
       base_size_x="32",
@@ -34893,14 +34893,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Throw Bolas"]={
-            cost="Double"
+         {
+            _id="4f9ac0c4"
          },
-         ["Whirlwind of Death"]={
-            cost="Quad"
+         {
+            _id="d41d5159"
          },
-         ["Clashing Iron"]={
-            cost="Reaction"
+         {
+            _id="1bbc1dfd"
          }
       },
       base_size_x="32",
@@ -34932,17 +34932,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Spine-crushing Blow"]={
-            cost="Double"
+         {
+            _id="f73c77a3"
          },
-         ["Lead with Strength"]={
-            cost="Double"
+         {
+            _id="379739f5"
          },
-         ["Throw Bolas"]={
-            cost="Double"
+         {
+            _id="4f9ac0c4"
          },
-         ["Clashing Iron"]={
-            cost="Reaction"
+         {
+            _id="1bbc1dfd"
          }
       },
       base_size_x="32",
@@ -34973,14 +34973,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Throw Bolas"]={
-            cost="Double"
+         {
+            _id="4f9ac0c4"
          },
-         ["Living Battering Ram"]={
-            cost="Triple"
+         {
+            _id="d40f57a3"
          },
-         ["Clashing Iron"]={
-            cost="Reaction"
+         {
+            _id="1bbc1dfd"
          }
       },
       base_size_x="40",
@@ -35011,11 +35011,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35046,11 +35046,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35081,14 +35081,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Vicious Beak"]={
-            cost="Double"
+         {
+            _id="91876e2b"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35128,11 +35128,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35172,14 +35172,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         Vulcharc={
-            cost="Double"
+         {
+            _id="1c4dcce8"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35219,11 +35219,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35263,11 +35263,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35307,11 +35307,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35342,11 +35342,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35386,17 +35386,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35427,17 +35427,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35468,14 +35468,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Guided by the Past"]={
-            cost="Triple"
+         {
+            _id="b75d4835"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="40",
@@ -35515,17 +35515,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35566,20 +35566,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Warptongue Blade"]={
-            cost="Triple"
+         {
+            _id="9841c042"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="40",
@@ -35611,20 +35611,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Guided by the Past"]={
-            cost="Triple"
+         {
+            _id="b75d4835"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="40",
@@ -35664,17 +35664,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="32",
@@ -35706,14 +35706,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Guided by the Past"]={
-            cost="Triple"
+         {
+            _id="b75d4835"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="40",
@@ -35754,20 +35754,20 @@ return {
       },
       wounds="32",
       abilities={
-         ["Brutal Rage"]={
-            cost="Double"
+         {
+            _id="a6ef56dc"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="50",
@@ -35808,14 +35808,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Guided by the Future"]={
-            cost="Triple"
+         {
+            _id="2c60887f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="40",
@@ -35856,17 +35856,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="50",
@@ -35907,17 +35907,17 @@ return {
       },
       wounds="28",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="40",
@@ -35950,20 +35950,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Lord of Fate"]={
-            cost="Quad"
+         {
+            _id="cc46e0de"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="60",
@@ -36005,20 +36005,20 @@ return {
       },
       wounds="28",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Warptongue Blade"]={
-            cost="Triple"
+         {
+            _id="9841c042"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="40",
@@ -36051,20 +36051,20 @@ return {
       },
       wounds="26",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Guided by the Past"]={
-            cost="Triple"
+         {
+            _id="b75d4835"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="40",
@@ -36106,20 +36106,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Guided by the Future"]={
-            cost="Triple"
+         {
+            _id="2c60887f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          }
       },
       base_size_x="40",
@@ -36159,14 +36159,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          },
-         ["Empowered Bolts"]={
-            cost="Quad"
+         {
+            _id="edeed6be"
          }
       },
       base_size_x="25",
@@ -36206,17 +36206,17 @@ return {
       },
       wounds="8",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          },
-         ["Split Into Brimstone Horrors"]={
-            cost="Double"
+         {
+            _id="9a8df7e9"
          },
-         ["Empowered Bolts"]={
-            cost="Quad"
+         {
+            _id="edeed6be"
          }
       },
       base_size_x="25",
@@ -36256,14 +36256,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          },
-         ["Empowered Bolts"]={
-            cost="Quad"
+         {
+            _id="edeed6be"
          }
       },
       base_size_x="32",
@@ -36303,14 +36303,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          },
-         ["Empowered Bolts"]={
-            cost="Quad"
+         {
+            _id="edeed6be"
          }
       },
       base_size_x="32",
@@ -36341,17 +36341,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          },
-         ["Cleaving Strike"]={
-            cost="Triple"
+         {
+            _id="695e3dd7"
          },
-         ["Empowered Bolts"]={
-            cost="Quad"
+         {
+            _id="edeed6be"
          }
       },
       base_size_x="32",
@@ -36391,20 +36391,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="c829d5b7"
          },
-         ["Uttered Words of Arcane Power"]={
-            cost="Double"
+         {
+            _id="e385f02e"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="7e2ed59f"
          },
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="b3d111fb"
          },
-         ["Empowered Bolts"]={
-            cost="Quad"
+         {
+            _id="edeed6be"
          }
       },
       base_size_x="32",
@@ -36435,14 +36435,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Poisoned Attacks"]={
-            cost="Double"
+         {
+            _id="5557403e"
          },
-         ["Paralysing Venom"]={
-            cost="Quad"
+         {
+            _id="2dc0b5df"
          },
-         ["Vicious Riposte"]={
-            cost="Reaction"
+         {
+            _id="7c1b88d5"
          }
       },
       base_size_x="25",
@@ -36473,17 +36473,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Fanged Buckler"]={
-            cost="Double"
+         {
+            _id="798e3939"
          },
-         ["Poisoned Attacks"]={
-            cost="Double"
+         {
+            _id="5557403e"
          },
-         ["Paralysing Venom"]={
-            cost="Quad"
+         {
+            _id="2dc0b5df"
          },
-         ["Vicious Riposte"]={
-            cost="Reaction"
+         {
+            _id="7c1b88d5"
          }
       },
       base_size_x="25",
@@ -36514,14 +36514,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Poisoned Attacks"]={
-            cost="Double"
+         {
+            _id="5557403e"
          },
-         ["Paralysing Venom"]={
-            cost="Quad"
+         {
+            _id="2dc0b5df"
          },
-         ["Vicious Riposte"]={
-            cost="Reaction"
+         {
+            _id="7c1b88d5"
          }
       },
       base_size_x="25",
@@ -36561,14 +36561,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Poisoned Attacks"]={
-            cost="Double"
+         {
+            _id="5557403e"
          },
-         ["Paralysing Venom"]={
-            cost="Quad"
+         {
+            _id="2dc0b5df"
          },
-         ["Vicious Riposte"]={
-            cost="Reaction"
+         {
+            _id="7c1b88d5"
          }
       },
       base_size_x="28.5",
@@ -36599,14 +36599,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Poisoned Attacks"]={
-            cost="Double"
+         {
+            _id="5557403e"
          },
-         ["Paralysing Venom"]={
-            cost="Quad"
+         {
+            _id="2dc0b5df"
          },
-         ["Vicious Riposte"]={
-            cost="Reaction"
+         {
+            _id="7c1b88d5"
          }
       },
       base_size_x="28.5",
@@ -36637,17 +36637,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Fanged Buckler"]={
-            cost="Double"
+         {
+            _id="798e3939"
          },
-         ["Poisoned Attacks"]={
-            cost="Double"
+         {
+            _id="5557403e"
          },
-         ["Paralysing Venom"]={
-            cost="Quad"
+         {
+            _id="2dc0b5df"
          },
-         ["Vicious Riposte"]={
-            cost="Reaction"
+         {
+            _id="7c1b88d5"
          }
       },
       base_size_x="28.5",
@@ -36678,17 +36678,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Fanged Buckler"]={
-            cost="Double"
+         {
+            _id="798e3939"
          },
-         ["Poisoned Attacks"]={
-            cost="Double"
+         {
+            _id="5557403e"
          },
-         ["Paralysing Venom"]={
-            cost="Quad"
+         {
+            _id="2dc0b5df"
          },
-         ["Vicious Riposte"]={
-            cost="Reaction"
+         {
+            _id="7c1b88d5"
          }
       },
       base_size_x="28.5",
@@ -36719,17 +36719,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Poisoned Attacks"]={
-            cost="Double"
+         {
+            _id="5557403e"
          },
-         ["Relentless Assault"]={
-            cost="Triple"
+         {
+            _id="523cf1af"
          },
-         ["Paralysing Venom"]={
-            cost="Quad"
+         {
+            _id="2dc0b5df"
          },
-         ["Vicious Riposte"]={
-            cost="Reaction"
+         {
+            _id="7c1b88d5"
          }
       },
       base_size_x="32",
@@ -36769,17 +36769,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Poisoned Attacks"]={
-            cost="Double"
+         {
+            _id="5557403e"
          },
-         ["Snake Charmer"]={
-            cost="Triple"
+         {
+            _id="3bb90969"
          },
-         ["Paralysing Venom"]={
-            cost="Quad"
+         {
+            _id="2dc0b5df"
          },
-         ["Vicious Riposte"]={
-            cost="Reaction"
+         {
+            _id="7c1b88d5"
          }
       },
       base_size_x="32",
@@ -36810,17 +36810,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Ensnaring Net"]={
-            cost="Double"
+         {
+            _id="aac239ca"
          },
-         ["Poisoned Attacks"]={
-            cost="Double"
+         {
+            _id="5557403e"
          },
-         ["Paralysing Venom"]={
-            cost="Quad"
+         {
+            _id="2dc0b5df"
          },
-         ["Vicious Riposte"]={
-            cost="Reaction"
+         {
+            _id="7c1b88d5"
          }
       },
       base_size_x="32",
@@ -36851,14 +36851,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Wrath of the First Prince"]={
-            cost="Quad"
+         {
+            _id="581e490d"
          },
-         ["Shield Ram"]={
-            cost="Double"
+         {
+            _id="facf47b4"
          },
-         ["Call to Arms"]={
-            cost="Reaction"
+         {
+            _id="4825cdea"
          }
       },
       base_size_x="28.5",
@@ -36889,14 +36889,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Wrath of the First Prince"]={
-            cost="Quad"
+         {
+            _id="581e490d"
          },
-         ["Shield Ram"]={
-            cost="Double"
+         {
+            _id="facf47b4"
          },
-         ["Call to Arms"]={
-            cost="Reaction"
+         {
+            _id="4825cdea"
          }
       },
       base_size_x="28.5",
@@ -36927,14 +36927,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Wrath of the First Prince"]={
-            cost="Quad"
+         {
+            _id="581e490d"
          },
-         ["Shield Ram"]={
-            cost="Double"
+         {
+            _id="facf47b4"
          },
-         ["Call to Arms"]={
-            cost="Reaction"
+         {
+            _id="4825cdea"
          }
       },
       base_size_x="28.5",
@@ -36965,14 +36965,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Wrath of the First Prince"]={
-            cost="Quad"
+         {
+            _id="581e490d"
          },
-         ["Brutal Swing"]={
-            cost="Double"
+         {
+            _id="a55ec3a2"
          },
-         ["Call to Arms"]={
-            cost="Reaction"
+         {
+            _id="4825cdea"
          }
       },
       base_size_x="32",
@@ -37003,14 +37003,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Wrath of the First Prince"]={
-            cost="Quad"
+         {
+            _id="581e490d"
          },
-         ["Brutal Swing"]={
-            cost="Double"
+         {
+            _id="a55ec3a2"
          },
-         ["Call to Arms"]={
-            cost="Reaction"
+         {
+            _id="4825cdea"
          }
       },
       base_size_x="32",
@@ -37041,14 +37041,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Headlong Charge"]={
-            cost="Triple"
+         {
+            _id="ea5d339b"
          },
-         ["Wrath of the First Prince"]={
-            cost="Quad"
+         {
+            _id="581e490d"
          },
-         ["Call to Arms"]={
-            cost="Reaction"
+         {
+            _id="4825cdea"
          }
       },
       base_size_x="32",
@@ -37080,20 +37080,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Dark Pact"]={
-            cost="Double"
+         {
+            _id="6abd317b"
          },
-         ["Wrath of the First Prince"]={
-            cost="Quad"
+         {
+            _id="581e490d"
          },
-         ["Shield Ram"]={
-            cost="Double"
+         {
+            _id="facf47b4"
          },
-         ["The True Master's Favour"]={
-            cost="Triple"
+         {
+            _id="6457cded"
          },
-         ["Call to Arms"]={
-            cost="Reaction"
+         {
+            _id="4825cdea"
          }
       },
       base_size_x="32",
@@ -37133,11 +37133,11 @@ return {
       },
       wounds="10",
       abilities={
-         Stonewarp={
-            cost="Double"
+         {
+            _id="de2478b0"
          },
-         ["The Curse of Jade"]={
-            cost="Reaction"
+         {
+            _id="0aeea1c5"
          }
       },
       base_size_x="28.5",
@@ -37168,14 +37168,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Hammering Strikes"]={
-            cost="Double"
+         {
+            _id="36774520"
          },
-         Stonewarp={
-            cost="Double"
+         {
+            _id="de2478b0"
          },
-         ["The Curse of Jade"]={
-            cost="Reaction"
+         {
+            _id="0aeea1c5"
          }
       },
       base_size_x="28.5",
@@ -37206,14 +37206,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Rock-shattering Blow"]={
-            cost="Double"
+         {
+            _id="3dea36d7"
          },
-         Stonewarp={
-            cost="Double"
+         {
+            _id="de2478b0"
          },
-         ["The Curse of Jade"]={
-            cost="Reaction"
+         {
+            _id="0aeea1c5"
          }
       },
       base_size_x="32",
@@ -37244,14 +37244,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Rock-shattering Blow"]={
-            cost="Double"
+         {
+            _id="3dea36d7"
          },
-         Stonewarp={
-            cost="Double"
+         {
+            _id="de2478b0"
          },
-         ["The Curse of Jade"]={
-            cost="Reaction"
+         {
+            _id="0aeea1c5"
          }
       },
       base_size_x="32",
@@ -37283,14 +37283,14 @@ return {
       },
       wounds="8",
       abilities={
-         Stonewarp={
-            cost="Double"
+         {
+            _id="de2478b0"
          },
-         ["Gaze of the Idolarc"]={
-            cost="Triple"
+         {
+            _id="7bb0cd4b"
          },
-         ["The Curse of Jade"]={
-            cost="Reaction"
+         {
+            _id="0aeea1c5"
          }
       },
       base_size_x="28.5",
@@ -37322,14 +37322,14 @@ return {
       },
       wounds="20",
       abilities={
-         Stonewarp={
-            cost="Double"
+         {
+            _id="de2478b0"
          },
-         ["Bloody Tribute"]={
-            cost="Triple"
+         {
+            _id="7be64433"
          },
-         ["The Curse of Jade"]={
-            cost="Reaction"
+         {
+            _id="0aeea1c5"
          }
       },
       base_size_x="32",
@@ -37360,14 +37360,14 @@ return {
       },
       wounds="20",
       abilities={
-         Stonewarp={
-            cost="Double"
+         {
+            _id="de2478b0"
          },
-         ["Might of the Speaker"]={
-            cost="Quad"
+         {
+            _id="c9f0d8ea"
          },
-         ["The Curse of Jade"]={
-            cost="Reaction"
+         {
+            _id="0aeea1c5"
          }
       },
       base_size_x="32",
@@ -37398,14 +37398,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Disgustingly Resilient"]={
-            cost="Double"
+         {
+            _id="36191fb0"
          },
-         ["Cloud of Flies"]={
-            cost="Triple"
+         {
+            _id="4ba7bd21"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="7c142afa"
          }
       },
       base_size_x="32",
@@ -37437,17 +37437,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Disgustingly Resilient"]={
-            cost="Double"
+         {
+            _id="36191fb0"
          },
-         ["Cloud of Flies"]={
-            cost="Triple"
+         {
+            _id="4ba7bd21"
          },
-         ["Menacing Overseer"]={
-            cost="Quad"
+         {
+            _id="eb4c8d1f"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="7c142afa"
          }
       },
       base_size_x="32",
@@ -37478,14 +37478,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Disgustingly Resilient"]={
-            cost="Double"
+         {
+            _id="36191fb0"
          },
-         ["Endless Swarm"]={
-            cost="Quad"
+         {
+            _id="26f3ceec"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="7c142afa"
          }
       },
       base_size_x="40",
@@ -37525,14 +37525,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Disgustingly Resilient"]={
-            cost="Double"
+         {
+            _id="36191fb0"
          },
-         ["Menacing Overseer"]={
-            cost="Quad"
+         {
+            _id="eb4c8d1f"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="7c142afa"
          }
       },
       base_size_x="32",
@@ -37564,17 +37564,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Jolly Gutpipes"]={
-            cost="Double"
+         {
+            _id="7b88e541"
          },
-         ["Disgustingly Resilient"]={
-            cost="Double"
+         {
+            _id="36191fb0"
          },
-         ["Menacing Overseer"]={
-            cost="Quad"
+         {
+            _id="eb4c8d1f"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="7c142afa"
          }
       },
       base_size_x="32",
@@ -37606,20 +37606,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Disgustingly Resilient"]={
-            cost="Double"
+         {
+            _id="36191fb0"
          },
-         ["Grandfather's Blessing"]={
-            cost="Triple"
+         {
+            _id="9efb5761"
          },
-         ["Menacing Overseer"]={
-            cost="Quad"
+         {
+            _id="eb4c8d1f"
          },
-         ["Disgusting Sneeze"]={
-            cost="Triple"
+         {
+            _id="bc938e66"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="7c142afa"
          }
       },
       base_size_x="40",
@@ -37651,14 +37651,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Acidic Slime Trail"]={
-            cost="Double"
+         {
+            _id="d1c3e90e"
          },
-         ["Disgustingly Resilient"]={
-            cost="Double"
+         {
+            _id="36191fb0"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="7c142afa"
          }
       },
       base_size_x="60",
@@ -37690,14 +37690,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Disgustingly Resilient"]={
-            cost="Double"
+         {
+            _id="36191fb0"
          },
-         ["Venomous Sting"]={
-            cost="Double"
+         {
+            _id="e4fcbd83"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="7c142afa"
          }
       },
       base_size_x="60",
@@ -37730,17 +37730,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Disgustingly Resilient"]={
-            cost="Double"
+         {
+            _id="36191fb0"
          },
-         ["Venomous Sting"]={
-            cost="Double"
+         {
+            _id="e4fcbd83"
          },
-         ["Menacing Overseer"]={
-            cost="Quad"
+         {
+            _id="eb4c8d1f"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="7c142afa"
          }
       },
       base_size_x="60",
@@ -37771,11 +37771,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="25",
@@ -37806,14 +37806,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Shield Ram"]={
-            cost="Double"
+         {
+            _id="7aa28b1a"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="25",
@@ -37844,14 +37844,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Shield Ram"]={
-            cost="Double"
+         {
+            _id="7aa28b1a"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -37882,14 +37882,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="25",
@@ -37920,14 +37920,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Shield Ram"]={
-            cost="Double"
+         {
+            _id="7aa28b1a"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -37958,11 +37958,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -37993,11 +37993,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -38028,14 +38028,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="35",
@@ -38066,14 +38066,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="35",
@@ -38105,17 +38105,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Throw Javelin"]={
-            cost="Double"
+         {
+            _id="750f9c66"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="35",
@@ -38146,14 +38146,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Lead the Slaughter"]={
-            cost="Quad"
+         {
+            _id="e818fc5e"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="40",
@@ -38194,17 +38194,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Daemonic Power"]={
-            cost="Double"
+         {
+            _id="99e82b1e"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -38235,14 +38235,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -38274,17 +38274,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="1f026a5d"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -38316,17 +38316,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Spurred by the Gods"]={
-            cost="Triple"
+         {
+            _id="5fd3d1b4"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -38358,17 +38358,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Lead the Slaughter"]={
-            cost="Quad"
+         {
+            _id="e818fc5e"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="40",
@@ -38400,17 +38400,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Spurred by the Gods"]={
-            cost="Triple"
+         {
+            _id="5fd3d1b4"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="40",
@@ -38441,14 +38441,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="42",
@@ -38479,14 +38479,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="42",
@@ -38518,17 +38518,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Spurred by the Gods"]={
-            cost="Triple"
+         {
+            _id="5fd3d1b4"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="40",
@@ -38560,17 +38560,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="35",
@@ -38602,17 +38602,17 @@ return {
       },
       wounds="26",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="42",
@@ -38645,20 +38645,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Relentless Killers"]={
-            cost="Double"
+         {
+            _id="ed768c7b"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="42",
@@ -38691,20 +38691,20 @@ return {
       },
       wounds="32",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Knights of Chaos"]={
-            cost="Triple"
+         {
+            _id="7448436b"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="52",
@@ -38737,20 +38737,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Relentless Killers"]={
-            cost="Double"
+         {
+            _id="ed768c7b"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="42",
@@ -38783,20 +38783,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Relentless Killers"]={
-            cost="Double"
+         {
+            _id="ed768c7b"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="42",
@@ -38829,20 +38829,20 @@ return {
       },
       wounds="38",
       abilities={
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Knights of Chaos"]={
-            cost="Triple"
+         {
+            _id="7448436b"
          },
-         ["Trampling Hooves"]={
-            cost="Triple"
+         {
+            _id="0fac0955"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="52",
@@ -38873,20 +38873,20 @@ return {
       },
       wounds="15",
       abilities={
-         ["Self-Command"]={
-            cost="Triple"
+         {
+            _id="770d0514"
          },
-         Unleash={
-            cost="Double"
+         {
+            _id="a2760cc0"
          },
-         ["In Control"]={
-            cost="Quad"
+         {
+            _id="0e50e126"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -38926,20 +38926,20 @@ return {
       },
       wounds="15",
       abilities={
-         ["Self-Command"]={
-            cost="Triple"
+         {
+            _id="770d0514"
          },
-         Unleash={
-            cost="Double"
+         {
+            _id="a2760cc0"
          },
-         ["In Control"]={
-            cost="Quad"
+         {
+            _id="0e50e126"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -38970,20 +38970,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Self-Command"]={
-            cost="Triple"
+         {
+            _id="770d0514"
          },
-         Unleash={
-            cost="Double"
+         {
+            _id="a2760cc0"
          },
-         ["In Control"]={
-            cost="Quad"
+         {
+            _id="0e50e126"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39024,23 +39024,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Self-Command"]={
-            cost="Triple"
+         {
+            _id="770d0514"
          },
-         Unleash={
-            cost="Double"
+         {
+            _id="a2760cc0"
          },
-         ["In Control"]={
-            cost="Quad"
+         {
+            _id="0e50e126"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39071,14 +39071,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Oathsworn Attack"]={
-            cost="Quad"
+         {
+            _id="9c13b815"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="25",
@@ -39109,17 +39109,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Oathsworn Attack"]={
-            cost="Quad"
+         {
+            _id="9c13b815"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Throw Javelin"]={
-            cost="Double"
+         {
+            _id="750f9c66"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39150,14 +39150,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Oathsworn Attack"]={
-            cost="Quad"
+         {
+            _id="9c13b815"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39188,14 +39188,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Oathsworn Attack"]={
-            cost="Quad"
+         {
+            _id="9c13b815"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39235,17 +39235,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Hunting Hound"]={
-            cost="Double"
+         {
+            _id="675458df"
          },
-         ["Oathsworn Attack"]={
-            cost="Quad"
+         {
+            _id="9c13b815"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39285,20 +39285,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Oathsworn Attack"]={
-            cost="Quad"
+         {
+            _id="9c13b815"
          },
-         Enfeeble={
-            cost="Triple"
+         {
+            _id="bb78388f"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39329,14 +39329,14 @@ return {
       },
       wounds="16",
       abilities={
-         Desecration={
-            cost="Quad"
+         {
+            _id="86479928"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39376,20 +39376,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Spite-tongue Curse"]={
-            cost="Double"
+         {
+            _id="ca47fc19"
          },
-         ["Mask of Darkness"]={
-            cost="Triple"
+         {
+            _id="8dd67b76"
          },
-         Desecration={
-            cost="Quad"
+         {
+            _id="86479928"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39420,17 +39420,17 @@ return {
       },
       wounds="16",
       abilities={
-         Desecration={
-            cost="Quad"
+         {
+            _id="86479928"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Shield Ram"]={
-            cost="Double"
+         {
+            _id="7aa28b1a"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39461,17 +39461,17 @@ return {
       },
       wounds="26",
       abilities={
-         Desecration={
-            cost="Quad"
+         {
+            _id="86479928"
          },
-         ["Imbued with Dark Power"]={
-            cost="Double"
+         {
+            _id="37f92b91"
          },
-         ["Champion of Darkness"]={
-            cost="Triple"
+         {
+            _id="fc79c438"
          },
-         ["Boon of Fortitude"]={
-            cost="Reaction"
+         {
+            _id="57d69e94"
          }
       },
       base_size_x="32",
@@ -39502,14 +39502,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="28.5",
@@ -39540,14 +39540,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="28.5",
@@ -39578,14 +39578,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="28.5",
@@ -39616,14 +39616,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="28.5",
@@ -39663,20 +39663,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         ["Visions of Glory"]={
-            cost="Double"
+         {
+            _id="ef30be4b"
          },
-         ["Curse of Withering"]={
-            cost="Quad"
+         {
+            _id="fc38e638"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="32",
@@ -39707,17 +39707,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         ["Furious Rampage"]={
-            cost="Triple"
+         {
+            _id="a3ec1906"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="32",
@@ -39748,14 +39748,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="28.5",
@@ -39786,14 +39786,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="28.5",
@@ -39824,14 +39824,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="28.5",
@@ -39862,14 +39862,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="28.5",
@@ -39900,17 +39900,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         ["Display of Brutality"]={
-            cost="Double"
+         {
+            _id="dfe65d68"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="32",
@@ -39941,17 +39941,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["A Vow Fulfilled"]={
-            cost="Double"
+         {
+            _id="964fb133"
          },
-         ["Display of Brutality"]={
-            cost="Double"
+         {
+            _id="dfe65d68"
          },
-         Deathblow={
-            cost="Quad"
+         {
+            _id="812e4d39"
          },
-         ["Instinctive Dodge"]={
-            cost="Reaction"
+         {
+            _id="dbb2c7b4"
          }
       },
       base_size_x="32",
@@ -39982,14 +39982,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Sadistic Killers"]={
-            cost="Double"
+         {
+            _id="83678d74"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="25",
@@ -40021,17 +40021,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Sadistic Killers"]={
-            cost="Double"
+         {
+            _id="83678d74"
          },
-         ["Locus of Excruciation"]={
-            cost="Triple"
+         {
+            _id="416b283a"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="25",
@@ -40063,14 +40063,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Impaling Strike"]={
-            cost="Triple"
+         {
+            _id="68315ec3"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="35",
@@ -40101,11 +40101,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="35",
@@ -40137,14 +40137,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Sadistic Killers"]={
-            cost="Double"
+         {
+            _id="83678d74"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="35",
@@ -40185,17 +40185,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Sadistic Killers"]={
-            cost="Double"
+         {
+            _id="83678d74"
          },
-         ["Locus of Excruciation"]={
-            cost="Triple"
+         {
+            _id="416b283a"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="25",
@@ -40226,17 +40226,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Crushing Grip"]={
-            cost="Double"
+         {
+            _id="1d23c490"
          },
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Deadly Venom"]={
-            cost="Triple"
+         {
+            _id="c3cace86"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="42",
@@ -40277,17 +40277,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Discordant Disruption"]={
-            cost="Double"
+         {
+            _id="dad2c7a5"
          },
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Locus of Excruciation"]={
-            cost="Triple"
+         {
+            _id="416b283a"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="35",
@@ -40320,17 +40320,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Impaling Strike"]={
-            cost="Triple"
+         {
+            _id="68315ec3"
          },
-         ["Locus of Excruciation"]={
-            cost="Triple"
+         {
+            _id="416b283a"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="35",
@@ -40363,17 +40363,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Sadistic Killers"]={
-            cost="Double"
+         {
+            _id="83678d74"
          },
-         ["Locus of Excruciation"]={
-            cost="Triple"
+         {
+            _id="416b283a"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="35",
@@ -40405,20 +40405,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Crushing Grip"]={
-            cost="Double"
+         {
+            _id="1d23c490"
          },
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Locus of Excruciation"]={
-            cost="Triple"
+         {
+            _id="416b283a"
          },
-         ["Deadly Venom"]={
-            cost="Triple"
+         {
+            _id="c3cace86"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="42",
@@ -40459,17 +40459,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Locus of Excruciation"]={
-            cost="Triple"
+         {
+            _id="416b283a"
          },
-         ["Mirror of Absorption"]={
-            cost="Quad"
+         {
+            _id="672c6343"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          }
       },
       base_size_x="42",
@@ -40501,20 +40501,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Locus of Excruciation"]={
-            cost="Triple"
+         {
+            _id="416b283a"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          },
-         ["Triumphant Tittering"]={
-            cost="Reaction"
+         {
+            _id="43a7aafc"
          },
-         ["Undignified Effort"]={
-            cost="Quad"
+         {
+            _id="e3d1a85a"
          }
       },
       base_size_x="40",
@@ -40555,23 +40555,23 @@ return {
       },
       wounds="16",
       abilities={
-         ["Discordant Disruption"]={
-            cost="Double"
+         {
+            _id="dad2c7a5"
          },
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Locus of Excruciation"]={
-            cost="Triple"
+         {
+            _id="416b283a"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          },
-         ["Triumphant Tittering"]={
-            cost="Reaction"
+         {
+            _id="43a7aafc"
          },
-         ["The Coiled Lash"]={
-            cost="Double"
+         {
+            _id="33e89464"
          }
       },
       base_size_x="28.5",
@@ -40603,20 +40603,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Lithe and Swift"]={
-            cost="Double"
+         {
+            _id="8a98ff14"
          },
-         ["Locus of Excruciation"]={
-            cost="Triple"
+         {
+            _id="416b283a"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="c981e213"
          },
-         ["Triumphant Tittering"]={
-            cost="Reaction"
+         {
+            _id="43a7aafc"
          },
-         ["The Bladed Blessing"]={
-            cost="Triple"
+         {
+            _id="fb09bc82"
          }
       },
       base_size_x="28.5",
@@ -40647,14 +40647,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="40",
@@ -40685,14 +40685,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="40",
@@ -40723,17 +40723,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Blighted Icon"]={
-            cost="Triple"
+         {
+            _id="77852703"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="40",
@@ -40764,17 +40764,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Toll of the Sonorous Tocsin"]={
-            cost="Double"
+         {
+            _id="dc696c9b"
          },
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="40",
@@ -40815,20 +40815,20 @@ return {
       },
       wounds="22",
       abilities={
-         ["Stream of Corruption"]={
-            cost="Triple"
+         {
+            _id="e5b4ec78"
          },
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Grandfather's Blessing"]={
-            cost="Triple"
+         {
+            _id="4ae93ad6"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="32",
@@ -40859,17 +40859,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Grandfather's Blessing"]={
-            cost="Triple"
+         {
+            _id="4ae93ad6"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="40",
@@ -40901,20 +40901,20 @@ return {
       },
       wounds="32",
       abilities={
-         ["Thrice-ripened Death's Head"]={
-            cost="Double"
+         {
+            _id="07e66087"
          },
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Grandfather's Blessing"]={
-            cost="Triple"
+         {
+            _id="4ae93ad6"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="40",
@@ -40945,17 +40945,17 @@ return {
       },
       wounds="32",
       abilities={
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Grandfather's Blessing"]={
-            cost="Triple"
+         {
+            _id="4ae93ad6"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="40",
@@ -40988,20 +40988,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Grandfather's Blessing"]={
-            cost="Triple"
+         {
+            _id="4ae93ad6"
          },
-         ["Rotsword Stab"]={
-            cost="Triple"
+         {
+            _id="43344368"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="52",
@@ -41033,17 +41033,17 @@ return {
       },
       wounds="38",
       abilities={
-         ["Venomous Sting"]={
-            cost="Double"
+         {
+            _id="db96f167"
          },
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="60",
@@ -41076,20 +41076,20 @@ return {
       },
       wounds="42",
       abilities={
-         ["Venomous Sting"]={
-            cost="Double"
+         {
+            _id="db96f167"
          },
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Grandfather's Blessing"]={
-            cost="Triple"
+         {
+            _id="4ae93ad6"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="60",
@@ -41120,14 +41120,14 @@ return {
       },
       wounds="26",
       abilities={
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="40",
@@ -41158,14 +41158,14 @@ return {
       },
       wounds="26",
       abilities={
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          }
       },
       base_size_x="40",
@@ -41206,23 +41206,23 @@ return {
       },
       wounds="28",
       abilities={
-         ["Stream of Corruption"]={
-            cost="Triple"
+         {
+            _id="e5b4ec78"
          },
-         ["Virulent Discharge"]={
-            cost="Double"
+         {
+            _id="cad56a1d"
          },
-         ["Grandfather's Blessing"]={
-            cost="Triple"
+         {
+            _id="4ae93ad6"
          },
-         ["Unnatural Regeneration"]={
-            cost="Triple"
+         {
+            _id="87f770a5"
          },
-         ["Impossible to Wound"]={
-            cost="Reaction"
+         {
+            _id="3ae55ee5"
          },
-         ["Draw Upon the Retchling's Power"]={
-            cost="Double"
+         {
+            _id="99104002"
          }
       },
       base_size_x="40",
@@ -41253,17 +41253,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Barbed Strike"]={
-            cost="Double"
+         {
+            _id="a5e1cbb7"
          },
-         ["Nightmarish Visage"]={
-            cost="Double"
+         {
+            _id="4ef5e91c"
          },
-         ["Gift of Agony"]={
-            cost="Quad"
+         {
+            _id="7bf89ac5"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="07cf5c8a"
          }
       },
       base_size_x="25",
@@ -41303,17 +41303,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Barbed Strike"]={
-            cost="Double"
+         {
+            _id="a5e1cbb7"
          },
-         ["Nightmarish Visage"]={
-            cost="Double"
+         {
+            _id="4ef5e91c"
          },
-         ["Gift of Agony"]={
-            cost="Quad"
+         {
+            _id="7bf89ac5"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="07cf5c8a"
          }
       },
       base_size_x="25",
@@ -41344,20 +41344,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Barbed Strike"]={
-            cost="Double"
+         {
+            _id="a5e1cbb7"
          },
-         ["Chain Garrotte"]={
-            cost="Double"
+         {
+            _id="4343d81b"
          },
-         ["Nightmarish Visage"]={
-            cost="Double"
+         {
+            _id="4ef5e91c"
          },
-         ["Gift of Agony"]={
-            cost="Quad"
+         {
+            _id="7bf89ac5"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="07cf5c8a"
          }
       },
       base_size_x="28.5",
@@ -41388,20 +41388,20 @@ return {
       },
       wounds="15",
       abilities={
-         ["Barbed Strike"]={
-            cost="Double"
+         {
+            _id="a5e1cbb7"
          },
-         ["Nightmarish Visage"]={
-            cost="Double"
+         {
+            _id="4ef5e91c"
          },
-         ["Flaying Frenzy"]={
-            cost="Triple"
+         {
+            _id="87158e67"
          },
-         ["Gift of Agony"]={
-            cost="Quad"
+         {
+            _id="7bf89ac5"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="07cf5c8a"
          }
       },
       base_size_x="32",
@@ -41432,20 +41432,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Barbed Strike"]={
-            cost="Double"
+         {
+            _id="a5e1cbb7"
          },
-         ["Nightmarish Visage"]={
-            cost="Double"
+         {
+            _id="4ef5e91c"
          },
-         ["Vessel of Torment"]={
-            cost="Triple"
+         {
+            _id="e1dc954d"
          },
-         ["Gift of Agony"]={
-            cost="Quad"
+         {
+            _id="7bf89ac5"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="07cf5c8a"
          }
       },
       base_size_x="40",
@@ -41476,17 +41476,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Acrobatic Leap"]={
-            cost="Double"
+         {
+            _id="3ffa85e3"
          },
-         ["Throwing Stars and Chakrams"]={
-            cost="Double"
+         {
+            _id="038f12f3"
          },
-         ["Spinning Somersault Strike"]={
-            cost="Quad"
+         {
+            _id="b1ded338"
          },
-         ["Unexpected Assault"]={
-            cost="Reaction"
+         {
+            _id="a4ef9ab9"
          }
       },
       base_size_x="25",
@@ -41518,20 +41518,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Acrobatic Leap"]={
-            cost="Double"
+         {
+            _id="3ffa85e3"
          },
-         ["Low Sweeping Blow"]={
-            cost="Double"
+         {
+            _id="dccce837"
          },
-         ["Throwing Stars and Chakrams"]={
-            cost="Double"
+         {
+            _id="038f12f3"
          },
-         ["Spinning Somersault Strike"]={
-            cost="Quad"
+         {
+            _id="b1ded338"
          },
-         ["Unexpected Assault"]={
-            cost="Reaction"
+         {
+            _id="a4ef9ab9"
          }
       },
       base_size_x="25",
@@ -41562,17 +41562,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Acrobatic Leap"]={
-            cost="Double"
+         {
+            _id="3ffa85e3"
          },
-         ["Throwing Stars and Chakrams"]={
-            cost="Double"
+         {
+            _id="038f12f3"
          },
-         ["Spinning Somersault Strike"]={
-            cost="Quad"
+         {
+            _id="b1ded338"
          },
-         ["Unexpected Assault"]={
-            cost="Reaction"
+         {
+            _id="a4ef9ab9"
          }
       },
       base_size_x="28.5",
@@ -41604,20 +41604,20 @@ return {
       },
       wounds="10",
       abilities={
-         ["Acrobatic Leap"]={
-            cost="Double"
+         {
+            _id="3ffa85e3"
          },
-         ["Low Sweeping Blow"]={
-            cost="Double"
+         {
+            _id="dccce837"
          },
-         ["Throwing Stars and Chakrams"]={
-            cost="Double"
+         {
+            _id="038f12f3"
          },
-         ["Spinning Somersault Strike"]={
-            cost="Quad"
+         {
+            _id="b1ded338"
          },
-         ["Unexpected Assault"]={
-            cost="Reaction"
+         {
+            _id="a4ef9ab9"
          }
       },
       base_size_x="28.5",
@@ -41648,20 +41648,20 @@ return {
       },
       wounds="15",
       abilities={
-         ["Acrobatic Leap"]={
-            cost="Double"
+         {
+            _id="3ffa85e3"
          },
-         ["Throwing Stars and Chakrams"]={
-            cost="Double"
+         {
+            _id="038f12f3"
          },
-         ["Shadowy Recall"]={
-            cost="Triple"
+         {
+            _id="a865d13b"
          },
-         ["Spinning Somersault Strike"]={
-            cost="Quad"
+         {
+            _id="b1ded338"
          },
-         ["Unexpected Assault"]={
-            cost="Reaction"
+         {
+            _id="a4ef9ab9"
          }
       },
       base_size_x="28.5",
@@ -41693,23 +41693,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Acrobatic Leap"]={
-            cost="Double"
+         {
+            _id="3ffa85e3"
          },
-         ["Throwing Stars and Chakrams"]={
-            cost="Double"
+         {
+            _id="038f12f3"
          },
-         ["Shadowy Recall"]={
-            cost="Triple"
+         {
+            _id="a865d13b"
          },
-         ["Shattered Gloom Globe"]={
-            cost="Triple"
+         {
+            _id="d2a7ed23"
          },
-         ["Spinning Somersault Strike"]={
-            cost="Quad"
+         {
+            _id="b1ded338"
          },
-         ["Unexpected Assault"]={
-            cost="Reaction"
+         {
+            _id="a4ef9ab9"
          }
       },
       base_size_x="32",
@@ -41740,20 +41740,20 @@ return {
       },
       wounds="8",
       abilities={
-         ["Raven Dart"]={
-            cost="Double"
+         {
+            _id="26c85cff"
          },
-         ["Death from Above"]={
-            cost="Quad"
+         {
+            _id="c5a997f2"
          },
-         ["Wall Run"]={
-            cost="Double"
+         {
+            _id="a4f11133"
          },
-         ["Running Strike"]={
-            cost="Quad"
+         {
+            _id="54d55383"
          },
-         ["Raptor Strike"]={
-            cost="Reaction"
+         {
+            _id="76419c03"
          }
       },
       base_size_x="25",
@@ -41784,23 +41784,23 @@ return {
       },
       wounds="8",
       abilities={
-         ["Harrying Raven"]={
-            cost="Double"
+         {
+            _id="db4552ec"
          },
-         ["Raven Dart"]={
-            cost="Double"
+         {
+            _id="26c85cff"
          },
-         ["Death from Above"]={
-            cost="Quad"
+         {
+            _id="c5a997f2"
          },
-         ["Wall Run"]={
-            cost="Double"
+         {
+            _id="a4f11133"
          },
-         ["Running Strike"]={
-            cost="Quad"
+         {
+            _id="54d55383"
          },
-         ["Raptor Strike"]={
-            cost="Reaction"
+         {
+            _id="76419c03"
          }
       },
       base_size_x="25",
@@ -41831,20 +41831,20 @@ return {
       },
       wounds="8",
       abilities={
-         ["Raven Dart"]={
-            cost="Double"
+         {
+            _id="26c85cff"
          },
-         ["Death from Above"]={
-            cost="Quad"
+         {
+            _id="c5a997f2"
          },
-         ["Wall Run"]={
-            cost="Double"
+         {
+            _id="a4f11133"
          },
-         ["Running Strike"]={
-            cost="Quad"
+         {
+            _id="54d55383"
          },
-         ["Raptor Strike"]={
-            cost="Reaction"
+         {
+            _id="76419c03"
          }
       },
       base_size_x="25",
@@ -41875,23 +41875,23 @@ return {
       },
       wounds="15",
       abilities={
-         ["Raven Dart"]={
-            cost="Double"
+         {
+            _id="26c85cff"
          },
-         ["Swift Climb"]={
-            cost="Double"
+         {
+            _id="0f860443"
          },
-         ["Death from Above"]={
-            cost="Quad"
+         {
+            _id="c5a997f2"
          },
-         ["Wall Run"]={
-            cost="Double"
+         {
+            _id="a4f11133"
          },
-         ["Running Strike"]={
-            cost="Quad"
+         {
+            _id="54d55383"
          },
-         ["Raptor Strike"]={
-            cost="Reaction"
+         {
+            _id="76419c03"
          }
       },
       base_size_x="28.5",
@@ -41923,26 +41923,26 @@ return {
       },
       wounds="20",
       abilities={
-         ["Harrying Raven"]={
-            cost="Double"
+         {
+            _id="db4552ec"
          },
-         ["Raven Dart"]={
-            cost="Double"
+         {
+            _id="26c85cff"
          },
-         ["Grisly Trophy"]={
-            cost="Triple"
+         {
+            _id="d9fa1342"
          },
-         ["Death from Above"]={
-            cost="Quad"
+         {
+            _id="c5a997f2"
          },
-         ["Wall Run"]={
-            cost="Double"
+         {
+            _id="a4f11133"
          },
-         ["Running Strike"]={
-            cost="Quad"
+         {
+            _id="54d55383"
          },
-         ["Raptor Strike"]={
-            cost="Reaction"
+         {
+            _id="76419c03"
          }
       },
       base_size_x="28.5",
@@ -41973,23 +41973,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Raven Dart"]={
-            cost="Double"
+         {
+            _id="26c85cff"
          },
-         ["Swooping Attack"]={
-            cost="Triple"
+         {
+            _id="bfe8d30f"
          },
-         ["Death from Above"]={
-            cost="Quad"
+         {
+            _id="c5a997f2"
          },
-         ["Wall Run"]={
-            cost="Double"
+         {
+            _id="a4f11133"
          },
-         ["Running Strike"]={
-            cost="Quad"
+         {
+            _id="54d55383"
          },
-         ["Raptor Strike"]={
-            cost="Reaction"
+         {
+            _id="76419c03"
          }
       },
       base_size_x="40",
@@ -42020,11 +42020,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="25",
@@ -42064,14 +42064,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Volley of Tearing Blades"]={
-            cost="Triple"
+         {
+            _id="260bfd0f"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="28.5",
@@ -42102,14 +42102,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Dance of the Wailing Blade"]={
-            cost="Double"
+         {
+            _id="e20d873a"
          },
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="32",
@@ -42140,14 +42140,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Ego-driven Excess"]={
-            cost="Quad"
+         {
+            _id="a8b8d908"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="32",
@@ -42178,14 +42178,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Ego-driven Excess"]={
-            cost="Quad"
+         {
+            _id="a8b8d908"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="32",
@@ -42226,17 +42226,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Violence and Excess"]={
-            cost="Double"
+         {
+            _id="96b6782c"
          },
-         ["Tendrils of Unnatural Smoke"]={
-            cost="Triple"
+         {
+            _id="e7fd1214"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="32",
@@ -42267,14 +42267,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Ego-driven Excess"]={
-            cost="Quad"
+         {
+            _id="a8b8d908"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="32",
@@ -42315,17 +42315,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Violence and Excess"]={
-            cost="Double"
+         {
+            _id="96b6782c"
          },
-         ["Volley of Tearing Blades"]={
-            cost="Triple"
+         {
+            _id="260bfd0f"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="28.5",
@@ -42357,14 +42357,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Impaling Strike"]={
-            cost="Triple"
+         {
+            _id="2e0f4291"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="35",
@@ -42395,11 +42395,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="35",
@@ -42440,14 +42440,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Volley of Tearing Blades"]={
-            cost="Triple"
+         {
+            _id="260bfd0f"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="42",
@@ -42479,17 +42479,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Dance of the Wailing Blade"]={
-            cost="Double"
+         {
+            _id="e20d873a"
          },
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Violence and Excess"]={
-            cost="Double"
+         {
+            _id="96b6782c"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="32",
@@ -42521,14 +42521,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Impaling Strike"]={
-            cost="Triple"
+         {
+            _id="2e0f4291"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="42",
@@ -42560,17 +42560,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Violence and Excess"]={
-            cost="Double"
+         {
+            _id="96b6782c"
          },
-         ["Ego-driven Excess"]={
-            cost="Quad"
+         {
+            _id="a8b8d908"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="32",
@@ -42601,14 +42601,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Slaves to Impulse"]={
-            cost="Double"
+         {
+            _id="982a97f2"
          },
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="40",
@@ -42641,17 +42641,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Violence and Excess"]={
-            cost="Double"
+         {
+            _id="96b6782c"
          },
-         ["Impaling Strike"]={
-            cost="Triple"
+         {
+            _id="2e0f4291"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="35",
@@ -42693,17 +42693,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Violence and Excess"]={
-            cost="Double"
+         {
+            _id="96b6782c"
          },
-         ["Volley of Tearing Blades"]={
-            cost="Triple"
+         {
+            _id="260bfd0f"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="42",
@@ -42736,17 +42736,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Violence and Excess"]={
-            cost="Double"
+         {
+            _id="96b6782c"
          },
-         ["Impaling Strike"]={
-            cost="Triple"
+         {
+            _id="2e0f4291"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="42",
@@ -42778,17 +42778,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Violence and Excess"]={
-            cost="Double"
+         {
+            _id="96b6782c"
          },
-         ["Paragon of Depravity"]={
-            cost="Quad"
+         {
+            _id="94ed80a4"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="40",
@@ -42820,17 +42820,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Slaves to Impulse"]={
-            cost="Double"
+         {
+            _id="982a97f2"
          },
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Violence and Excess"]={
-            cost="Double"
+         {
+            _id="96b6782c"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          }
       },
       base_size_x="40",
@@ -42861,14 +42861,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          },
-         ["Cavalcade of Madness"]={
-            cost="Quad"
+         {
+            _id="60eaf064"
          }
       },
       base_size_x="25",
@@ -42908,17 +42908,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Volley of Tearing Blades"]={
-            cost="Triple"
+         {
+            _id="260bfd0f"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          },
-         ["Cavalcade of Madness"]={
-            cost="Quad"
+         {
+            _id="60eaf064"
          }
       },
       base_size_x="25",
@@ -42949,17 +42949,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Slaves to Impulse"]={
-            cost="Double"
+         {
+            _id="982a97f2"
          },
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          },
-         ["Cavalcade of Madness"]={
-            cost="Quad"
+         {
+            _id="60eaf064"
          }
       },
       base_size_x="40",
@@ -42991,20 +42991,20 @@ return {
       },
       wounds="26",
       abilities={
-         ["Dance of the Wailing Blade"]={
-            cost="Double"
+         {
+            _id="e20d873a"
          },
-         ["Unrivalled Velocity"]={
-            cost="Double"
+         {
+            _id="25ae4b3e"
          },
-         ["Violence and Excess"]={
-            cost="Double"
+         {
+            _id="96b6782c"
          },
-         ["Shared Pain"]={
-            cost="Reaction"
+         {
+            _id="d9e17b86"
          },
-         ["Cavalcade of Madness"]={
-            cost="Quad"
+         {
+            _id="60eaf064"
          }
       },
       base_size_x="32",
@@ -43035,17 +43035,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Pack Hunters"]={
-            cost="Double"
+         {
+            _id="3b26491a"
          },
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="0f23907a"
          },
-         ["Savage Mauling"]={
-            cost="Quad"
+         {
+            _id="335848c5"
          },
-         ["Bay for Coward's Blood"]={
-            cost="Reaction"
+         {
+            _id="6964dbf2"
          }
       },
       base_size_x="28.5",
@@ -43076,17 +43076,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Pack Hunters"]={
-            cost="Double"
+         {
+            _id="3b26491a"
          },
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="0f23907a"
          },
-         ["Savage Mauling"]={
-            cost="Quad"
+         {
+            _id="335848c5"
          },
-         ["Bay for Coward's Blood"]={
-            cost="Reaction"
+         {
+            _id="6964dbf2"
          }
       },
       base_size_x="28.5",
@@ -43117,17 +43117,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="0f23907a"
          },
-         ["Savage Mauling"]={
-            cost="Quad"
+         {
+            _id="335848c5"
          },
-         ["Horrifying Trophies"]={
-            cost="Triple"
+         {
+            _id="8c956a79"
          },
-         ["Bay for Coward's Blood"]={
-            cost="Reaction"
+         {
+            _id="6964dbf2"
          }
       },
       base_size_x="32",
@@ -43158,14 +43158,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="0f23907a"
          },
-         ["Savage Mauling"]={
-            cost="Quad"
+         {
+            _id="335848c5"
          },
-         ["Bay for Coward's Blood"]={
-            cost="Reaction"
+         {
+            _id="6964dbf2"
          }
       },
       base_size_x="32",
@@ -43197,20 +43197,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Pack Hunters"]={
-            cost="Double"
+         {
+            _id="3b26491a"
          },
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="0f23907a"
          },
-         ["Savage Mauling"]={
-            cost="Quad"
+         {
+            _id="335848c5"
          },
-         ["Flaming Breath"]={
-            cost="Double"
+         {
+            _id="bd012690"
          },
-         ["Bay for Coward's Blood"]={
-            cost="Reaction"
+         {
+            _id="6964dbf2"
          }
       },
       base_size_x="35",
@@ -43241,17 +43241,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="0f23907a"
          },
-         ["Savage Mauling"]={
-            cost="Quad"
+         {
+            _id="335848c5"
          },
-         ["Scent of Weakness"]={
-            cost="Triple"
+         {
+            _id="cab5e578"
          },
-         ["Bay for Coward's Blood"]={
-            cost="Reaction"
+         {
+            _id="6964dbf2"
          }
       },
       base_size_x="40",
@@ -43291,11 +43291,11 @@ return {
       },
       wounds="6",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          }
       },
       base_size_x="25",
@@ -43335,14 +43335,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Split Again"]={
-            cost="Reaction"
+         {
+            _id="5d939aff"
          }
       },
       base_size_x="25",
@@ -43382,14 +43382,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         Split={
-            cost="Reaction"
+         {
+            _id="82e794dc"
          }
       },
       base_size_x="32",
@@ -43430,20 +43430,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Blue Fire"]={
-            cost="Double"
+         {
+            _id="02cd1655"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="b090be06"
          },
-         ["Pink Fire"]={
-            cost="Triple"
+         {
+            _id="5b81b0c2"
          }
       },
       base_size_x="32",
@@ -43484,20 +43484,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Blue Fire"]={
-            cost="Double"
+         {
+            _id="02cd1655"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="b090be06"
          },
-         ["Pink Fire"]={
-            cost="Triple"
+         {
+            _id="5b81b0c2"
          }
       },
       base_size_x="32",
@@ -43538,14 +43538,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Capricious Warpflame"]={
-            cost="Quad"
+         {
+            _id="a2d51b1c"
          }
       },
       base_size_x="32",
@@ -43586,20 +43586,20 @@ return {
       },
       wounds="16",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Blue Fire"]={
-            cost="Double"
+         {
+            _id="02cd1655"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="b090be06"
          },
-         Split={
-            cost="Reaction"
+         {
+            _id="82e794dc"
          }
       },
       base_size_x="32",
@@ -43641,20 +43641,20 @@ return {
       },
       wounds="20",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Blue Fire"]={
-            cost="Double"
+         {
+            _id="02cd1655"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="b090be06"
          },
-         ["Capricious Warpflame"]={
-            cost="Quad"
+         {
+            _id="a2d51b1c"
          }
       },
       base_size_x="32",
@@ -43687,14 +43687,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Latching Bite"]={
-            cost="Triple"
+         {
+            _id="5e619423"
          }
       },
       base_size_x="32",
@@ -43735,14 +43735,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Capricious Warpflame"]={
-            cost="Quad"
+         {
+            _id="a2d51b1c"
          }
       },
       base_size_x="42",
@@ -43784,17 +43784,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Blue Fire"]={
-            cost="Double"
+         {
+            _id="02cd1655"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="b090be06"
          }
       },
       base_size_x="60",
@@ -43836,17 +43836,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Blue Fire"]={
-            cost="Double"
+         {
+            _id="02cd1655"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="b090be06"
          }
       },
       base_size_x="60",
@@ -43886,14 +43886,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Sudden Warp-portal"]={
-            cost="Double"
+         {
+            _id="13d3aa59"
          }
       },
       base_size_x="25",
@@ -43925,17 +43925,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         Hypnotise={
-            cost="Double"
+         {
+            _id="1adaca07"
          },
-         ["Sudden Warp-portal"]={
-            cost="Double"
+         {
+            _id="13d3aa59"
          }
       },
       base_size_x="25",
@@ -43975,14 +43975,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Sudden Warp-portal"]={
-            cost="Double"
+         {
+            _id="13d3aa59"
          }
       },
       base_size_x="32",
@@ -44014,20 +44014,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Capricious Warpflame"]={
-            cost="Quad"
+         {
+            _id="a2d51b1c"
          },
-         ["Sudden Warp-portal"]={
-            cost="Double"
+         {
+            _id="13d3aa59"
          },
-         ["Engulfing Bite"]={
-            cost="Triple"
+         {
+            _id="7449a726"
          }
       },
       base_size_x="32",
@@ -44068,23 +44068,23 @@ return {
       },
       wounds="18",
       abilities={
-         ["Twist of Fate"]={
-            cost="Reaction"
+         {
+            _id="46a4129f"
          },
-         ["Blue Fire"]={
-            cost="Double"
+         {
+            _id="02cd1655"
          },
-         ["Locus of Sorcery"]={
-            cost="Double"
+         {
+            _id="0252a1b5"
          },
-         ["Master of Destiny"]={
-            cost="Triple"
+         {
+            _id="b090be06"
          },
-         ["Sudden Warp-portal"]={
-            cost="Double"
+         {
+            _id="13d3aa59"
          },
-         ["Summoned Abomination"]={
-            cost="Quad"
+         {
+            _id="5fad888f"
          }
       },
       base_size_x="32",
@@ -44115,11 +44115,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="32",
@@ -44150,11 +44150,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="32",
@@ -44185,14 +44185,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         Gorefist={
-            cost="Double"
+         {
+            _id="a33d848b"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="32",
@@ -44223,11 +44223,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="32",
@@ -44258,11 +44258,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="32",
@@ -44293,14 +44293,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="32",
@@ -44331,14 +44331,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Daemon-forged Weapons"]={
-            cost="Triple"
+         {
+            _id="1ceb4736"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -44370,17 +44370,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         Gorefist={
-            cost="Double"
+         {
+            _id="a33d848b"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="32",
@@ -44411,14 +44411,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Blood-fuelled Assault"]={
-            cost="Quad"
+         {
+            _id="458d0aa1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -44450,17 +44450,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Rage of Khorne"]={
-            cost="Quad"
+         {
+            _id="6ec5fa66"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="32",
@@ -44492,17 +44492,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Daemon-forged Weapons"]={
-            cost="Triple"
+         {
+            _id="1ceb4736"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -44533,14 +44533,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -44581,17 +44581,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Whipped to Fury"]={
-            cost="Double"
+         {
+            _id="088bc8b5"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -44622,11 +44622,11 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="35",
@@ -44657,14 +44657,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -44695,14 +44695,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -44733,14 +44733,14 @@ return {
       },
       wounds="28",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -44781,20 +44781,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         Bloodbind={
-            cost="Double"
+         {
+            _id="c809cf34"
          },
-         Bloodboil={
-            cost="Triple"
+         {
+            _id="1086976f"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -44826,20 +44826,20 @@ return {
       },
       wounds="30",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         Bloodbind={
-            cost="Double"
+         {
+            _id="c809cf34"
          },
-         Bloodboil={
-            cost="Triple"
+         {
+            _id="1086976f"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -44870,14 +44870,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lashing Bone Tentacles"]={
-            cost="Double"
+         {
+            _id="83ac22a1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="52",
@@ -44908,14 +44908,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Murderous Charge"]={
-            cost="Triple"
+         {
+            _id="9a6e199b"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="52",
@@ -44946,14 +44946,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Murderous Charge"]={
-            cost="Triple"
+         {
+            _id="9a6e199b"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="52",
@@ -44985,17 +44985,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Blood-fuelled Assault"]={
-            cost="Quad"
+         {
+            _id="458d0aa1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="40",
@@ -45027,17 +45027,17 @@ return {
       },
       wounds="32",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Flesh Hound's Blood-dark Claws"]={
-            cost="Double"
+         {
+            _id="116fbfdb"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="60",
@@ -45069,17 +45069,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Murderous Charge"]={
-            cost="Triple"
+         {
+            _id="9a6e199b"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="52",
@@ -45111,17 +45111,17 @@ return {
       },
       wounds="38",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Murderous Charge"]={
-            cost="Triple"
+         {
+            _id="9a6e199b"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="52",
@@ -45152,17 +45152,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          },
-         ["Ever Advancing"]={
-            cost="Double"
+         {
+            _id="bf38750f"
          },
-         ["Khorne Cares Not"]={
-            cost="Quad"
+         {
+            _id="08af612c"
          }
       },
       base_size_x="32",
@@ -45193,17 +45193,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          },
-         ["Ever Advancing"]={
-            cost="Double"
+         {
+            _id="bf38750f"
          },
-         ["Khorne Cares Not"]={
-            cost="Quad"
+         {
+            _id="08af612c"
          }
       },
       base_size_x="32",
@@ -45234,20 +45234,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          },
-         ["Ever Advancing"]={
-            cost="Double"
+         {
+            _id="bf38750f"
          },
-         ["Frenzied Attack"]={
-            cost="Triple"
+         {
+            _id="17f594a0"
          },
-         ["Khorne Cares Not"]={
-            cost="Quad"
+         {
+            _id="08af612c"
          }
       },
       base_size_x="32",
@@ -45278,17 +45278,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          },
-         ["Ever Advancing"]={
-            cost="Double"
+         {
+            _id="bf38750f"
          },
-         ["Khorne Cares Not"]={
-            cost="Quad"
+         {
+            _id="08af612c"
          }
       },
       base_size_x="32",
@@ -45319,23 +45319,23 @@ return {
       },
       wounds="22",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          },
-         ["Decapitating Strike"]={
-            cost="Double"
+         {
+            _id="a659404f"
          },
-         ["Ever Advancing"]={
-            cost="Double"
+         {
+            _id="bf38750f"
          },
-         ["Khorne Cares Not"]={
-            cost="Quad"
+         {
+            _id="08af612c"
          }
       },
       base_size_x="32",
@@ -45366,14 +45366,14 @@ return {
       },
       wounds="24",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          },
-         ["Chains of Blood"]={
-            cost="Triple"
+         {
+            _id="f785a02a"
          }
       },
       base_size_x="32",
@@ -45405,23 +45405,23 @@ return {
       },
       wounds="30",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         Bloodbind={
-            cost="Double"
+         {
+            _id="c809cf34"
          },
-         Bloodboil={
-            cost="Triple"
+         {
+            _id="1086976f"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          },
-         ["Wound the Realm"]={
-            cost="Quad"
+         {
+            _id="7491920a"
          }
       },
       base_size_x="40",
@@ -45452,14 +45452,14 @@ return {
       },
       wounds="36",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          },
-         ["Overhead Smash"]={
-            cost="Double"
+         {
+            _id="71bb3212"
          }
       },
       base_size_x="40",
@@ -45490,14 +45490,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         Gorefist={
-            cost="Double"
+         {
+            _id="a33d848b"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="32",
@@ -45528,14 +45528,14 @@ return {
       },
       wounds="16",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         Gorefist={
-            cost="Double"
+         {
+            _id="a33d848b"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          }
       },
       base_size_x="32",
@@ -45566,17 +45566,17 @@ return {
       },
       wounds="26",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Lord of Skulls"]={
-            cost="Triple"
+         {
+            _id="a6a3c9f1"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          },
-         ["Daemonic Maw"]={
-            cost="Double"
+         {
+            _id="11e3cee9"
          }
       },
       base_size_x="32",
@@ -45607,14 +45607,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="73a644b7"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="017ae05b"
          },
-         Bloodscent={
-            cost="Triple"
+         {
+            _id="f7fedb39"
          }
       },
       base_size_x="50",
@@ -45646,14 +45646,14 @@ return {
       },
       wounds="6",
       abilities={
-         ["Skittering Ascent"]={
-            cost="Double"
+         {
+            _id="cd0304e1"
          },
-         ["Gifts of the Eightfold Watcher"]={
-            cost="Quad"
+         {
+            _id="d55af385"
          },
-         ["Defensive Blades"]={
-            cost="Reaction"
+         {
+            _id="b2cfd6ba"
          }
       },
       base_size_x="25",
@@ -45694,14 +45694,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Scuttling Symbiosis"]={
-            cost="Double"
+         {
+            _id="35f0c3bc"
          },
-         ["Envenomed Projectile"]={
-            cost="Triple"
+         {
+            _id="eb8d9c87"
          },
-         ["Defensive Blades"]={
-            cost="Reaction"
+         {
+            _id="b2cfd6ba"
          }
       },
       base_size_x="25",
@@ -45733,14 +45733,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Scuttling Symbiosis"]={
-            cost="Double"
+         {
+            _id="35f0c3bc"
          },
-         ["Envenomed Projectile"]={
-            cost="Triple"
+         {
+            _id="eb8d9c87"
          },
-         ["Defensive Blades"]={
-            cost="Reaction"
+         {
+            _id="b2cfd6ba"
          }
       },
       base_size_x="25",
@@ -45772,14 +45772,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Scuttling Symbiosis"]={
-            cost="Double"
+         {
+            _id="35f0c3bc"
          },
-         ["Envenomed Projectile"]={
-            cost="Triple"
+         {
+            _id="eb8d9c87"
          },
-         ["Defensive Blades"]={
-            cost="Reaction"
+         {
+            _id="b2cfd6ba"
          }
       },
       base_size_x="25",
@@ -45820,14 +45820,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Scuttling Symbiosis"]={
-            cost="Double"
+         {
+            _id="35f0c3bc"
          },
-         ["Skittering Ascent"]={
-            cost="Double"
+         {
+            _id="cd0304e1"
          },
-         ["Defensive Blades"]={
-            cost="Reaction"
+         {
+            _id="b2cfd6ba"
          }
       },
       base_size_x="28.5",
@@ -45860,17 +45860,17 @@ return {
       },
       wounds="10",
       abilities={
-         ["Scuttling Symbiosis"]={
-            cost="Double"
+         {
+            _id="35f0c3bc"
          },
-         ["Silken Strangle-nets"]={
-            cost="Double"
+         {
+            _id="a99d16c8"
          },
-         ["Skittering Ascent"]={
-            cost="Double"
+         {
+            _id="cd0304e1"
          },
-         ["Defensive Blades"]={
-            cost="Reaction"
+         {
+            _id="b2cfd6ba"
          }
       },
       base_size_x="28.5",
@@ -45903,17 +45903,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Scuttling Symbiosis"]={
-            cost="Double"
+         {
+            _id="35f0c3bc"
          },
-         ["Skittering Ascent"]={
-            cost="Double"
+         {
+            _id="cd0304e1"
          },
-         ["Creeping Summons"]={
-            cost="Triple"
+         {
+            _id="46201775"
          },
-         ["Defensive Blades"]={
-            cost="Reaction"
+         {
+            _id="b2cfd6ba"
          }
       },
       base_size_x="32",
@@ -45944,14 +45944,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         ["Throw Fire Bomb"]={
-            cost="Double"
+         {
+            _id="85c7d770"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="25",
@@ -45982,11 +45982,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="25",
@@ -46017,14 +46017,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         ["Throw Fire Bomb"]={
-            cost="Double"
+         {
+            _id="85c7d770"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="25",
@@ -46055,11 +46055,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="25",
@@ -46090,11 +46090,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="28.5",
@@ -46125,11 +46125,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="28.5",
@@ -46160,14 +46160,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         ["Throw Fire Bomb"]={
-            cost="Double"
+         {
+            _id="85c7d770"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="28.5",
@@ -46207,14 +46207,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         ["Engulf in Flames"]={
-            cost="Quad"
+         {
+            _id="533e5404"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="28.5",
@@ -46245,14 +46245,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         Inferno={
-            cost="Triple"
+         {
+            _id="82e3f1ea"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="32",
@@ -46283,14 +46283,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Beheading Strike"]={
-            cost="Double"
+         {
+            _id="98b09ffe"
          },
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="32",
@@ -46322,17 +46322,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Beheading Strike"]={
-            cost="Double"
+         {
+            _id="98b09ffe"
          },
-         ["Fiery Might"]={
-            cost="Double"
+         {
+            _id="99093906"
          },
-         ["Ignited Fervour"]={
-            cost="Triple"
+         {
+            _id="a672441f"
          },
-         ["Blaze of Fury"]={
-            cost="Reaction"
+         {
+            _id="5361f7e8"
          }
       },
       base_size_x="32",
@@ -46363,14 +46363,14 @@ return {
       },
       wounds="10",
       abilities={
-         Blowpipe={
-            cost="Double"
+         {
+            _id="7bef6213"
          },
-         ["Gruesome Harvest"]={
-            cost="Double"
+         {
+            _id="82851512"
          },
-         ["Bile Blood"]={
-            cost="Reaction"
+         {
+            _id="65b404e9"
          }
       },
       base_size_x="25",
@@ -46401,14 +46401,14 @@ return {
       },
       wounds="10",
       abilities={
-         Blowpipe={
-            cost="Double"
+         {
+            _id="7bef6213"
          },
-         ["Gruesome Harvest"]={
-            cost="Double"
+         {
+            _id="82851512"
          },
-         ["Bile Blood"]={
-            cost="Reaction"
+         {
+            _id="65b404e9"
          }
       },
       base_size_x="25",
@@ -46440,17 +46440,17 @@ return {
       },
       wounds="12",
       abilities={
-         Blowpipe={
-            cost="Double"
+         {
+            _id="7bef6213"
          },
-         ["Gruesome Harvest"]={
-            cost="Double"
+         {
+            _id="82851512"
          },
-         ["Ensnaring Strike"]={
-            cost="Quad"
+         {
+            _id="6e7c6843"
          },
-         ["Bile Blood"]={
-            cost="Reaction"
+         {
+            _id="65b404e9"
          }
       },
       base_size_x="28.5",
@@ -46481,14 +46481,14 @@ return {
       },
       wounds="12",
       abilities={
-         Blowpipe={
-            cost="Double"
+         {
+            _id="7bef6213"
          },
-         ["Gruesome Harvest"]={
-            cost="Double"
+         {
+            _id="82851512"
          },
-         ["Bile Blood"]={
-            cost="Reaction"
+         {
+            _id="65b404e9"
          }
       },
       base_size_x="28.5",
@@ -46520,17 +46520,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Gruesome Harvest"]={
-            cost="Double"
+         {
+            _id="82851512"
          },
-         ["Hooked Net"]={
-            cost="Double"
+         {
+            _id="2f1ffed7"
          },
-         ["Slashing Attack"]={
-            cost="Triple"
+         {
+            _id="810d4f1f"
          },
-         ["Bile Blood"]={
-            cost="Reaction"
+         {
+            _id="65b404e9"
          }
       },
       base_size_x="32",
@@ -46561,14 +46561,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Gruesome Harvest"]={
-            cost="Double"
+         {
+            _id="82851512"
          },
-         ["Slashing Attack"]={
-            cost="Triple"
+         {
+            _id="810d4f1f"
          },
-         ["Bile Blood"]={
-            cost="Reaction"
+         {
+            _id="65b404e9"
          }
       },
       base_size_x="32",
@@ -46600,17 +46600,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Gruesome Harvest"]={
-            cost="Double"
+         {
+            _id="82851512"
          },
-         ["Lethal Injection"]={
-            cost="Triple"
+         {
+            _id="beceda3a"
          },
-         ["Ensnaring Strike"]={
-            cost="Quad"
+         {
+            _id="6e7c6843"
          },
-         ["Bile Blood"]={
-            cost="Reaction"
+         {
+            _id="65b404e9"
          }
       },
       base_size_x="32",
@@ -46641,11 +46641,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -46676,11 +46676,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -46712,11 +46712,11 @@ return {
       },
       wounds="4",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -46757,14 +46757,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Crack the Whip"]={
-            cost="Double"
+         {
+            _id="1cbbec6b"
          },
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -46804,11 +46804,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -46839,11 +46839,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -46874,11 +46874,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -46919,14 +46919,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Expend Warpstone Spark Canister"]={
-            cost="Quad"
+         {
+            _id="1dfee2a6"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -46957,11 +46957,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Hired Bodyguard"]={
-            cost="Double"
+         {
+            _id="a5cebf6e"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -47001,11 +47001,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -47036,11 +47036,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Hired Bodyguard"]={
-            cost="Double"
+         {
+            _id="a5cebf6e"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -47072,14 +47072,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Poisonous Fumes"]={
-            cost="Triple"
+         {
+            _id="36ef106a"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -47110,11 +47110,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Expend Warpstone Spark Canister"]={
-            cost="Quad"
+         {
+            _id="1dfee2a6"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="35",
@@ -47146,14 +47146,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -47195,20 +47195,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Crack the Whip"]={
-            cost="Double"
+         {
+            _id="1cbbec6b"
          },
-         ["Flesh-mend"]={
-            cost="Double"
+         {
+            _id="e331bd06"
          },
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -47250,17 +47250,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Running Death"]={
-            cost="Triple"
+         {
+            _id="acb87496"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -47293,17 +47293,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Recite from the Book of Woes"]={
-            cost="Triple"
+         {
+            _id="dfbe1c5c"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -47345,20 +47345,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Warp Lightning"]={
-            cost="Double"
+         {
+            _id="567933d7"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Expend Warpstone Spark Canister"]={
-            cost="Quad"
+         {
+            _id="1dfee2a6"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -47400,17 +47400,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Consume Warpstone Token"]={
-            cost="Double"
+         {
+            _id="08221e76"
          },
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -47441,11 +47441,11 @@ return {
       },
       wounds="15",
       abilities={
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -47478,17 +47478,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Recite from the Book of Woes"]={
-            cost="Triple"
+         {
+            _id="dfbe1c5c"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -47519,11 +47519,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Expend Warpstone Spark Canister"]={
-            cost="Quad"
+         {
+            _id="1dfee2a6"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="35",
@@ -47563,11 +47563,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Expend Warpstone Spark Canister"]={
-            cost="Quad"
+         {
+            _id="1dfee2a6"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="35",
@@ -47600,20 +47600,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Warp Lightning"]={
-            cost="Double"
+         {
+            _id="567933d7"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Expend Warpstone Spark Canister"]={
-            cost="Quad"
+         {
+            _id="1dfee2a6"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -47655,20 +47655,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Warp Lightning"]={
-            cost="Double"
+         {
+            _id="567933d7"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Expend Warpstone Spark Canister"]={
-            cost="Quad"
+         {
+            _id="1dfee2a6"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -47700,14 +47700,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -47749,17 +47749,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Running Death"]={
-            cost="Triple"
+         {
+            _id="acb87496"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -47791,11 +47791,11 @@ return {
       },
       wounds="18",
       abilities={
-         ["Expend Warpstone Spark Canister"]={
-            cost="Quad"
+         {
+            _id="1dfee2a6"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="35",
@@ -47827,11 +47827,11 @@ return {
       },
       wounds="28",
       abilities={
-         ["Crushing Charge"]={
-            cost="Triple"
+         {
+            _id="142acdc4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="50",
@@ -47872,11 +47872,11 @@ return {
       },
       wounds="28",
       abilities={
-         ["Crushing Charge"]={
-            cost="Triple"
+         {
+            _id="142acdc4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="50",
@@ -47916,11 +47916,11 @@ return {
       },
       wounds="35",
       abilities={
-         ["Crushing Charge"]={
-            cost="Triple"
+         {
+            _id="142acdc4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="60",
@@ -47960,11 +47960,11 @@ return {
       },
       wounds="35",
       abilities={
-         ["Crushing Charge"]={
-            cost="Triple"
+         {
+            _id="142acdc4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="60",
@@ -48004,11 +48004,11 @@ return {
       },
       wounds="35",
       abilities={
-         ["Crushing Charge"]={
-            cost="Triple"
+         {
+            _id="142acdc4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="60",
@@ -48039,11 +48039,11 @@ return {
       },
       wounds="35",
       abilities={
-         ["Crushing Charge"]={
-            cost="Triple"
+         {
+            _id="142acdc4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="60",
@@ -48074,11 +48074,11 @@ return {
       },
       wounds="35",
       abilities={
-         ["Crushing Charge"]={
-            cost="Triple"
+         {
+            _id="142acdc4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="60",
@@ -48109,11 +48109,11 @@ return {
       },
       wounds="35",
       abilities={
-         ["Crushing Charge"]={
-            cost="Triple"
+         {
+            _id="142acdc4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="60",
@@ -48144,14 +48144,14 @@ return {
       },
       wounds="4",
       abilities={
-         ["Befoul the Land"]={
-            cost="Double"
+         {
+            _id="bb49daff"
          },
-         ["Disgusting Appearance"]={
-            cost="Double"
+         {
+            _id="8b4be7d4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -48182,11 +48182,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Disgusting Appearance"]={
-            cost="Double"
+         {
+            _id="8b4be7d4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -48217,11 +48217,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Disgusting Appearance"]={
-            cost="Double"
+         {
+            _id="8b4be7d4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -48261,14 +48261,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Befoul the Land"]={
-            cost="Double"
+         {
+            _id="bb49daff"
          },
-         ["Disgusting Appearance"]={
-            cost="Double"
+         {
+            _id="8b4be7d4"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -48300,17 +48300,17 @@ return {
       },
       wounds="14",
       abilities={
-         ["Befoul the Land"]={
-            cost="Double"
+         {
+            _id="bb49daff"
          },
-         ["Disgusting Appearance"]={
-            cost="Double"
+         {
+            _id="8b4be7d4"
          },
-         ["Poisonous Fumes"]={
-            cost="Triple"
+         {
+            _id="36ef106a"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="28.5",
@@ -48342,23 +48342,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Befoul the Land"]={
-            cost="Double"
+         {
+            _id="bb49daff"
          },
-         ["Disgusting Appearance"]={
-            cost="Double"
+         {
+            _id="8b4be7d4"
          },
-         ["Unctuous Citations"]={
-            cost="Triple"
+         {
+            _id="dc1c6e1b"
          },
-         ["Manifestation of a Great Plague"]={
-            cost="Quad"
+         {
+            _id="9ad3e526"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="32",
@@ -48389,11 +48389,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          },
-         ["Way of the Slinking Rat"]={
-            cost="Double"
+         {
+            _id="755687fc"
          }
       },
       base_size_x="25",
@@ -48433,11 +48433,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          },
-         ["Way of the Slinking Rat"]={
-            cost="Double"
+         {
+            _id="755687fc"
          }
       },
       base_size_x="25",
@@ -48477,14 +48477,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          },
-         ["Way of the Slinking Rat"]={
-            cost="Double"
+         {
+            _id="755687fc"
          },
-         ["Spitting Cobra Technique"]={
-            cost="Triple"
+         {
+            _id="9b2b9d48"
          }
       },
       base_size_x="25",
@@ -48515,11 +48515,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          },
-         ["Way of the Slinking Rat"]={
-            cost="Double"
+         {
+            _id="755687fc"
          }
       },
       base_size_x="32",
@@ -48551,20 +48551,20 @@ return {
       },
       wounds="18",
       abilities={
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          },
-         ["Way of the Slinking Rat"]={
-            cost="Double"
+         {
+            _id="755687fc"
          },
-         ["Spitting Cobra Technique"]={
-            cost="Triple"
+         {
+            _id="9b2b9d48"
          },
-         ["Way of the Hidden Paw"]={
-            cost="Quad"
+         {
+            _id="27bb8a85"
          }
       },
       base_size_x="32",
@@ -48596,11 +48596,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -48632,11 +48632,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -48667,11 +48667,11 @@ return {
       },
       wounds="12",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -48703,11 +48703,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          }
       },
       base_size_x="25",
@@ -48739,17 +48739,17 @@ return {
       },
       wounds="18",
       abilities={
-         ["Scurry Away"]={
-            cost="Double"
+         {
+            _id="2a537a2f"
          },
-         ["Lead From The Back"]={
-            cost="Triple"
+         {
+            _id="70ff8318"
          },
-         ["Musk of Fear"]={
-            cost="Reaction"
+         {
+            _id="836d0e6d"
          },
-         ["There Are Always More"]={
-            cost="Triple"
+         {
+            _id="dad15d02"
          }
       },
       base_size_x="32",
@@ -48780,11 +48780,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="32",
@@ -48815,11 +48815,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="25",
@@ -48850,11 +48850,11 @@ return {
       },
       wounds="8",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="25",
@@ -48885,11 +48885,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="32",
@@ -48929,14 +48929,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Volley of Arrows"]={
-            cost="Triple"
+         {
+            _id="b406c9c6"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="25",
@@ -48967,14 +48967,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="25",
@@ -49005,14 +49005,14 @@ return {
       },
       wounds="12",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Bestial Charge"]={
-            cost="Triple"
+         {
+            _id="1f49c5fc"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="32",
@@ -49043,11 +49043,11 @@ return {
       },
       wounds="18",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="35",
@@ -49088,17 +49088,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Volley of Arrows"]={
-            cost="Triple"
+         {
+            _id="b406c9c6"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="25",
@@ -49129,14 +49129,14 @@ return {
       },
       wounds="15",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="32",
@@ -49177,17 +49177,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         Devolve={
-            cost="Double"
+         {
+            _id="d6bef6fd"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="32",
@@ -49219,17 +49219,17 @@ return {
       },
       wounds="16",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Bestial Charge"]={
-            cost="Triple"
+         {
+            _id="1f49c5fc"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="32",
@@ -49260,14 +49260,14 @@ return {
       },
       wounds="30",
       abilities={
-         Bloodgorge={
-            cost="Double"
+         {
+            _id="f1a9eba3"
          },
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="50",
@@ -49299,17 +49299,17 @@ return {
       },
       wounds="22",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Grisly Trophy"]={
-            cost="Triple"
+         {
+            _id="9f714195"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="40",
@@ -49340,14 +49340,14 @@ return {
       },
       wounds="30",
       abilities={
-         Bloodgorge={
-            cost="Double"
+         {
+            _id="f1a9eba3"
          },
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="50",
@@ -49379,14 +49379,14 @@ return {
       },
       wounds="22",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="35",
@@ -49417,14 +49417,14 @@ return {
       },
       wounds="30",
       abilities={
-         Bloodgorge={
-            cost="Double"
+         {
+            _id="f1a9eba3"
          },
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="50",
@@ -49455,14 +49455,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Bring Down the Storm"]={
-            cost="Triple"
+         {
+            _id="6e95ab56"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="52",
@@ -49493,14 +49493,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Bring Down the Storm"]={
-            cost="Triple"
+         {
+            _id="6e95ab56"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="52",
@@ -49531,14 +49531,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Bring Down the Storm"]={
-            cost="Triple"
+         {
+            _id="6e95ab56"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="52",
@@ -49570,17 +49570,17 @@ return {
       },
       wounds="35",
       abilities={
-         Bloodgorge={
-            cost="Double"
+         {
+            _id="f1a9eba3"
          },
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="50",
@@ -49612,17 +49612,17 @@ return {
       },
       wounds="35",
       abilities={
-         Bloodgorge={
-            cost="Double"
+         {
+            _id="f1a9eba3"
          },
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="50",
@@ -49654,17 +49654,17 @@ return {
       },
       wounds="35",
       abilities={
-         Bloodgorge={
-            cost="Double"
+         {
+            _id="f1a9eba3"
          },
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="50",
@@ -49697,14 +49697,14 @@ return {
       },
       wounds="30",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Petrifying Gaze"]={
-            cost="Triple"
+         {
+            _id="9d2b4844"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="60",
@@ -49736,20 +49736,20 @@ return {
       },
       wounds="35",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Bring Down the Storm"]={
-            cost="Triple"
+         {
+            _id="6e95ab56"
          },
-         ["Empowering Lightning"]={
-            cost="Quad"
+         {
+            _id="f1cade78"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="52",
@@ -49781,17 +49781,17 @@ return {
       },
       wounds="38",
       abilities={
-         Bloodgorge={
-            cost="Double"
+         {
+            _id="f1a9eba3"
          },
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="50",
@@ -49822,11 +49822,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="25",
@@ -49857,11 +49857,11 @@ return {
       },
       wounds="10",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="25",
@@ -49901,14 +49901,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Volley of Arrows"]={
-            cost="Triple"
+         {
+            _id="b406c9c6"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="25",
@@ -49948,14 +49948,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Volley of Arrows"]={
-            cost="Triple"
+         {
+            _id="b406c9c6"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="25",
@@ -49986,14 +49986,14 @@ return {
       },
       wounds="18",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         ["Bestial Charge"]={
-            cost="Triple"
+         {
+            _id="1f49c5fc"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          }
       },
       base_size_x="32",
@@ -50034,20 +50034,20 @@ return {
       },
       wounds="25",
       abilities={
-         ["Brayherd Ambush"]={
-            cost="Double"
+         {
+            _id="1c42f884"
          },
-         Devolve={
-            cost="Double"
+         {
+            _id="d6bef6fd"
          },
-         ["Rip, Gore and Tear!"]={
-            cost="Double"
+         {
+            _id="33c7d45b"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="8e6dc5a6"
          },
-         ["Savage Bolt"]={
-            cost="Quad"
+         {
+            _id="fbce3d1d"
          }
       },
       base_size_x="32",
@@ -50078,14 +50078,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="c36ec45c"
          },
-         ["Decapitating Strike"]={
-            cost="Double"
+         {
+            _id="e9961769"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="ad67abad"
          }
       },
       base_size_x="32",
@@ -50117,17 +50117,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="c36ec45c"
          },
-         ["Decapitating Strike"]={
-            cost="Double"
+         {
+            _id="e9961769"
          },
-         ["Locus of Fury"]={
-            cost="Triple"
+         {
+            _id="1ad0696e"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="ad67abad"
          }
       },
       base_size_x="32",
@@ -50159,17 +50159,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="c36ec45c"
          },
-         ["Decapitating Strike"]={
-            cost="Double"
+         {
+            _id="e9961769"
          },
-         ["Locus of Fury"]={
-            cost="Triple"
+         {
+            _id="1ad0696e"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="ad67abad"
          }
       },
       base_size_x="40",
@@ -50201,14 +50201,14 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="c36ec45c"
          },
-         ["Murderous Charge"]={
-            cost="Triple"
+         {
+            _id="243e5340"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="ad67abad"
          }
       },
       base_size_x="52",
@@ -50240,14 +50240,14 @@ return {
       },
       wounds="20",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="c36ec45c"
          },
-         ["Hungry for Flesh"]={
-            cost="Double"
+         {
+            _id="d0d11a2d"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="ad67abad"
          }
       },
       base_size_x="35",
@@ -50280,17 +50280,17 @@ return {
       },
       wounds="30",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="c36ec45c"
          },
-         ["Locus of Fury"]={
-            cost="Triple"
+         {
+            _id="1ad0696e"
          },
-         ["Murderous Charge"]={
-            cost="Triple"
+         {
+            _id="243e5340"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="ad67abad"
          }
       },
       base_size_x="52",
@@ -50323,17 +50323,17 @@ return {
       },
       wounds="25",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="c36ec45c"
          },
-         ["Hungry for Flesh"]={
-            cost="Double"
+         {
+            _id="d0d11a2d"
          },
-         ["Burning Roar"]={
-            cost="Quad"
+         {
+            _id="89363620"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="ad67abad"
          }
       },
       base_size_x="35",
@@ -50366,17 +50366,17 @@ return {
       },
       wounds="35",
       abilities={
-         ["Blood for the Blood God"]={
-            cost="Double"
+         {
+            _id="c36ec45c"
          },
-         ["Locus of Fury"]={
-            cost="Triple"
+         {
+            _id="1ad0696e"
          },
-         ["Murderous Charge"]={
-            cost="Triple"
+         {
+            _id="243e5340"
          },
-         ["Khorne's Due"]={
-            cost="Reaction"
+         {
+            _id="ad67abad"
          }
       },
       base_size_x="52",
@@ -50407,8 +50407,8 @@ return {
       },
       wounds="10",
       abilities={
-         ["Merciless Cruelty"]={
-            cost="Double"
+         {
+            _id="dcb7451d"
          }
       },
       base_size_x="25",
@@ -50439,17 +50439,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Merciless Cruelty"]={
-            cost="Double"
+         {
+            _id="dcb7451d"
          },
-         ["Stampede of Iron"]={
-            cost="Double"
+         {
+            _id="718c4bfb"
          },
-         ["Ash Bomb"]={
-            cost="Triple"
+         {
+            _id="f386768b"
          },
-         ["Breath of Cinder and Smoke"]={
-            cost="Reaction"
+         {
+            _id="bf2f6194"
          }
       },
       base_size_x="28.5",
@@ -50480,17 +50480,17 @@ return {
       },
       wounds="12",
       abilities={
-         ["Merciless Cruelty"]={
-            cost="Double"
+         {
+            _id="dcb7451d"
          },
-         ["Stampede of Iron"]={
-            cost="Double"
+         {
+            _id="718c4bfb"
          },
-         ["Ash Bomb"]={
-            cost="Triple"
+         {
+            _id="f386768b"
          },
-         ["Breath of Cinder and Smoke"]={
-            cost="Reaction"
+         {
+            _id="bf2f6194"
          }
       },
       base_size_x="28.5",
@@ -50531,20 +50531,20 @@ return {
       },
       wounds="12",
       abilities={
-         ["Merciless Cruelty"]={
-            cost="Double"
+         {
+            _id="dcb7451d"
          },
-         ["Stampede of Iron"]={
-            cost="Double"
+         {
+            _id="718c4bfb"
          },
-         ["Ash Bomb"]={
-            cost="Triple"
+         {
+            _id="f386768b"
          },
-         ["Engulfing Flames of Dark Artifice"]={
-            cost="Triple"
+         {
+            _id="f9977ab4"
          },
-         ["Breath of Cinder and Smoke"]={
-            cost="Reaction"
+         {
+            _id="bf2f6194"
          }
       },
       base_size_x="32",
@@ -50576,20 +50576,20 @@ return {
       },
       wounds="15",
       abilities={
-         ["Merciless Cruelty"]={
-            cost="Double"
+         {
+            _id="dcb7451d"
          },
-         ["Stampede of Iron"]={
-            cost="Double"
+         {
+            _id="718c4bfb"
          },
-         ["Ash Bomb"]={
-            cost="Triple"
+         {
+            _id="f386768b"
          },
-         ["Unleash the Raging Taurus"]={
-            cost="Quad"
+         {
+            _id="e2f0ddbc"
          },
-         ["Breath of Cinder and Smoke"]={
-            cost="Reaction"
+         {
+            _id="bf2f6194"
          }
       },
       base_size_x="32",
@@ -50622,23 +50622,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Lay to Waste"]={
-            cost="Double"
+         {
+            _id="1f5b44d7"
          },
-         ["Merciless Cruelty"]={
-            cost="Double"
+         {
+            _id="dcb7451d"
          },
-         ["Stampede of Iron"]={
-            cost="Double"
+         {
+            _id="718c4bfb"
          },
-         ["Ash Bomb"]={
-            cost="Triple"
+         {
+            _id="f386768b"
          },
-         ["Unleash the Raging Taurus"]={
-            cost="Quad"
+         {
+            _id="e2f0ddbc"
          },
-         ["Breath of Cinder and Smoke"]={
-            cost="Reaction"
+         {
+            _id="bf2f6194"
          }
       },
       base_size_x="32",
@@ -50671,23 +50671,23 @@ return {
       },
       wounds="20",
       abilities={
-         ["Lay to Waste"]={
-            cost="Double"
+         {
+            _id="1f5b44d7"
          },
-         ["Merciless Cruelty"]={
-            cost="Double"
+         {
+            _id="dcb7451d"
          },
-         ["Stampede of Iron"]={
-            cost="Double"
+         {
+            _id="718c4bfb"
          },
-         ["Ash Bomb"]={
-            cost="Triple"
+         {
+            _id="f386768b"
          },
-         ["Unleash the Raging Taurus"]={
-            cost="Quad"
+         {
+            _id="e2f0ddbc"
          },
-         ["Breath of Cinder and Smoke"]={
-            cost="Reaction"
+         {
+            _id="bf2f6194"
          }
       },
       base_size_x="32",
@@ -50718,14 +50718,14 @@ return {
       },
       wounds="8",
       abilities={
-         ["Savage Fury"]={
-            cost="Double"
+         {
+            _id="d6b28f28"
          },
-         ["Unleash the Beast"]={
-            cost="Quad"
+         {
+            _id="6754dbc8"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="836b5da8"
          }
       },
       base_size_x="25",
@@ -50756,14 +50756,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Savage Fury"]={
-            cost="Double"
+         {
+            _id="d6b28f28"
          },
-         ["Unleash the Beast"]={
-            cost="Quad"
+         {
+            _id="6754dbc8"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="836b5da8"
          }
       },
       base_size_x="28.5",
@@ -50794,14 +50794,14 @@ return {
       },
       wounds="10",
       abilities={
-         ["Savage Fury"]={
-            cost="Double"
+         {
+            _id="d6b28f28"
          },
-         ["Unleash the Beast"]={
-            cost="Quad"
+         {
+            _id="6754dbc8"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="836b5da8"
          }
       },
       base_size_x="28.5",
@@ -50841,17 +50841,17 @@ return {
       },
       wounds="15",
       abilities={
-         Beastmaster={
-            cost="Double"
+         {
+            _id="7609f611"
          },
-         ["Savage Fury"]={
-            cost="Double"
+         {
+            _id="d6b28f28"
          },
-         ["Unleash the Beast"]={
-            cost="Quad"
+         {
+            _id="6754dbc8"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="836b5da8"
          }
       },
       base_size_x="32",
@@ -50891,17 +50891,17 @@ return {
       },
       wounds="15",
       abilities={
-         ["Savage Fury"]={
-            cost="Double"
+         {
+            _id="d6b28f28"
          },
-         ["Harpoon Snag"]={
-            cost="Triple"
+         {
+            _id="eef17740"
          },
-         ["Unleash the Beast"]={
-            cost="Quad"
+         {
+            _id="6754dbc8"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="836b5da8"
          }
       },
       base_size_x="32",
@@ -50932,17 +50932,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["Savage Fury"]={
-            cost="Double"
+         {
+            _id="d6b28f28"
          },
-         Pounce={
-            cost="Triple"
+         {
+            _id="69024f7c"
          },
-         ["Unleash the Beast"]={
-            cost="Quad"
+         {
+            _id="6754dbc8"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="836b5da8"
          }
       },
       base_size_x="32",
@@ -50973,17 +50973,17 @@ return {
       },
       wounds="20",
       abilities={
-         ["All-out Attack"]={
-            cost="Double"
+         {
+            _id="eb8fdbfa"
          },
-         ["Savage Fury"]={
-            cost="Double"
+         {
+            _id="d6b28f28"
          },
-         ["Unleash the Beast"]={
-            cost="Quad"
+         {
+            _id="6754dbc8"
          },
-         ["Brute Resilience"]={
-            cost="Reaction"
+         {
+            _id="836b5da8"
          }
       },
       base_size_x="40",
