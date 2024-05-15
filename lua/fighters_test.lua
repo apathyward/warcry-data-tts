@@ -203,7 +203,7 @@ return {
       grand_alliance="death",
       movement="6",
       name="Curseblood",
-      points="190",
+      points="180",
       runemarks={
          "beast"
       },
@@ -287,7 +287,7 @@ return {
       grand_alliance="death",
       movement="3",
       name="Deadwalker Zombie",
-      points="40",
+      points="50",
       runemarks={
          "minion"
       },
@@ -322,7 +322,7 @@ return {
       grand_alliance="death",
       movement="3",
       name="Skeleton with Ancient Blade",
-      points="40",
+      points="50",
       runemarks={
          "minion"
       },
@@ -357,7 +357,7 @@ return {
       grand_alliance="death",
       movement="3",
       name="Skeleton with Ancient Spear",
-      points="40",
+      points="50",
       runemarks={
          "minion"
       },
@@ -392,7 +392,7 @@ return {
       grand_alliance="death",
       movement="3",
       name="Grave Guard with Wight Blade and Crypt Shield",
-      points="55",
+      points="60",
       runemarks={
          "minion",
          "elite"
@@ -428,7 +428,7 @@ return {
       grand_alliance="death",
       movement="3",
       name="Grave Guard with Great Wight Blade",
-      points="65",
+      points="70",
       runemarks={
          "minion",
          "elite"
@@ -1135,10 +1135,11 @@ return {
       bladeborn="Sons of Velmorn",
       grand_alliance="death",
       movement="3",
-      name="Helmwar the Hewer",
-      points="60",
+      name="Helmar the Hewer",
+      points="65",
       runemarks={
-         "minion"
+         "minion",
+         "elite"
       },
       toughness="4",
       warband="Soulblight Gravelords",
@@ -1174,9 +1175,10 @@ return {
       grand_alliance="death",
       movement="3",
       name="Marshal Faulk Velmorn",
-      points="65",
+      points="70",
       runemarks={
-         "minion"
+         "minion",
+         "elite"
       },
       toughness="4",
       warband="Soulblight Gravelords",
@@ -1214,7 +1216,8 @@ return {
       name="Thain Fourth-and-Last",
       points="70",
       runemarks={
-         "minion"
+         "minion",
+         "elite"
       },
       toughness="3",
       warband="Soulblight Gravelords",
@@ -4105,7 +4108,7 @@ return {
       grand_alliance="death",
       movement="6",
       name="Chainrasp",
-      points="85",
+      points="70",
       runemarks={
          "fly",
          "minion"
@@ -4130,6 +4133,9 @@ return {
          },
          {
             _id="68d0f4f0"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="a4f5881c"
@@ -4170,6 +4176,9 @@ return {
             _id="37ab8133"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="a4f5881c"
          },
          {
@@ -4206,6 +4215,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="a4f5881c"
@@ -4255,6 +4267,9 @@ return {
             _id="37ab8133"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="a4f5881c"
          },
          {
@@ -4270,7 +4285,7 @@ return {
       grand_alliance="death",
       movement="6",
       name="Dreadscythe Harridan",
-      points="105",
+      points="100",
       runemarks={
          "fly",
          "terrifying"
@@ -4292,6 +4307,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="e5e07960"
@@ -4339,6 +4357,9 @@ return {
             _id="e11eb84f"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="87e56fd8"
          },
          {
@@ -4357,7 +4378,7 @@ return {
       grand_alliance="death",
       movement="6",
       name="Myrmourn Banshee",
-      points="120",
+      points="115",
       runemarks={
          "fly"
       },
@@ -4378,6 +4399,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="a4f5881c"
@@ -4423,6 +4447,9 @@ return {
             _id="68d0f4f0"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="cd1184f1"
          },
          {
@@ -4462,6 +4489,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="a4f5881c"
@@ -4512,6 +4542,9 @@ return {
             _id="37ab8133"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="cd1184f1"
          },
          {
@@ -4552,6 +4585,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="cd1184f1"
@@ -4595,6 +4631,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="a75aa984"
@@ -4660,7 +4699,7 @@ return {
       grand_alliance="death",
       movement="6",
       name="Slasher Crone",
-      points="165",
+      points="150",
       runemarks={
          "fly",
          "hero",
@@ -4683,6 +4722,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="e5e07960"
@@ -4782,6 +4824,9 @@ return {
             _id="37ab8133"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="cd1184f1"
          },
          {
@@ -4825,6 +4870,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="cd1184f1"
@@ -4928,6 +4976,9 @@ return {
             _id="e11eb84f"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="cd1184f1"
          },
          {
@@ -4949,7 +5000,7 @@ return {
       grand_alliance="death",
       movement="6",
       name="Knight of Shrouds",
-      points="190",
+      points="170",
       runemarks={
          "fly",
          "hero",
@@ -4975,6 +5026,9 @@ return {
          },
          {
             _id="9917bf4d"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="cd1184f1"
@@ -5018,6 +5072,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="cd1184f1"
@@ -5111,6 +5168,9 @@ return {
             _id="37ab8133"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="cd1184f1"
          },
          {
@@ -5154,6 +5214,9 @@ return {
             _id="37ab8133"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="edc2956e"
          },
          {
@@ -5175,7 +5238,7 @@ return {
       grand_alliance="death",
       movement="10",
       name="Knight of Shrouds on Ethereal Steed",
-      points="270",
+      points="250",
       runemarks={
          "fly",
          "hero",
@@ -5201,6 +5264,9 @@ return {
          },
          {
             _id="9917bf4d"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="cd1184f1"
@@ -5243,6 +5309,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="a4f5881c"
@@ -5301,6 +5370,9 @@ return {
             _id="37ab8133"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="a4f5881c"
          },
          {
@@ -5343,6 +5415,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="a4f5881c"
@@ -5388,6 +5463,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="cd1184f1"
@@ -5444,6 +5522,9 @@ return {
             _id="68d0f4f0"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="a4f5881c"
          },
          {
@@ -5486,6 +5567,9 @@ return {
             _id="68d0f4f0"
          },
          {
+            _id="01a3579a"
+         },
+         {
             _id="a4f5881c"
          },
          {
@@ -5526,6 +5610,9 @@ return {
          },
          {
             _id="68d0f4f0"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="a4f5881c"
@@ -5574,6 +5661,9 @@ return {
       abilities={
          {
             _id="37ab8133"
+         },
+         {
+            _id="01a3579a"
          },
          {
             _id="cd1184f1"
@@ -5931,7 +6021,7 @@ return {
       grand_alliance="death",
       movement="3",
       name="Mortek Guard with Soulcleaver Greatblade",
-      points="50",
+      points="60",
       runemarks={
 
       },
@@ -5966,7 +6056,7 @@ return {
       grand_alliance="death",
       movement="3",
       name="Mortek Guard with Nadirite Blade",
-      points="55",
+      points="60",
       runemarks={
          "bulwark"
       },
@@ -6004,7 +6094,7 @@ return {
       grand_alliance="death",
       movement="3",
       name="Mortek Guard with Nadirite Spear",
-      points="55",
+      points="60",
       runemarks={
          "bulwark"
       },
@@ -6663,6 +6753,57 @@ return {
       },
       base_size_x="60",
       base_size_y="60"
+   },
+   {
+      _id="6ac50bd5",
+      bladeborn="",
+      grand_alliance="death",
+      movement="4",
+      name="Mortisan Ossifector",
+      points="140",
+      runemarks={
+         "hero",
+         "elite"
+      },
+      toughness="4",
+      warband="Ossiarch Bonereapers",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="4",
+            dmg_hit="1",
+            max_range="1",
+            min_range="0",
+            runemark="claws",
+            strength="3"
+         },
+         {
+            attacks="2",
+            dmg_crit="6",
+            dmg_hit="3",
+            max_range="7",
+            min_range="3",
+            runemark="blast",
+            strength="3"
+         }
+      },
+      wounds="20",
+      abilities={
+         {
+            _id="adad4b92"
+         },
+         {
+            _id="43124d95"
+         },
+         {
+            _id="cb23e335"
+         },
+         {
+            _id="c6ad14aa"
+         }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="98a12abf",
@@ -7939,6 +8080,54 @@ return {
          },
          {
             _id="3382fbfd"
+         }
+      },
+      base_size_x="32",
+      base_size_y="32"
+   },
+   {
+      _id="4e68aa26",
+      bladeborn="",
+      grand_alliance="order",
+      movement="3",
+      name="Grimhold Exile",
+      points="165",
+      runemarks={
+         "hero",
+         "destroyer"
+      },
+      toughness="5",
+      warband="Fyreslayers",
+      weapons={
+         {
+            attacks="5",
+            dmg_crit="4",
+            dmg_hit="2",
+            max_range="1",
+            min_range="0",
+            runemark="hammer",
+            strength="4"
+         }
+      },
+      wounds="20",
+      abilities={
+         {
+            _id="e8fe0845"
+         },
+         {
+            _id="9986b64c"
+         },
+         {
+            _id="5adfeed4"
+         },
+         {
+            _id="8d633d3b"
+         },
+         {
+            _id="18341dd4"
+         },
+         {
+            _id="8c393095"
          }
       },
       base_size_x="32",
@@ -9901,7 +10090,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Shroudblade with Umbral Spear",
-      points="90",
+      points="85",
       runemarks={
          "warrior"
       },
@@ -9942,7 +10131,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Darkflame Warlock with Repeater Crossbows",
-      points="105",
+      points="100",
       runemarks={
          "mystic"
       },
@@ -10033,7 +10222,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Slaughtershade with Umbral Spears",
-      points="120",
+      points="115",
       runemarks={
          "warrior",
          "berserker"
@@ -10078,7 +10267,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Slaughtershade with Shadow Whip",
-      points="125",
+      points="115",
       runemarks={
          "warrior",
          "berserker"
@@ -12918,7 +13107,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Chameleon Skink with Dartpipe",
-      points="70",
+      points="60",
       runemarks={
          "agile"
       },
@@ -12959,7 +13148,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Chameleon Skink with Moonstone Club",
-      points="70",
+      points="65",
       runemarks={
          "agile",
          "trapper"
@@ -13004,7 +13193,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Chameleon Skink Hornblower with Moonstone Club",
-      points="70",
+      points="65",
       runemarks={
          "agile",
          "scout"
@@ -13049,7 +13238,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Chameleon Skink Hornblower with Dartpipe",
-      points="75",
+      points="65",
       runemarks={
          "agile",
          "scout"
@@ -13139,7 +13328,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Chameleon Skink Alpha with Dartpipe",
-      points="90",
+      points="80",
       runemarks={
          "hero",
          "agile"
@@ -13296,7 +13485,7 @@ return {
       grand_alliance="order",
       movement="3",
       name="Annihilator with Meteoric Hammer",
-      points="130",
+      points="140",
       runemarks={
          "brute"
       },
@@ -13407,7 +13596,7 @@ return {
       grand_alliance="order",
       movement="3",
       name="Annihilator with Grandhammer",
-      points="145",
+      points="155",
       runemarks={
          "brute"
       },
@@ -13610,7 +13799,7 @@ return {
       grand_alliance="order",
       movement="3",
       name="Annihilator-Prime with Meteoric Hammer",
-      points="180",
+      points="190",
       runemarks={
          "hero",
          "brute"
@@ -15692,6 +15881,55 @@ return {
       },
       base_size_x="92",
       base_size_y="120"
+   },
+   {
+      _id="bc293e96",
+      bladeborn="",
+      grand_alliance="order",
+      movement="3",
+      name="Grombrindal, the White Dwarf",
+      points="210",
+      runemarks={
+         "grombrindal",
+         "ally",
+         "hero"
+      },
+      toughness="5",
+      warband="order",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="5",
+            dmg_hit="3",
+            max_range="1",
+            min_range="0",
+            runemark="axe",
+            strength="5"
+         },
+         {
+            attacks="1",
+            dmg_crit="6",
+            dmg_hit="4",
+            max_range="8",
+            min_range="3",
+            runemark="ranged",
+            strength="5"
+         }
+      },
+      wounds="25",
+      abilities={
+         {
+            _id="115a9054"
+         },
+         {
+            _id="966269c7"
+         },
+         {
+            _id="4b48ae9b"
+         }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="6e1b7w9z",
@@ -19530,7 +19768,7 @@ return {
       grand_alliance="order",
       movement="3",
       name="Paladin with Starsoul Mace",
-      points="155",
+      points="165",
       runemarks={
          "brute"
       },
@@ -19824,7 +20062,7 @@ return {
       grand_alliance="order",
       movement="3",
       name="Retributor-Prime",
-      points="180",
+      points="190",
       runemarks={
          "hero",
          "brute"
@@ -23300,7 +23538,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Skink with Moonstone Club and Star-buckler",
-      points="70",
+      points="65",
       runemarks={
          "minion"
       },
@@ -23338,7 +23576,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Skink Handler",
-      points="70",
+      points="65",
       runemarks={
          "minion",
          "trapper"
@@ -23843,6 +24081,550 @@ return {
       base_size_y="60"
    },
    {
+      _id="a4d524f1",
+      bladeborn="",
+      grand_alliance="order",
+      movement="8",
+      name="Aggradon Lancer Alpha with Celestite Club",
+      points="245",
+      runemarks={
+         "hero",
+         "warrior",
+         "mount"
+      },
+      toughness="4",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="4",
+            dmg_hit="3",
+            max_range="1",
+            min_range="0",
+            runemark="club",
+            strength="4"
+         }
+      },
+      wounds="25",
+      abilities={
+         {
+            _id="7e0c051b"
+         },
+         {
+            _id="7a97b023"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="2ba76301"
+         }
+      },
+      base_size_x="42",
+      base_size_y="75"
+   },
+   {
+      _id="85f572ca",
+      bladeborn="",
+      grand_alliance="order",
+      movement="8",
+      name="Aggradon Lancer Alpha with Celestite Spear",
+      points="235",
+      runemarks={
+         "hero",
+         "warrior",
+         "mount"
+      },
+      toughness="4",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="5",
+            dmg_hit="2",
+            max_range="2",
+            min_range="0",
+            runemark="spear",
+            strength="4"
+         }
+      },
+      wounds="25",
+      abilities={
+         {
+            _id="7e0c051b"
+         },
+         {
+            _id="7a97b023"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="2ba76301"
+         }
+      },
+      base_size_x="42",
+      base_size_y="75"
+   },
+   {
+      _id="eb7ea713",
+      bladeborn="",
+      grand_alliance="order",
+      movement="10",
+      name="Raptadon Hunter Alpha",
+      points="140",
+      runemarks={
+         "hero",
+         "minion",
+         "mount"
+      },
+      toughness="2",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="3",
+            dmg_hit="1",
+            max_range="2",
+            min_range="0",
+            runemark="spear",
+            strength="2"
+         },
+         {
+            attacks="2",
+            dmg_crit="3",
+            dmg_hit="1",
+            max_range="8",
+            min_range="3",
+            runemark="ranged",
+            strength="3"
+         }
+      },
+      wounds="14",
+      abilities={
+         {
+            _id="7e0c051b"
+         },
+         {
+            _id="9dc1bf09"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="b11571a1"
+         }
+      },
+      base_size_x="35",
+      base_size_y="60"
+   },
+   {
+      _id="d52aba81",
+      bladeborn="",
+      grand_alliance="order",
+      movement="10",
+      name="Raptadon Charger Alpha",
+      points="135",
+      runemarks={
+         "hero",
+         "minion",
+         "mount"
+      },
+      toughness="2",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="3",
+            dmg_hit="1",
+            max_range="1",
+            min_range="0",
+            runemark="mace",
+            strength="3"
+         }
+      },
+      wounds="14",
+      abilities={
+         {
+            _id="7e0c051b"
+         },
+         {
+            _id="9dc1bf09"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="b11571a1"
+         }
+      },
+      base_size_x="35",
+      base_size_y="60"
+   },
+   {
+      _id="ebfc0cf2",
+      bladeborn="",
+      grand_alliance="order",
+      movement="8",
+      name="Saurus Scar-Veteran on Aggradon",
+      points="295",
+      runemarks={
+         "hero",
+         "warrior",
+         "mount"
+      },
+      toughness="4",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="5",
+            dmg_hit="3",
+            max_range="1",
+            min_range="0",
+            runemark="spear",
+            strength="5"
+         }
+      },
+      wounds="30",
+      abilities={
+         {
+            _id="7e0c051b"
+         },
+         {
+            _id="7a97b023"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="2ba76301"
+         }
+      },
+      base_size_x="52",
+      base_size_y="90"
+   },
+   {
+      _id="26043eca",
+      bladeborn="",
+      grand_alliance="order",
+      movement="8",
+      name="Aggradon Lancer with Celestite Club",
+      points="185",
+      runemarks={
+         "warrior",
+         "mount"
+      },
+      toughness="4",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="4",
+            dmg_hit="3",
+            max_range="1",
+            min_range="0",
+            runemark="club",
+            strength="4"
+         }
+      },
+      wounds="20",
+      abilities={
+         {
+            _id="7a97b023"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="2ba76301"
+         }
+      },
+      base_size_x="42",
+      base_size_y="75"
+   },
+   {
+      _id="9f1e68b5",
+      bladeborn="",
+      grand_alliance="order",
+      movement="8",
+      name="Aggradon Lancer with Celestite Spear",
+      points="180",
+      runemarks={
+         "warrior",
+         "mount"
+      },
+      toughness="4",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="5",
+            dmg_hit="2",
+            max_range="2",
+            min_range="0",
+            runemark="spear",
+            strength="4"
+         }
+      },
+      wounds="20",
+      abilities={
+         {
+            _id="7a97b023"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="2ba76301"
+         }
+      },
+      base_size_x="42",
+      base_size_y="75"
+   },
+   {
+      _id="1545eb4d",
+      bladeborn="",
+      grand_alliance="order",
+      movement="10",
+      name="Raptadon Charger",
+      points="110",
+      runemarks={
+         "minion",
+         "mount"
+      },
+      toughness="2",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="3",
+            dmg_hit="1",
+            max_range="1",
+            min_range="0",
+            runemark="mace",
+            strength="3"
+         }
+      },
+      wounds="12",
+      abilities={
+         {
+            _id="9dc1bf09"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="b11571a1"
+         }
+      },
+      base_size_x="35",
+      base_size_y="60"
+   },
+   {
+      _id="5b66f32a",
+      bladeborn="",
+      grand_alliance="order",
+      movement="10",
+      name="Raptadon Hunter",
+      points="120",
+      runemarks={
+         "minion",
+         "mount"
+      },
+      toughness="2",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="3",
+            dmg_hit="1",
+            max_range="2",
+            min_range="0",
+            runemark="spear",
+            strength="2"
+         },
+         {
+            attacks="2",
+            dmg_crit="3",
+            dmg_hit="1",
+            max_range="8",
+            min_range="3",
+            runemark="ranged",
+            strength="3"
+         }
+      },
+      wounds="12",
+      abilities={
+         {
+            _id="9dc1bf09"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="b11571a1"
+         }
+      },
+      base_size_x="35",
+      base_size_y="60"
+   },
+   {
+      _id="ddbd41e4",
+      bladeborn="",
+      grand_alliance="order",
+      movement="6",
+      name="Spawn of Chotec",
+      points="130",
+      runemarks={
+         "beast"
+      },
+      toughness="4",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="2",
+            dmg_crit="4",
+            dmg_hit="2",
+            max_range="1",
+            min_range="0",
+            runemark="fangs",
+            strength="4"
+         },
+         {
+            attacks="2",
+            dmg_crit="3",
+            dmg_hit="2",
+            max_range="7",
+            min_range="3",
+            runemark="blast",
+            strength="5"
+         }
+      },
+      wounds="18",
+      abilities={
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         }
+      },
+      base_size_x="52",
+      base_size_y="90"
+   },
+   {
+      _id="9bc16a41",
+      bladeborn="",
+      grand_alliance="order",
+      movement="4",
+      name="Kroxigor",
+      points="200",
+      runemarks={
+         "warrior",
+         "brute"
+      },
+      toughness="5",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="2",
+            dmg_crit="8",
+            dmg_hit="4",
+            max_range="2",
+            min_range="0",
+            runemark="mace",
+            strength="6"
+         }
+      },
+      wounds="28",
+      abilities={
+         {
+            _id="7a97b023"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="5851f8af"
+         }
+      },
+      base_size_x="50",
+      base_size_y="50"
+   },
+   {
+      _id="c95ad268",
+      bladeborn="",
+      grand_alliance="order",
+      movement="4",
+      name="Kroxigor Warspawned",
+      points="205",
+      runemarks={
+         "warrior",
+         "sentience"
+      },
+      toughness="5",
+      warband="Seraphon",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="6",
+            dmg_hit="3",
+            max_range="2",
+            min_range="0",
+            runemark="mace",
+            strength="5"
+         }
+      },
+      wounds="28",
+      abilities={
+         {
+            _id="7a97b023"
+         },
+         {
+            _id="339d66b0"
+         },
+         {
+            _id="72ea88ae"
+         },
+         {
+            _id="a2bd176b"
+         }
+      },
+      base_size_x="50",
+      base_size_y="50"
+   },
+   {
       _id="97071a01",
       bladeborn="",
       grand_alliance="order",
@@ -23977,6 +24759,9 @@ return {
          },
          {
             _id="72ea88ae"
+         },
+         {
+            _id="2ba76301"
          }
       },
       base_size_x="35",
@@ -24016,6 +24801,9 @@ return {
          },
          {
             _id="72ea88ae"
+         },
+         {
+            _id="2ba76301"
          }
       },
       base_size_x="35",
@@ -24241,44 +25029,6 @@ return {
       base_size_y="32"
    },
    {
-      _id="48f9dfeb",
-      bladeborn="",
-      grand_alliance="order",
-      movement="6",
-      name="Kroxigor",
-      points="180",
-      runemarks={
-         "warrior"
-      },
-      toughness="4",
-      warband="Seraphon",
-      weapons={
-         {
-            attacks="2",
-            dmg_crit="6",
-            dmg_hit="3",
-            max_range="2",
-            min_range="0",
-            runemark="club",
-            strength="5"
-         }
-      },
-      wounds="28",
-      abilities={
-         {
-            _id="7a97b023"
-         },
-         {
-            _id="339d66b0"
-         },
-         {
-            _id="72ea88ae"
-         }
-      },
-      base_size_x="50",
-      base_size_y="50"
-   },
-   {
       _id="60ee60c9",
       bladeborn="",
       grand_alliance="order",
@@ -24443,6 +25193,9 @@ return {
          },
          {
             _id="72ea88ae"
+         },
+         {
+            _id="2ba76301"
          }
       },
       base_size_x="35",
@@ -24590,6 +25343,9 @@ return {
          },
          {
             _id="72ea88ae"
+         },
+         {
+            _id="2ba76301"
          }
       },
       base_size_x="35",
@@ -24956,7 +25712,7 @@ return {
       grand_alliance="order",
       movement="6",
       name="Kixi-Taka, The Diviner",
-      points="125",
+      points="135",
       runemarks={
          "hero",
          "minion"
@@ -25048,7 +25804,7 @@ return {
       grand_alliance="order",
       movement="3",
       name="Arkanaut Company Privateer with Privateer Pistol and Arkanaut Cutter",
-      points="50",
+      points="55",
       runemarks={
 
       },
@@ -25394,7 +26150,7 @@ return {
       grand_alliance="order",
       movement="3",
       name="Grundstok Thunderer with Aethercannon",
-      points="110",
+      points="130",
       runemarks={
          "elite"
       },
@@ -25492,7 +26248,7 @@ return {
       grand_alliance="order",
       movement="3",
       name="Grundstok Thunderer with Grundstok Mortar",
-      points="130",
+      points="145",
       runemarks={
          "elite"
       },
@@ -25581,7 +26337,7 @@ return {
       grand_alliance="order",
       movement="3",
       name="Arkanaut Admiral",
-      points="145",
+      points="155",
       runemarks={
          "hero"
       },
@@ -26626,6 +27382,57 @@ return {
          },
          {
             _id="cce1c9d6"
+         }
+      },
+      base_size_x="32",
+      base_size_y="32"
+   },
+   {
+      _id="311fd049",
+      bladeborn="",
+      grand_alliance="order",
+      movement="3",
+      name="Codewright",
+      points="95",
+      runemarks={
+         "hero",
+         "icon-bearer"
+      },
+      toughness="4",
+      warband="Kharadron Overlords",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="3",
+            dmg_hit="1",
+            max_range="1",
+            min_range="0",
+            runemark="unarmed",
+            strength="3"
+         },
+         {
+            attacks="2",
+            dmg_crit="3",
+            dmg_hit="1",
+            max_range="8",
+            min_range="0",
+            runemark="ranged",
+            strength="3"
+         }
+      },
+      wounds="16",
+      abilities={
+         {
+            _id="500bda45"
+         },
+         {
+            _id="48c586d4"
+         },
+         {
+            _id="11442553"
+         },
+         {
+            _id="9c64c8f5"
          }
       },
       base_size_x="32",
@@ -28446,7 +29253,7 @@ return {
       grand_alliance="destruction",
       movement="4",
       name="Brewgit",
-      points="70",
+      points="90",
       runemarks={
          "ally",
          "bulwark"
@@ -28572,6 +29379,9 @@ return {
          },
          {
             _id="ae5c000d"
+         },
+         {
+            _id="4b5b9619"
          }
       },
       base_size_x="32",
@@ -28745,6 +29555,9 @@ return {
          },
          {
             _id="16486f1f"
+         },
+         {
+            _id="7f30905f"
          }
       },
       base_size_x="32",
@@ -29357,6 +30170,209 @@ return {
       base_size_y="40"
    },
    {
+      _id="1565a04c",
+      bladeborn="",
+      grand_alliance="destruction",
+      movement="4",
+      name="Rabble-Rowza",
+      points="130",
+      runemarks={
+         "hero",
+         "sentience"
+      },
+      toughness="4",
+      warband="Gloomspite Gitz",
+      weapons={
+         {
+            attacks="5",
+            dmg_crit="3",
+            dmg_hit="2",
+            max_range="1",
+            min_range="0",
+            runemark="club",
+            strength="3"
+         }
+      },
+      wounds="16",
+      abilities={
+         {
+            _id="a2f5c060"
+         },
+         {
+            _id="6eaa49d2"
+         },
+         {
+            _id="315054de"
+         },
+         {
+            _id="59b00d5a"
+         },
+         {
+            _id="c15373cf"
+         },
+         {
+            _id="4b5b9619"
+         }
+      },
+      base_size_x="32",
+      base_size_y="32"
+   },
+   {
+      _id="9dd13a32",
+      bladeborn="",
+      grand_alliance="destruction",
+      movement="4",
+      name="Squigboss with Gnasha-Squig",
+      points="135",
+      runemarks={
+         "hero",
+         "brute"
+      },
+      toughness="3",
+      warband="Gloomspite Gitz",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="5",
+            dmg_hit="2",
+            max_range="2",
+            min_range="0",
+            runemark="fangs",
+            strength="4"
+         }
+      },
+      wounds="16",
+      abilities={
+         {
+            _id="a2f5c060"
+         },
+         {
+            _id="315054de"
+         },
+         {
+            _id="59b00d5a"
+         },
+         {
+            _id="c15373cf"
+         },
+         {
+            _id="9af44d1d"
+         }
+      },
+      base_size_x="32",
+      base_size_y="32"
+   },
+   {
+      _id="7cc958a6",
+      bladeborn="",
+      grand_alliance="destruction",
+      movement="10",
+      name="Snarlfang Rider Gitboss",
+      points="215",
+      runemarks={
+         "hero",
+         "scout"
+      },
+      toughness="4",
+      warband="Gloomspite Gitz",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="4",
+            dmg_hit="2",
+            max_range="2",
+            min_range="0",
+            runemark="spear",
+            strength="5"
+         },
+         {
+            attacks="2",
+            dmg_crit="3",
+            dmg_hit="2",
+            max_range="12",
+            min_range="3",
+            runemark="ranged",
+            strength="4"
+         }
+      },
+      wounds="20",
+      abilities={
+         {
+            _id="a2f5c060"
+         },
+         {
+            _id="315054de"
+         },
+         {
+            _id="59b00d5a"
+         },
+         {
+            _id="c15373cf"
+         },
+         {
+            _id="16486f1f"
+         },
+         {
+            _id="7f30905f"
+         }
+      },
+      base_size_x="35",
+      base_size_y="60"
+   },
+   {
+      _id="a12b0b25",
+      bladeborn="",
+      grand_alliance="destruction",
+      movement="10",
+      name="Snarlfang Rider",
+      points="175",
+      runemarks={
+         "scout"
+      },
+      toughness="4",
+      warband="Gloomspite Gitz",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="3",
+            dmg_hit="2",
+            max_range="2",
+            min_range="0",
+            runemark="spear",
+            strength="5"
+         },
+         {
+            attacks="2",
+            dmg_crit="3",
+            dmg_hit="2",
+            max_range="12",
+            min_range="3",
+            runemark="ranged",
+            strength="3"
+         }
+      },
+      wounds="15",
+      abilities={
+         {
+            _id="a2f5c060"
+         },
+         {
+            _id="59b00d5a"
+         },
+         {
+            _id="c15373cf"
+         },
+         {
+            _id="16486f1f"
+         },
+         {
+            _id="7f30905f"
+         }
+      },
+      base_size_x="35",
+      base_size_y="60"
+   },
+   {
       _id="3050f851",
       bladeborn="Grinkrak's Looncourt",
       grand_alliance="destruction",
@@ -29939,7 +30955,7 @@ return {
       grand_alliance="destruction",
       movement="4",
       name="Prog Da Netter",
-      points="50",
+      points="65",
       runemarks={
          "trapper"
       },
@@ -30240,8 +31256,8 @@ return {
       bladeborn="",
       grand_alliance="destruction",
       movement="3",
-      name="Orruk Ardboy with Ardboy Choppas",
-      points="80",
+      name="Orruk Ardboy with Choppas",
+      points="85",
       runemarks={
 
       },
@@ -30317,7 +31333,7 @@ return {
       grand_alliance="destruction",
       movement="3",
       name="Ardboy Boss with Ardboy Choppas",
-      points="135",
+      points="140",
       runemarks={
          "hero"
       },
@@ -30589,7 +31605,7 @@ return {
       grand_alliance="destruction",
       movement="3",
       name="Brute Boss with Boss Choppa",
-      points="190",
+      points="200",
       runemarks={
          "hero",
          "brute"
@@ -30637,7 +31653,7 @@ return {
       grand_alliance="destruction",
       movement="3",
       name="Brute Boss with Boss Klaw and Brute Smasha",
-      points="195",
+      points="205",
       runemarks={
          "hero",
          "brute",
@@ -31739,7 +32755,7 @@ return {
       grand_alliance="destruction",
       movement="4",
       name="Crusher",
-      points="245",
+      points="255",
       runemarks={
          "hero",
          "brute",
@@ -31785,7 +32801,7 @@ return {
       grand_alliance="destruction",
       movement="4",
       name="Gutlord",
-      points="280",
+      points="290",
       runemarks={
          "hero",
          "brute"
@@ -31964,7 +32980,7 @@ return {
       grand_alliance="destruction",
       movement="4",
       name="Tyrant",
-      points="315",
+      points="325",
       runemarks={
          "hero",
          "brute",
@@ -32064,6 +33080,51 @@ return {
       },
       base_size_x="52",
       base_size_y="90"
+   },
+   {
+      _id="6be53983",
+      bladeborn="",
+      grand_alliance="destruction",
+      movement="5",
+      name="Bloodpelt Hunter",
+      points="280",
+      runemarks={
+         "hero",
+         "ferocious"
+      },
+      toughness="4",
+      warband="Ogor Mawtribes",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="5",
+            dmg_hit="3",
+            max_range="2",
+            min_range="0",
+            runemark="spear",
+            strength="5"
+         },
+         {
+            attacks="2",
+            dmg_crit="5",
+            dmg_hit="3",
+            max_range="8",
+            min_range="3",
+            runemark="ranged",
+            strength="6"
+         }
+      },
+      wounds="30",
+      abilities={
+         {
+            _id="0562672c"
+         },
+         {
+            _id="ee876af0"
+         }
+      },
+      base_size_x="40",
+      base_size_y="40"
    },
    {
       _id="a5a705f7",
@@ -32288,7 +33349,7 @@ return {
       grand_alliance="destruction",
       movement="4",
       name="Quiv",
-      points="45",
+      points="60",
       runemarks={
          "minion"
       },
@@ -33815,7 +34876,7 @@ return {
       grand_alliance="chaos",
       movement="5",
       name="Fomoroid Crusher",
-      points="260",
+      points="270",
       runemarks={
          "ally",
          "destroyer"
@@ -33899,7 +34960,7 @@ return {
       grand_alliance="chaos",
       movement="5",
       name="Ogroid Myrmidon",
-      points="265",
+      points="275",
       runemarks={
          "ally",
          "champion"
@@ -34325,9 +35386,6 @@ return {
       wounds="10",
       abilities={
          {
-            _id="73945e60"
-         },
-         {
             _id="a0c80fdf"
          },
          {
@@ -34363,9 +35421,6 @@ return {
       wounds="10",
       abilities={
          {
-            _id="73945e60"
-         },
-         {
             _id="a0c80fdf"
          },
          {
@@ -34400,9 +35455,6 @@ return {
       },
       wounds="15",
       abilities={
-         {
-            _id="73945e60"
-         },
          {
             _id="a0c80fdf"
          },
@@ -34442,9 +35494,6 @@ return {
       },
       wounds="12",
       abilities={
-         {
-            _id="73945e60"
-         },
          {
             _id="a0c80fdf"
          },
@@ -34487,9 +35536,6 @@ return {
       wounds="12",
       abilities={
          {
-            _id="73945e60"
-         },
-         {
             _id="a0c80fdf"
          },
          {
@@ -34528,9 +35574,6 @@ return {
       wounds="15",
       abilities={
          {
-            _id="73945e60"
-         },
-         {
             _id="a0c80fdf"
          },
          {
@@ -34568,9 +35611,6 @@ return {
       },
       wounds="18",
       abilities={
-         {
-            _id="73945e60"
-         },
          {
             _id="a0c80fdf"
          },
@@ -34618,9 +35658,6 @@ return {
       },
       wounds="22",
       abilities={
-         {
-            _id="73945e60"
-         },
          {
             _id="a0c80fdf"
          },
@@ -35100,7 +36137,7 @@ return {
       grand_alliance="chaos",
       movement="4",
       name="Kairic Acolyte with Paired Cursed Blades",
-      points="90",
+      points="75",
       runemarks={
 
       },
@@ -35144,7 +36181,7 @@ return {
       grand_alliance="chaos",
       movement="4",
       name="Kairic Acolyte with Vulcharc",
-      points="90",
+      points="70",
       runemarks={
          "scout"
       },
@@ -35191,7 +36228,7 @@ return {
       grand_alliance="chaos",
       movement="4",
       name="Kairic Acolyte with Cursed Blade and Arcanite Shield",
-      points="95",
+      points="75",
       runemarks={
 
       },
@@ -35235,7 +36272,7 @@ return {
       grand_alliance="chaos",
       movement="4",
       name="Kairic Acolyte with Cursed Glaive and Arcanite Shield",
-      points="95",
+      points="75",
       runemarks={
 
       },
@@ -37379,7 +38416,7 @@ return {
       grand_alliance="chaos",
       movement="3",
       name="Plaguebearer",
-      points="50",
+      points="60",
       runemarks={
          "warrior"
       },
@@ -37459,7 +38496,7 @@ return {
       grand_alliance="chaos",
       movement="5",
       name="Nurglings",
-      points="105",
+      points="115",
       runemarks={
          "minion"
       },
@@ -38122,44 +39159,6 @@ return {
       base_size_y="60"
    },
    {
-      _id="40867af6",
-      bladeborn="",
-      grand_alliance="chaos",
-      movement="4",
-      name="Chaos Chosen",
-      points="145",
-      runemarks={
-         "warrior"
-      },
-      toughness="5",
-      warband="Slaves to Darkness",
-      weapons={
-         {
-            attacks="3",
-            dmg_crit="4",
-            dmg_hit="2",
-            max_range="1",
-            min_range="0",
-            runemark="axe",
-            strength="5"
-         }
-      },
-      wounds="20",
-      abilities={
-         {
-            _id="37f92b91"
-         },
-         {
-            _id="e818fc5e"
-         },
-         {
-            _id="57d69e94"
-         }
-      },
-      base_size_x="40",
-      base_size_y="40"
-   },
-   {
       _id="8036bff4",
       bladeborn="",
       grand_alliance="chaos",
@@ -38331,48 +39330,6 @@ return {
       },
       base_size_x="32",
       base_size_y="32"
-   },
-   {
-      _id="c76eda97",
-      bladeborn="",
-      grand_alliance="chaos",
-      movement="4",
-      name="Exalted Champion",
-      points="185",
-      runemarks={
-         "hero",
-         "warrior"
-      },
-      toughness="5",
-      warband="Slaves to Darkness",
-      weapons={
-         {
-            attacks="3",
-            dmg_crit="5",
-            dmg_hit="2",
-            max_range="2",
-            min_range="0",
-            runemark="axe",
-            strength="5"
-         }
-      },
-      wounds="25",
-      abilities={
-         {
-            _id="37f92b91"
-         },
-         {
-            _id="fc79c438"
-         },
-         {
-            _id="e818fc5e"
-         },
-         {
-            _id="57d69e94"
-         }
-      },
-      base_size_x="40",
-      base_size_y="40"
    },
    {
       _id="7ed88e20",
@@ -38847,6 +39804,246 @@ return {
       },
       base_size_x="52",
       base_size_y="90"
+   },
+   {
+      _id="810bb2cc",
+      bladeborn="",
+      grand_alliance="chaos",
+      movement="4",
+      name="Chaos Chosen Exalted Champion",
+      points="210",
+      runemarks={
+         "hero",
+         "warrior"
+      },
+      toughness="5",
+      warband="Slaves to Darkness",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="4",
+            dmg_hit="3",
+            max_range="1",
+            min_range="0",
+            runemark="axe",
+            strength="5"
+         }
+      },
+      wounds="24",
+      abilities={
+         {
+            _id="37f92b91"
+         },
+         {
+            _id="fc79c438"
+         },
+         {
+            _id="e818fc5e"
+         },
+         {
+            _id="57d69e94"
+         }
+      },
+      base_size_x="40",
+      base_size_y="40"
+   },
+   {
+      _id="f5bbf9d4",
+      bladeborn="",
+      grand_alliance="chaos",
+      movement="5",
+      name="Thorakon with Goroan Falchion and Shield",
+      points="210",
+      runemarks={
+         "hero",
+         "ferocious"
+      },
+      toughness="6",
+      warband="Slaves to Darkness",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="4",
+            dmg_hit="2",
+            max_range="1",
+            min_range="0",
+            runemark="sword",
+            strength="5"
+         }
+      },
+      wounds="28",
+      abilities={
+         {
+            _id="37f92b91"
+         },
+         {
+            _id="fc79c438"
+         },
+         {
+            _id="57d69e94"
+         },
+         {
+            _id="b2199fe2"
+         }
+      },
+      base_size_x="50",
+      base_size_y="50"
+   },
+   {
+      _id="44766ee9",
+      bladeborn="",
+      grand_alliance="chaos",
+      movement="5",
+      name="Thorakon with Goroan Great Axe",
+      points="275",
+      runemarks={
+         "hero",
+         "ferocious"
+      },
+      toughness="5",
+      warband="Slaves to Darkness",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="6",
+            dmg_hit="3",
+            max_range="2",
+            min_range="0",
+            runemark="axe",
+            strength="5"
+         }
+      },
+      wounds="28",
+      abilities={
+         {
+            _id="37f92b91"
+         },
+         {
+            _id="fc79c438"
+         },
+         {
+            _id="57d69e94"
+         },
+         {
+            _id="b2199fe2"
+         }
+      },
+      base_size_x="50",
+      base_size_y="50"
+   },
+   {
+      _id="ac1ef533",
+      bladeborn="",
+      grand_alliance="chaos",
+      movement="4",
+      name="Chaos Chosen",
+      points="155",
+      runemarks={
+         "warrior"
+      },
+      toughness="5",
+      warband="Slaves to Darkness",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="4",
+            dmg_hit="3",
+            max_range="1",
+            min_range="0",
+            runemark="axe",
+            strength="5"
+         }
+      },
+      wounds="20",
+      abilities={
+         {
+            _id="37f92b91"
+         },
+         {
+            _id="e818fc5e"
+         },
+         {
+            _id="57d69e94"
+         }
+      },
+      base_size_x="40",
+      base_size_y="40"
+   },
+   {
+      _id="09dc4fa3",
+      bladeborn="",
+      grand_alliance="chaos",
+      movement="5",
+      name="Ogroid Theridon with Goroan Falchion and Shield",
+      points="195",
+      runemarks={
+         "ferocious"
+      },
+      toughness="6",
+      warband="Slaves to Darkness",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="4",
+            dmg_hit="2",
+            max_range="1",
+            min_range="0",
+            runemark="sword",
+            strength="5"
+         }
+      },
+      wounds="28",
+      abilities={
+         {
+            _id="37f92b91"
+         },
+         {
+            _id="57d69e94"
+         },
+         {
+            _id="b2199fe2"
+         }
+      },
+      base_size_x="50",
+      base_size_y="50"
+   },
+   {
+      _id="c69e2171",
+      bladeborn="",
+      grand_alliance="chaos",
+      movement="5",
+      name="Ogroid Theridon with Goroan Great Axe",
+      points="220",
+      runemarks={
+         "ferocious"
+      },
+      toughness="5",
+      warband="Slaves to Darkness",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="6",
+            dmg_hit="3",
+            max_range="2",
+            min_range="0",
+            runemark="axe",
+            strength="5"
+         }
+      },
+      wounds="28",
+      abilities={
+         {
+            _id="37f92b91"
+         },
+         {
+            _id="57d69e94"
+         },
+         {
+            _id="b2199fe2"
+         }
+      },
+      base_size_x="50",
+      base_size_y="50"
    },
    {
       _id="5b4489f1",
@@ -41229,6 +42426,51 @@ return {
       base_size_y="40"
    },
    {
+      _id="75a035fc",
+      bladeborn="",
+      grand_alliance="chaos",
+      movement="6",
+      name="Harbinger of Decay with Doom Bell",
+      points="150",
+      runemarks={
+         "hero",
+         "priest"
+      },
+      toughness="4",
+      warband="Maggotkin of Nurgle: Rotbringers",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="4",
+            dmg_hit="2",
+            max_range="1",
+            min_range="0",
+            runemark="scythe",
+            strength="3"
+         }
+      },
+      wounds="25",
+      abilities={
+         {
+            _id="cad56a1d"
+         },
+         {
+            _id="4ae93ad6"
+         },
+         {
+            _id="87f770a5"
+         },
+         {
+            _id="3ae55ee5"
+         },
+         {
+            _id="54617d11"
+         }
+      },
+      base_size_x="52",
+      base_size_y="90"
+   },
+   {
       _id="ad8709a0",
       bladeborn="",
       grand_alliance="chaos",
@@ -41543,7 +42785,7 @@ return {
       grand_alliance="chaos",
       movement="5",
       name="Mirrorblade with Duelling Swords",
-      points="130",
+      points="120",
       runemarks={
          "minion"
       },
@@ -41584,7 +42826,7 @@ return {
       grand_alliance="chaos",
       movement="5",
       name="Mirrorblade with Glaive",
-      points="135",
+      points="125",
       runemarks={
          "minion",
          "destroyer"
@@ -41954,7 +43196,7 @@ return {
       grand_alliance="chaos",
       movement="8",
       name="Shrike Talon",
-      points="210",
+      points="170",
       runemarks={
          "agile"
       },
@@ -42837,6 +44079,48 @@ return {
       base_size_y="40"
    },
    {
+      _id="282ca0b9",
+      bladeborn="",
+      grand_alliance="chaos",
+      movement="5",
+      name="Lord of Hubris",
+      points="155",
+      runemarks={
+         "hero",
+         "bulwark"
+      },
+      toughness="4",
+      warband="Hedonites of Slaanesh: Sybarites",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="3",
+            dmg_hit="2",
+            max_range="1",
+            min_range="0",
+            runemark="sword",
+            strength="4"
+         }
+      },
+      wounds="20",
+      abilities={
+         {
+            _id="25ae4b3e"
+         },
+         {
+            _id="96b6782c"
+         },
+         {
+            _id="d9e17b86"
+         },
+         {
+            _id="d001e554"
+         }
+      },
+      base_size_x="40",
+      base_size_y="40"
+   },
+   {
       _id="46b82fd9",
       bladeborn="The Dread Pageant",
       grand_alliance="chaos",
@@ -43177,7 +44461,7 @@ return {
       grand_alliance="chaos",
       movement="7",
       name="Hound of Wrath",
-      points="190",
+      points="170",
       runemarks={
          "agile",
          "beast"
@@ -45882,7 +47166,7 @@ return {
       grand_alliance="chaos",
       movement="6",
       name="Broodmaster",
-      points="200",
+      points="180",
       runemarks={
          "hero",
          "sentience",
@@ -46420,7 +47704,7 @@ return {
       grand_alliance="chaos",
       movement="4",
       name="Carrion Catcher with Snatcher-hook",
-      points="110",
+      points="100",
       runemarks={
          "scout",
          "destroyer"
@@ -46462,7 +47746,7 @@ return {
       grand_alliance="chaos",
       movement="4",
       name="Carrion Catcher with Impaler",
-      points="115",
+      points="105",
       runemarks={
          "scout"
       },
@@ -50388,7 +51672,7 @@ return {
       grand_alliance="chaos",
       movement="4",
       name="Shatterer",
-      points="55",
+      points="60",
       runemarks={
 
       },

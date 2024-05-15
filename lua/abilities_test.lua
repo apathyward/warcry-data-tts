@@ -187,7 +187,7 @@ return {
    name="Bird Strike",
    warband="Blackpowder's Buccaneers",
    cost="double",
-   description="Pick a visible friendly fighter within 6\" of this fighter that has both the Blackpowder's Buccaneers and the Fly runemarks.  That fighter can make a bonus move action or a bonus attack action.",
+   description="Pick a visible friendly fighter within 6\" of this fighter that has both the Blackpowder's Buccaneers and the Fly runemarks. That fighter can make a bonus move action or a bonus attack action.",
    runemarks={
       "hero"
    }
@@ -197,7 +197,7 @@ return {
    name="Sic 'Em",
    warband="Blackpowder's Buccaneers",
    cost="double",
-   description="Pick a visible friendly fighter within 6\" of this fighter that has both the Blackpowder's Buccaneers and the Frienzied runemarks.  That fighter can make a bonus move action or a bonus attack action.",
+   description="Pick a visible friendly fighter within 6\" of this fighter that has both the Blackpowder's Buccaneers and the Frienzied runemarks. That fighter can make a bonus move action or a bonus attack action.",
    runemarks={
       "scout"
    }
@@ -1134,7 +1134,7 @@ return {
    name="Swooping Attack",
    warband="Corvus Cabal",
    cost="triple",
-   description="This fighter makes a bonus move action. In addition, if the fighter finishes that move action 3\" or more vertically lower than their starting position, they can make a bonus attack action.",
+   description="This fighter makes a bonus move action. In addition, if the fighter finishes that move action 2\" or more vertically lower than their starting position, they can make a bonus attack action.",
    runemarks={
       "agile"
    }
@@ -1144,7 +1144,7 @@ return {
    name="Death from Above",
    warband="Corvus Cabal",
    cost="quad",
-   description="This fighter makes a bonus move action. Then, they can make a bonus attack action. Add 1 to the Strength characteristic of that attack action if the fighter finished the move action 3\" or more vertically lower than their starting position.",
+   description="This fighter makes a bonus move action. Then, they can make a bonus attack action. Add 1 to the Strength characteristic of that attack action if the fighter finished the move action 2\" or more vertically lower than their starting position.",
    runemarks={
 
    }
@@ -1214,7 +1214,7 @@ return {
    name="Shadowy Recall",
    warband="Cypher Lords",
    cost="triple",
-   description="Pick a friendly fighter with the Cypher Lords faction runemark and the Minion runemark that is within 12\" of this fighter. Remove that fighter from the battlefield, then set that fighter up on a platform or the battlefield floor, wholly within a number of inches of this fighter equal to the value of this ability.",
+   description="Pick a friendly fighter with the Minion runemark. Remove that fighter from the battlefield, then set that fighter up on a platform or the battlefield floor within 6\" of this fighter.",
    runemarks={
       "mystic"
    }
@@ -2168,6 +2168,16 @@ return {
    }
 },
 {
+   _id="8c393095",
+   name="Lodge-fire Blaze",
+   warband="Fyreslayers",
+   cost="triple",
+   description="Pick a visible enemy fighter within 3\" of this fighter and roll 6 dice. For each roll of 4+, allocate 1 damage point to that fighter. If that fighter has a Wounds characteristic of 30 or more, for each roll of 3+, allocate a number of damage points to that fighter equal to half the value of this ability (rounding up) instead.",
+   runemarks={
+      "destroyer"
+   }
+},
+{
    _id="a659404f",
    name="Decapitating Strike",
    warband="Garrek's Reavers",
@@ -2391,6 +2401,36 @@ return {
    }
 },
 {
+   _id="4b5b9619",
+   name="Over Here, Ya Lug!",
+   warband="Gloomspite Gitz",
+   cost="double",
+   description="Pick a visible enemy fighter with the Monster runemark that is within 6\" of this fighter. Until the end of the battle round, that enemy fighter cannot end move actions further from this fighter.",
+   runemarks={
+      "sentience"
+   }
+},
+{
+   _id="7f30905f",
+   name="Can't Catch Us!",
+   warband="Gloomspite Gitz",
+   cost="double",
+   description="A fighter can only use this ability if they have made one or more ranged attack actions this activation. This fighter makes a bonus move action of a number of inches equal to the value of this ability.",
+   runemarks={
+      "scout"
+   }
+},
+{
+   _id="9af44d1d",
+   name="Mycophile's Pouch",
+   warband="Gloomspite Gitz",
+   cost="double",
+   description="Until the end of the battle round, add 1 to the Attacks characteristic of friendly fighters with the Gloomspite Gitz faction runemark and either the Fly runemark or the Beast runemark while they are within 6\" of this fighter.",
+   runemarks={
+      "brute"
+   }
+},
+{
    _id="770d0514",
    name="Self-Command",
    warband="Gnarlspirit Pack",
@@ -2455,7 +2495,7 @@ return {
    name="Overhead Smash",
    warband="Gorechosen of Dromm",
    cost="double",
-   description="You can only use this ability if this fighter has fallen 3\" or more this activation. Pick an enemy fighter within 1\" of this fighter and roll a number of dice equal to the value of this ability. For each roll of 4+, allocate 3 damage points to that enemy fighter.",
+   description="You can only use this ability if this fighter has jumped and then moved 2\" or more vertically downwards during this activation. Pick an enemy fighter within 1\" of this fighter and roll a number of dice equal to the value of this ability. For each roll of 4+, allocate 3 damage points to that enemy fighter.",
    runemarks={
       "brute"
    }
@@ -2465,7 +2505,7 @@ return {
    name="Chains of Blood",
    warband="Gorechosen of Dromm",
    cost="triple",
-   description="Add half the value of this ability to the Range characteristic of this fighter's melee attack actinos until the end of this activation.",
+   description="Add half the value of this ability to the Range characteristic of this fighter's melee attack actions until the end of this activation.",
    runemarks={
       "elite"
    }
@@ -2855,6 +2895,16 @@ return {
    }
 },
 {
+   _id="d001e554",
+   name=" You First, I Insist",
+   warband="Hedonites of Slaanesh: Sybarites",
+   cost="double",
+   description="Pick a visible enemy fighter within 1\" of this fighter. That enemy fighter makes a bonus attack action targeting this fighter. Until the end of this f ighter's activation: \n- Add 2 to the Attacks and Strength characteristics of melee attack actions made by this fighter that target that enemy fighter. \n- Add 3 to the damage points allocated by each critical hit from melee attack actions made by this fighter that target that enemy fighter.",
+   runemarks={
+      "bulwark"
+   }
+},
+{
    _id="68f565a2",
    name="Explosive Bolts",
    warband="Hexbane's Hunters",
@@ -2939,7 +2989,7 @@ return {
    name="Lay Mantrap",
    warband="Hrothgorn's Mantrappers",
    cost="double",
-   description="A fighter can only use this ability once per battle.  Pick a point on a platform or the battlefield floor within 3\" of this fighter that is more than 1\" away from all enemy fighters and set up the Bushwakka's Trap marker.  Allocate 2D6 damage pints to the first enemy fighter to move within 1\" of the marker, then remove the marker.",
+   description="A fighter can only use this ability once per battle. Pick a point on a platform or the battlefield floor within 3\" of this fighter that is more than 1\" away from all enemy fighters and set up the Bushwakka's Trap marker. Allocate 2D6 damage pints to the first enemy fighter to move within 1\" of the marker, then remove the marker.",
    runemarks={
       "trapper"
    }
@@ -2949,7 +2999,7 @@ return {
    name="Here You Go, Boss!",
    warband="Hrothgorn's Mantrappers",
    cost="triple",
-   description="A fighter can use this ability only if they are within 2\" of a friendly Hrothgorn Mantrapper.  that Hrothgorn Mantrapper makes a bonus attack action that has a Ranged Weapon runemark.",
+   description="A fighter can use this ability only if they are within 2\" of a friendly Hrothgorn Mantrapper. That Hrothgorn Mantrapper makes a bonus attack action that has a Ranged Weapon runemark.",
    runemarks={
       "minion"
    }
@@ -3019,7 +3069,7 @@ return {
    name="Slippery",
    warband="Hunters of Huanchi",
    cost="reaction",
-   description="A fighter can make this reaction after they have been allocated damage points by a melee attack action. This fighter makes a bonus disengage action.",
+   description="A fighter can make this reaction after they have been allocated the total damage points by a melee attack action. This fighter makes a bonus disengage action.",
    runemarks={
       "agile"
    }
@@ -3580,7 +3630,7 @@ return {
    name="Fight for Profit",
    warband="Kharadron Overlords",
    cost="triple",
-   description="Until the end of the battle round, add 1 to the Attacks characteristic of attack actions made by friendly fighters while they are within 3\" of this fighter. If this fighter is carrying treasure or is within 3\" of an objective, add 2 to the Attacks characteristic instead.",
+   description="Until the end of the battle round, add 1 to the Attacks characteristic of melee attack actions made by friendly fighters while they are within 3\" of this fighter. If this fighter is carrying treasure or is within 3\" of an objective, add 1 to the Attacks characteristic of all attack actions made by those fighters instead.",
    runemarks={
       "hero"
    }
@@ -3634,6 +3684,16 @@ return {
    description="A fighter can make this reaction after they are targeted by an attack action but before the hit rolls are made if the attacker is within range of at least one of the target's weapons. For each hit roll from that attack action that misses, allocate 1 damage point to the attacking fighter. For each hit roll of 1, allocate 2 damage points to the attacking fighter instead.",
    runemarks={
 
+   }
+},
+{
+   _id="9c64c8f5",
+   name="I Think You'll Find...",
+   warband="Kharadron Overlords",
+   cost="double",
+   description="Enemy fighters cannot use abilities or reactions until the next time a friendly fighter activates this battle round or until the end of the battle round, whichever comes first.",
+   runemarks={
+      "icon-bearer"
    }
 },
 {
@@ -3795,7 +3855,7 @@ return {
    name="Saw 'Em Up",
    warband="Kruleboyz Monsta-killaz",
    cost="triple",
-   description="Pick a visible enemy fighter within 2\" of this fighter and roll a number of dice equal to the value of this ability (to a minimum of 2). If you can make a group of 2 or more dice in consecutive numerical order (e.g. 2, 3, 4) excluding any duplicates, allocate 3 damage points to the chosen fighter for each dice in that group.",
+   description="Pick a visible enemy fighter within 2\" of this fighter and roll a number of dice equal to the value of this ability (to a minimum of 2). Make a single group of 2 or more dice in consecutive numerical order (e.g. 2, 3, 4), excluding duplicates. Then allocate 3 damage points to the chosen fighter for each dice in that group.",
    runemarks={
       "berserker"
    }
@@ -4153,6 +4213,16 @@ return {
    }
 },
 {
+   _id="54617d11",
+   name="Toll of the Doom Bell",
+   warband="Maggotkin of Nurgle: Rotbringers",
+   cost="quad",
+   description="Until the end of the battle round, enemy fighters cannot use reactions or abilities while they are within 7\" of this fighter.",
+   runemarks={
+      "priest"
+   }
+},
+{
    _id="11e3cee9",
    name="Daemonic Maw",
    warband="Magore's Fiends",
@@ -4278,9 +4348,9 @@ return {
    name="Frightful Touch",
    warband="Nighthaunt",
    cost="triple",
-   description="Until the end of this fighter's activation, count each hit from melee attack actions made by them as a critical hit instead.",
+   description="Until the end of this fighter's activation, count each hit from melee attack actions made by them as a critical hit instead. In addition, if this fighter has the Destroyer runemark, add 1 to the Attacks characteristic of melee attack actions made by this fighter this activation.",
    runemarks={
-      "destroyer"
+
    }
 },
 {
@@ -4502,6 +4572,16 @@ return {
    }
 },
 {
+   _id="ee876af0",
+   name="Haul 'Em In",
+   warband="Ogor Mawtribes",
+   cost="triple",
+   description="This fighter makes a bonus attack action. After that attack action, the target of that attack action makes a bonus move action directly towards this fighter, as if they were jumping, a number of inches equal to the value of this ability. When doing so, they can move away from enemy fighters within 1\" at the start of that move action.",
+   runemarks={
+      "ferocious"
+   }
+},
+{
    _id="f223520e",
    name="Grim Resolve",
    warband="Order of Azyr",
@@ -4703,6 +4783,16 @@ return {
    description="A fighter can make this reaction after they are targeted by a melee attack action but before the hit rolls are made.  If each hit roll from that attack action results in a miss, allocate 5 damage points to the attacking fighter.",
    runemarks={
 
+   }
+},
+{
+   _id="c6ad14aa",
+   name="Refined Creations",
+   warband="Ossiarch Bonereapers",
+   cost="double",
+   description="Pick a visible friendly fighter with the Ossiarch Bonereapers faction runemark and the Fly runemark within 3\" of this fighter. Until the end of the battle round, add half the value of this ability (rounding up) to the Attacks characteristic of the next melee attack action made by that fighter.",
+   runemarks={
+      "elite"
    }
 },
 {
@@ -5130,6 +5220,48 @@ return {
    }
 },
 {
+   _id="2ba76301",
+   name="Predatory Leap",
+   warband="Seraphon",
+   cost="triple",
+   description="This fighter makes a bonus move action up to 3\" and can fly as part of that move action. After this fighter finishes that move, you can pick a visible enemy fighter within 1\" of this fighter. If you do so, allocate a number of damage points equal to half the value of this ability (rounding up) to that fighter.",
+   runemarks={
+      "warrior",
+      "mount"
+   }
+},
+{
+   _id="5851f8af",
+   name="Brutal Blows",
+   warband="Seraphon",
+   cost="double",
+   description="A fighter can only use this ability if they are within 1\" of 2 or more enemy fighters. Add half the value of this ability (rounding up) to the Attacks characteristic of the next melee attack action made by this fighter.",
+   runemarks={
+      "brute"
+   }
+},
+{
+   _id="a2bd176b",
+   name="Spawn of Sotek",
+   warband="Seraphon",
+   cost="double",
+   description="Add 2 to the Attacks characteristic of melee attack actions made by this fighter this activation while 1 or more endangered friendly fighters are within 6\" of them. A friendly fighter is endangered if it has the Minion runemark and is: within 1\" of 1 or more enemy fighters and/or has 1 or more damage points allocated to them.",
+   runemarks={
+      "sentience"
+   }
+},
+{
+   _id="b11571a1",
+   name="Raptadon Tactics",
+   warband="Seraphon",
+   cost="double",
+   description="If this fighter has a weapon with the Ranged Weapon runemark on their fighter profile, this fighter makes a bonus move action of a number of inches equal to the value of this ability. Otherwise, add 2 to the Attacks characteristic of this fighter’s melee attack actions until the end of their activation.",
+   runemarks={
+      "minion",
+      "mount"
+   }
+},
+{
    _id="bb49daff",
    name="Befoul the Land",
    warband="Skabbik's Plaguepack",
@@ -5510,6 +5642,16 @@ return {
    }
 },
 {
+   _id="b2199fe2",
+   name="Unleashed Savagery",
+   warband="Slaves to Darkness",
+   cost="double",
+   description="A fighter can only use this ability once per battle. Roll a number of dice equal to the value of this ability. For each roll of 4+, add 1 to the Strength and Attacks characteristics of the next melee attack action made by this fighter this activation. Add 1 to each roll if there is a visible friendly Ogroid Myrmidon within 6\" of this fighter.",
+   runemarks={
+      "ferocious"
+   }
+},
+{
    _id="d02db365",
    name="Sleepless Sentinel",
    warband="Sons of Velmorn",
@@ -5670,7 +5812,7 @@ return {
    cost="double",
    description="Pick a visible enemy fighter within 3\" of this fighter and roll a dice. On a roll of 3+, until the end of the battle round, that enemy fighter cannot make move actions or disengage actions.",
    runemarks={
-
+      "trapper"
    }
 },
 {
@@ -5858,7 +6000,7 @@ return {
    name="Face Me, Cowards!",
    warband="Stormcast Eternals Questor Soulsworn",
    cost="triple",
-   description="Enemy fighters that begin their actvation within 3\" of this fighter cannot make disengage actions or end move actions further from this fighter.",
+   description="Until the end of the battle round, enemy fighters that begin their activation within 3\" of this fighter cannot make disengage actions or end move actions further from this fighter.",
    runemarks={
       "champion"
    }
@@ -7091,7 +7233,7 @@ return {
    name="Smart Step Backwards",
    warband="Wildercorps Hunters",
    cost="reaction",
-   description="A fighter can make this reaction after they have been allocated damage points by a melee attack action. This fighter makes a bonus disengage action.",
+   description="A fighter can make this reaction after they have been allocated the total damage points by a melee attack action. This fighter makes a bonus disengage action.",
    runemarks={
 
    }
@@ -8077,6 +8219,36 @@ return {
    description="Allocate a number of damage points equal to the value of this ability to all visible enemy fighters within 3\" of this fighter.",
    runemarks={
       "berserker"
+   }
+},
+{
+   _id="115a9054",
+   name="Knowing Just Where to Strike",
+   warband="order",
+   cost="double",
+   description="Until the end of this fighter's activation, ranged attack actions made by this fighter score a critical hit on a roll of 3+.",
+   runemarks={
+      "grombrindal"
+   }
+},
+{
+   _id="966269c7",
+   name="Grombindal's Wisdom",
+   warband="order",
+   cost="triple",
+   description="Pick another friendly fighter within 3\" of this fighter to dispense some sagely wisdom to. Add 1 to that fighter's Move characteristic and the Attacks characteristic of melee attack actions made by that fighter until the end of the round. In addition, that fighter counts as 2 additional fighters for the purpose of controlling objectives until the end of the round.",
+   runemarks={
+      "grombrindal"
+   }
+},
+{
+   _id="4b48ae9b",
+   name="Nothing I Haven't Seen Before",
+   warband="order",
+   cost="quad",
+   description="Until the end of the round, enemy fighters within 6\" of this fighter cannot use reactions. In addition, until the end of the round, abilities used by enemy fighters have no effect on enemy or friendly fighters within 6\" of this fighter.",
+   runemarks={
+      "grombrindal"
    }
 },
 {

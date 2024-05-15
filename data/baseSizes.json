@@ -770,6 +770,11 @@
       "base_size_y": "90"
     },
     {
+      "name": "Harbinger of Decay with Doom Bell",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
       "name": "Lord of Afflictions",
       "base_size_x": "60",
       "base_size_y": "60"
@@ -954,7 +959,7 @@
       "base_size_y": "75"
     },
     {
-      "name": "Exalted Champion",
+      "name": "Chaos Chosen Exalted Champion",
       "base_size_x": "40",
       "base_size_y": "40"
     },
@@ -1117,6 +1122,26 @@
       "name": "Grawl",
       "base_size_x": "25",
       "base_size_y": "25"
+    },
+    {
+      "name": "Thorakon with Goroan Falchion and Shield",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Thorakon with Goroan Great Axe",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Ogroid Theridon with Goroan Falchion and Shield",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Ogroid Theridon with Goroan Great Axe",
+      "base_size_x": "50",
+      "base_size_y": "50"
     },
     {
       "name": "Skaven"
@@ -1576,6 +1601,11 @@
       "name": "Symbaresh Twinsoul with excruciator Lash",
       "base_size_x": "32",
       "base_size_y": "32"
+    },
+    {
+      "name": "Lord of Hubris",
+      "base_size_x": "40",
+      "base_size_y": "40"
     },
     {
       "name": "Blissbrew Homonculus",
@@ -2362,7 +2392,7 @@
       "base_size_y": "25"
     },
     {
-      "name": "Helmwar the Hewer",
+      "name": "Helmar the Hewer",
       "base_size_x": "25",
       "base_size_y": "25"
     },
@@ -2904,6 +2934,11 @@
       "base_size_y": "25"
     },
     {
+      "name": "Mortisan Ossifector",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
       "name": "DeathAllyThrallMonster"
     },
     {
@@ -3218,6 +3253,26 @@
       "base_size_y": "25"
     },
     {
+      "name": "Rabble-Rowza",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Squigboss with Gnasha-Squig",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Snarlfang Rider Gitboss",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Snarlfang Rider",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
       "name": "Kruleboys"
     },
     {
@@ -3489,6 +3544,11 @@
       "base_size_y": "50"
     },
     {
+      "name": "Bloodpelt Hunter",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
       "name": "Ironjawz"
     },
     {
@@ -3567,7 +3627,7 @@
       "base_size_y": "32"
     },
     {
-      "name": "Orruk Ardboy with Ardboy Choppas",
+      "name": "Orruk Ardboy with Choppas",
       "base_size_x": "32",
       "base_size_y": "32"
     },
@@ -4155,6 +4215,11 @@
       "base_size_y": "32"
     },
     {
+      "name": "Grimhold Exile",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
       "name": "IdonethDeepkin"
     },
     {
@@ -4431,6 +4496,11 @@
       "base_size_y": "32"
     },
     {
+      "name": "Codewright",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
       "name": "Seraphon"
     },
     {
@@ -4632,6 +4702,61 @@
       "name": "Huachi",
       "base_size_x": "25",
       "base_size_y": "25"
+    },
+    {
+      "name": "Kroxigor Warspawned",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Saurus Scar-Veteran on Aggradon",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Raptadon Charger Alpha",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Raptadon Hunter Alpha",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Aggradon Lancer Alpha with Celestite Spear",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Aggradon Lancer Alpha with Celestite Club",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Aggradon Lancer with Celestite Club",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Aggradon Lancer with Celestite Spear",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Raptadon Charger",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Raptadon Hunter",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Spawn of Chotec",
+      "base_size_x": "52",
+      "base_size_y": "90"
     },
     {
       "name": "LuminethRealmLords"
@@ -6133,6 +6258,14 @@
       "name": "Stream-runner with Riversteel Weapons",
       "base_size_x": "28.5",
       "base_size_y": "28.5"
+    },
+    {
+      "name": "Other"
+    },
+    {
+      "name": "Grombrindal, the White Dwarf",
+      "base_size_x": "32",
+      "base_size_y": "32"
     }
   ]
 }
