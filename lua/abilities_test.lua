@@ -718,6 +718,7 @@ return {
    cost="double",
    description="Pick a visible friendly fighter with both the Cities of Sigmar: Castelite Hosts faction runemark and the Mount runemark that is within 6\" of this fighter and that has not activated yet this battle round. You can activate that fighter immediately after this fighter's activation ends.",
    runemarks={
+      "hero",
       "mount"
    }
 },
@@ -4810,7 +4811,7 @@ return {
    name="Fan the Flames",
    warband="Pyregheists",
    cost="double",
-   description="Add 1 to the damage points allocated by each hit and each critical hit form the next melee attack action made by this fighter this activation.",
+   description="Add 1 to the damage points allocated by each hit and each critical hit from the next melee attack action made by this fighter this activation.",
    runemarks={
 
    }
@@ -5759,7 +5760,7 @@ return {
    name="Summon Undead Minions",
    warband="Soulblight Gravelords",
    cost="triple",
-   description="Pick a friendly fighter with the Soulblight Gravelords faction runemark and the Minion runemark that has been taken down. Set that fighter up on a platform or\nthe battlefield floor, wholly within 3\" of this fighter. That fighter no longer counts as being taken down and has no damage points allocated to it.",
+   description="Pick a friendly fighter with the Soulblight Gravelords faction runemark and the Minion runemark that has been taken down. Set that fighter up on a platform or the battlefield floor, wholly within 3\" of this fighter. If that fighter has the Elite runemark, remove a number of damage points allocated to that fighter equal to the value of this ability. Otherwise, that fighter has no damage points allocated to it. That fighter no longer counts as being taken down and has no damage points allocated to it.",
    runemarks={
       "hero"
    }
@@ -6746,6 +6747,76 @@ return {
    }
 },
 {
+   _id="mbqlebrx",
+   name="Predatory Ravage",
+   warband="Teratic Cohort",
+   cost="reaction",
+   description="A fighter with the Teratic Cohort runemark can make this reaction after all the damage points from an enemy fighter's melee attack action have been allocated to them. The reacting fighter can make a melee attack action that targets the attacker. When a fighter uses this reaction, you can discard one of your saved wild dice. If you do not, subtract 1 from the attacks characteristic of that attack action, and subtract 1 from the damage points allocated by each hit and critical hit from that attack action (to a minimum of 1).",
+   runemarks={
+
+   }
+},
+{
+   _id="719op2wr",
+   name="Bestial Leaps",
+   warband="Teratic Cohort",
+   cost="double",
+   description="This fighter can make a bonus move action of up to 3\", and can fly when they do so. When a fighter uses this ability, you can discard one of your saved wild dice. If you do so, this fighter can make a bonus move action of up to 4\" instead, and can fly when they do so.",
+   runemarks={
+      "elite"
+   }
+},
+{
+   _id="68nuaxx5",
+   name="Eyes of Katakros",
+   warband="Teratic Cohort",
+   cost="double",
+   description="Roll a number of dice equal to the value of this ability. For each roll of 5+, add one wild dice to your saved wild dice. This ability cannot be used more than once per battle round.",
+   runemarks={
+
+   }
+},
+{
+   _id="0vkrhgyg",
+   name="Nadirite Strike",
+   warband="Teratic Cohort",
+   cost="double",
+   description="Add 2 to the Attacks characteristic of the next melee attack action made by this fighter. When a fighter uses this ability, you can discard two of your saved wild dice. If you do so, critical hits are scored on a 5+ for that attack action.",
+   runemarks={
+      "elite"
+   }
+},
+{
+   _id="1pzniw0g",
+   name="Artery-severing Strike",
+   warband="Teratic Cohort",
+   cost="triple",
+   description="A fighter can use this ability only if an enemy fighter has been allocated 1 or more damage points by a melee attack action made by them this activation. Until the end of the battle round, each time that enemy fighter makes a reaction, or an action other than wait, roll a number of dice equal to the value of this ability. For each roll of 2+, allocate 1 damage point to that fighter.",
+   runemarks={
+      "beast"
+   }
+},
+{
+   _id="oec2zxm3",
+   name="Unleashed Rage",
+   warband="Teratic Cohort",
+   cost="triple",
+   description="One critical hit from the next melee attack action made by this fighter in this activation scores 1 additional critical hit. When a fighter uses this ability, you can discard two of your saved wild dice. If you do so, one critical hit from the next melee attack action made by this fighter in this activation scores 2 additional critical hits instead.",
+   runemarks={
+
+   }
+},
+{
+   _id="b1sespft",
+   name="Savagery Unbound",
+   warband="Teratic Cohort",
+   cost="quad",
+   description="Each friendly fighter with the Teratic Cohort runemark in this fighter's battle group can make a bonus move action. When a fighter uses this ability, you can discard two of your saved wild dice. If you do, each friendly fighter with the Teratic Cohort runemark can make a bonus move action instead.",
+   runemarks={
+      "elite"
+   }
+},
+{
    _id="3382fbfd",
    name="The Chosen Kin",
    warband="The Chosen Axes",
@@ -7010,7 +7081,7 @@ return {
    name="Shared Pain",
    warband="The Unmade",
    cost="reaction",
-   description="A fighter can make this reaction when they are targeted by a melee attack action.\n\nAfter the damage is totalled but before it is allocated to this fighter, roll a dice for each critical hit scoredA fighter can make this reaction after they are targeted by a melee attack action but before the hit rolls are made. For each hit roll from that attack action that hits, allocate 1 damage point to the attacking fighter. For each critical hit, allocate 2 damage points to the attacking fighter instead. from that attack action.",
+   description="A fighter can make this reaction after they are targeted by a melee attack action but before the hit rolls are made. For each hit roll from that attack action that hits, allocate 1 damage point to the attacking fighter. For each critical hit, allocate 2 damage points to the attacking fighter instead.",
    runemarks={
 
    }
@@ -7084,6 +7155,76 @@ return {
    warband="Thundrik's Profiteers",
    cost="triple",
    description="A fighter can use this ability only if they are within 6\" of a visible friendly Bjorgen Thundrik and it is the third battle round or later.  This fighter can make a bonus attack action.",
+   runemarks={
+
+   }
+},
+{
+   _id="4bs13vtk",
+   name="Mycelial Ravaging",
+   warband="Twistweald",
+   cost="reaction",
+   description="A fighter can make this reaction when they are targeted by a melee attack action but before the hit rolls are made. For each hit roll of 5+ from that attack action, allocate 2 damage points to the attacking fighter.",
+   runemarks={
+
+   }
+},
+{
+   _id="bbrllj1a",
+   name="Flesh-piercing Talons",
+   warband="Twistweald",
+   cost="double",
+   description="During the next melee attack action made by this fighter, critical hits are scored on a 5+ for that attack action.",
+   runemarks={
+      "destroyer"
+   }
+},
+{
+   _id="yj8f61pb",
+   name="Voracious Swarm",
+   warband="Twistweald",
+   cost="double",
+   description="Pick a visible enemy fighter within 12\" of this fighter and roll a number of dice equal to the value of this ability. For each roll of 3+, allocate 1 damage point to that enemy fighter.",
+   runemarks={
+      "hero"
+   }
+},
+{
+   _id="kc377aly",
+   name="Eruption of Thorns",
+   warband="Twistweald",
+   cost="double",
+   description="Roll a dice for each visible enemy fighter within 1\" of this fighter. On a roll of 4+, allocate a number of damage points to the fighter being rolled for equal to half the value of this ability.",
+   runemarks={
+
+   }
+},
+{
+   _id="1juhnrny",
+   name="Thorned Grasp",
+   warband="Twistweald",
+   cost="triple",
+   description="Pick a visible enemy fighter within 3\" of this fighter, then roll a dice. On a roll of 2+, allocate 2 damage points to the fighter being rolled for. Keep rolling in this way and allocating damage points to that fighter until a roll is equal to or lower than the previous roll.",
+   runemarks={
+      "berserker"
+   }
+},
+{
+   _id="ftsgeyxb",
+   name="Devour Infection",
+   warband="Twistweald",
+   cost="triple",
+   description="Pick a friendly fighter within 12\" of this fighter and roll a number of dice equal to the value of this ability. For each roll of 4+, allocate 1 damage point to that friendly fighter. For each damage point allocated to that fighter by this ability, add 1 to the Attacks characteristic of the next melee attack action made by that fighter until the end of the battle round.",
+   runemarks={
+      "hero"
+   }
+},
+{
+   _id="9alh24h5",
+   name="Twisted Song",
+   warband="Twistweald",
+   cost="quad",
+   description="Remove a number of damage points allocated to this fighter equal to the value of this ability. This fighter can then make a bonus move action or a bonus attack action.",
    runemarks={
 
    }
@@ -7424,7 +7565,7 @@ return {
    name="Face of Da Bad Moon",
    warband="Zarbag's Gitz",
    cost="double",
-   description="Pick a visible enemy fighter within 9\" of this fighter that is within 1\" of a friendly fighter.  That enemy fighter must make a bonus disengage action.  If the ycannot do so, allocate D6 damage pints to that enemy fighter instead.",
+   description="Pick a visible enemy fighter within 9\" of this fighter that is within 1\" of a friendly fighter. That enemy fighter must make a bonus disengage action. If they cannot do so, allocate D6 damage pints to that enemy fighter instead.",
    runemarks={
       "hero"
    }

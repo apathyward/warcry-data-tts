@@ -3026,6 +3026,34 @@
       "name": "Flamewraith with Brazier-staff",
       "base_size_x": "32",
       "base_size_y": "32"
+    },
+    {
+      "name": "Teratic Cohort"
+    },
+    {
+      "name": "Kavalos Centari",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Aviarch Harpy",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Mortek Cykloptian with Dread Glaive",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Mortek Cykloptian with Nadirite Bident",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Teratic Prowler",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
     }
   ],
   "DESTRUCTION": [
@@ -6266,6 +6294,44 @@
       "name": "Grombrindal, the White Dwarf",
       "base_size_x": "32",
       "base_size_y": "32"
+    },
+    {
+      "name": "Twistweald"
+    },
+    {
+      "name": "Swarmsage",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Twistroot Warden with Guardian Bow",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Twistroot Warden with Guardian Halberd",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Twistroot Warden with Spitespear",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Twistroot Spite-revenant with Briarlash",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Twistroot Revenant with Harvester Blade",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Twistroot Dryad",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
     }
   ]
 }

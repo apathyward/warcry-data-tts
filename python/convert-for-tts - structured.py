@@ -115,11 +115,11 @@ if __name__ == '__main__':
 
         abilities_lua_content = "return " + serialize_ability_without_parent_key(abilities_key_value_table)
 
-        abilities_lua_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-tts/lua', 'abilities_test.lua')
+        abilities_lua_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-tts/lua', 'abilities.lua')
         with open(abilities_lua_path, 'w', encoding='utf-8') as lua_file:
             lua_file.write(abilities_lua_content)
 
-        fighters_lua_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-tts/lua', 'fighters_test.lua')
+        fighters_lua_path = Path('C:/Users/mabea/Documents/ALL WARCRY/warcry-data-tts/lua', 'fighters.lua')
         with open(fighters_lua_path, 'w', encoding='utf-8') as lua_file:
             lua_file.write("return " + custom_serialize(fighters_with_base_sizes))
 
