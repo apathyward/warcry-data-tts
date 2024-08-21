@@ -125,8 +125,8 @@
     },
     {
       "name": "Cockatrice",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Ungor with Gnarled Shortspear and Half-Shield",
@@ -228,8 +228,8 @@
     },
     {
       "name": "Mighty Lord of Khorne",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Mighty Lord of Khorne on Juggernaut",
@@ -535,8 +535,8 @@
     },
     {
       "name": "Fatemaster",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Gaunt Summoner on Disc of tzeentch",
@@ -673,8 +673,8 @@
     },
     {
       "name": "Fluxmaster with ritual dagger",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Iridescent Horror",
@@ -693,8 +693,8 @@
     },
     {
       "name": "Fluxmaster with Staff of Change",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Blue Horror",
@@ -776,8 +776,8 @@
     },
     {
       "name": "Lord of Afflictions",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Lord of Blights",
@@ -801,8 +801,8 @@
     },
     {
       "name": "Pusgoyle Blightlord",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Putrid Blightking with Blighted weapon",
@@ -834,8 +834,8 @@
     },
     {
       "name": "Plaguebringer",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Plagueridden",
@@ -859,8 +859,8 @@
     },
     {
       "name": "Beast of Nurgle",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Nurglings",
@@ -869,8 +869,8 @@
     },
     {
       "name": "Plague Drone",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Plaguebearer",
@@ -1283,28 +1283,28 @@
     },
     {
       "name": "Stormfiend with Doomflayer gauntlets",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Stormfiend with Grinderfists",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Stormfiend with Ratling cannons",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Stormfiend with Shock Gauntlets",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Stormfiend with Warpfire projectors",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Festering Skaven",
@@ -1348,8 +1348,8 @@
     },
     {
       "name": "Stormfiend with Windlaunchers",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Stormvermin with rusty Halberd",
@@ -2098,8 +2098,8 @@
     },
     {
       "name": "Fomoroid Crusher",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Mindstealer Sphiranx",
@@ -2880,23 +2880,23 @@
     },
     {
       "name": "Morghast Archai with Spirit Halberd",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Morghast Archai with Spirit Swords",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Morghast Harbinger with Spirit Halberd",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Morghast Harbinger with Spirit Swords",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Mortek Guard with Nadirite Blade",
@@ -3142,8 +3142,8 @@
     },
     {
       "name": "Scuttleboss",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Spider Rider Boss",
@@ -3636,8 +3636,8 @@
     },
     {
       "name": "Orruk Megaboss",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Orruk Warchanter",
@@ -3860,8 +3860,8 @@
     },
     {
       "name": "Dankhold Troggoth",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Skitterstrand Arachnarok",
@@ -4252,13 +4252,13 @@
     },
     {
       "name": "Akhelian King with greatsword",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Akhelian King with Bladed Polearm",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Duinclaw",
@@ -5616,8 +5616,8 @@
     },
     {
       "name": "Revenant Seeker",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Shadestalker",
@@ -5631,13 +5631,13 @@
     },
     {
       "name": "Spiterider Lancer",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Spiterider Scion",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "Tree-Revenant",
@@ -5656,8 +5656,8 @@
     },
     {
       "name": "Revenant Soulwarden",
-      "base_size_x": "60",
-      "base_size_y": "60"
+      "base_size_x": "65",
+      "base_size_y": "65"
     },
     {
       "name": "HuntersofHuanchi"
