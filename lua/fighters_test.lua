@@ -19047,8 +19047,8 @@ return {
             _id="872f0cc8"
          }
       },
-      base_size_x="60",
-      base_size_y="60"
+      base_size_x="65",
+      base_size_y="65"
    },
    {
       _id="c01ecd2d",
