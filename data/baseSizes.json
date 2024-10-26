@@ -1152,6 +1152,11 @@
       "base_size_y": "32"
     },
     {
+      "name": "Warlock Engineer with Warplock Jezzail",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
       "name": "Bringer of the Word",
       "base_size_x": "25",
       "base_size_y": "25"
@@ -1160,6 +1165,11 @@
       "name": "Clawleader",
       "base_size_x": "25",
       "base_size_y": "25"
+    },
+    {
+      "name": "Clawlord on Gnaw-Beast",
+      "base_size_x": "52",
+      "base_size_y": "90"
     },
     {
       "name": "Clawlord",
@@ -2175,6 +2185,94 @@
       "name": "Ogroid Myrmidon",
       "base_size_x": "50",
       "base_size_y": "50"
+    },
+    {
+      "name": "Darkoath"
+    },
+    {
+      "name": "Darkoath Chieftain on Warsteed",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Darkoath Warqueen",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Darkoath Chieftain",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Fellrider Champion With Javelin",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Fellrider Champion With Axe",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Marauder Champion",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Marauder Champion With Spear",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Darkoath Wilderfiend",
+      "base_size_x": "60",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Darkoath Fellrider With Javelin",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Darkoath Fellrider",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Darkoath Marauder",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Darkoath Marauder With Spear",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Warqueen Tanari",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Gunnar Brand",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Singri Brand",
+      "base_size_x": "35",
+      "base_size_y": "60"
+    },
+    {
+      "name": "Dendrel Direbrand",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Broken Nadja",
+      "base_size_x": "32",
+      "base_size_y": "32"
     }
   ],
   "DEATH": [
@@ -3580,7 +3678,17 @@
       "name": "Ironjawz"
     },
     {
-      "name": "Ardboy Boss with Ardboy Choppas",
+      "name": "Ardboy Big Boss",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Ardboy Boss with Choppa",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ardboy Boss with Stikka",
       "base_size_x": "32",
       "base_size_y": "32"
     },
@@ -3650,17 +3758,22 @@
       "base_size_y": "40"
     },
     {
-      "name": "Orruk Ardboy with Ardboy Big Choppa",
+      "name": "Brute Wrekka",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Brute Rager",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Ardboy with Choppa",
       "base_size_x": "32",
       "base_size_y": "32"
     },
     {
-      "name": "Orruk Ardboy with Choppas",
-      "base_size_x": "32",
-      "base_size_y": "32"
-    },
-    {
-      "name": "Orruk Ardboy with Ardboy Choppa and Orruk-forged shield",
+      "name": "Ardboy with Stikka",
       "base_size_x": "32",
       "base_size_y": "32"
     },
@@ -5502,6 +5615,36 @@
       "base_size_y": "40"
     },
     {
+      "name": "Knight-Questor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator-Prime With Sigmarite Weapon and Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator-Prime With Dual Sigmarite Weapons",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator With Sigmarite Weapon and Shield",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator With Grandhammer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Liberator With Dual Sigmarite Weapons",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
       "name": "Sylvaneth"
     },
     {
@@ -6332,6 +6475,54 @@
       "name": "Twistroot Dryad",
       "base_size_x": "28.5",
       "base_size_y": "28.5"
+    },
+    {
+      "name": "SCE_Ruination"
+    },
+    {
+      "name": "Gryph-Crow",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Reclusian",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Prosecutor-Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Vigilant on Gryph-Stalker",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Knight-Azyros",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Lord-Terminos",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Reclusian-Prime",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Lord-Veritant",
+      "base_size_x": "40",
+      "base_size_y": "40"
     }
   ]
 }
