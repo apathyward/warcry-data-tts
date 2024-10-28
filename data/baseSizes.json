@@ -1168,8 +1168,8 @@
     },
     {
       "name": "Clawlord on Gnaw-Beast",
-      "base_size_x": "52",
-      "base_size_y": "90"
+      "base_size_x": "42",
+      "base_size_y": "75"
     },
     {
       "name": "Clawlord",
