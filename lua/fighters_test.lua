@@ -15009,8 +15009,8 @@ return {
             _id="bcb8a954"
          }
       },
-      base_size_x="52",
-      base_size_y="90"
+      base_size_x="42",
+      base_size_y="75"
    },
    {
       _id="4ecf8dc1",
