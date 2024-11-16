@@ -1183,8 +1183,8 @@
     },
     {
       "name": "Fangleader",
-      "base_size_x": "25",
-      "base_size_y": "25"
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
     },
     {
       "name": "Grey Seer",
@@ -1363,13 +1363,13 @@
     },
     {
       "name": "Stormvermin with rusty Halberd",
-      "base_size_x": "25",
-      "base_size_y": "25"
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
     },
     {
       "name": "Stormvermin with rusty Halberd and clanShield",
-      "base_size_x": "25",
-      "base_size_y": "25"
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
     },
     {
       "name": "Warpfire thrower",
