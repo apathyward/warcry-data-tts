@@ -1233,8 +1233,8 @@
     },
     {
       "name": "Doom-Flayer",
-      "base_size_x": "35",
-      "base_size_y": "60"
+      "base_size_x": "50",
+      "base_size_y": "50"
     },
     {
       "name": "Giant Rat",
@@ -1378,8 +1378,8 @@
     },
     {
       "name": "Warp-Grinder",
-      "base_size_x": "35",
-      "base_size_y": "60"
+      "base_size_x": "52",
+      "base_size_y": "90"
     },
     {
       "name": "Warplock Jezzail",
