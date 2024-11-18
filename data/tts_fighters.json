@@ -13074,8 +13074,8 @@
                 "_id": "836d0e6d"
             }
         ],
-        "base_size_x": "25",
-        "base_size_y": "25",
+        "base_size_x": "28.5",
+        "base_size_y": "28.5",
         "bladeborn": "",
         "grand_alliance": "chaos",
         "movement": 6,
@@ -13153,8 +13153,8 @@
                 "_id": "836d0e6d"
             }
         ],
-        "base_size_x": "25",
-        "base_size_y": "25",
+        "base_size_x": "28.5",
+        "base_size_y": "28.5",
         "bladeborn": "",
         "grand_alliance": "chaos",
         "movement": 6,
@@ -13561,8 +13561,8 @@
                 "_id": "836d0e6d"
             }
         ],
-        "base_size_x": "25",
-        "base_size_y": "25",
+        "base_size_x": "28.5",
+        "base_size_y": "28.5",
         "bladeborn": "",
         "grand_alliance": "chaos",
         "movement": 6,
@@ -13639,8 +13639,8 @@
                 "_id": "836d0e6d"
             }
         ],
-        "base_size_x": "35",
-        "base_size_y": "60",
+        "base_size_x": "52",
+        "base_size_y": "90",
         "bladeborn": "",
         "grand_alliance": "chaos",
         "movement": 6,
@@ -13916,8 +13916,8 @@
                 "_id": "836d0e6d"
             }
         ],
-        "base_size_x": "35",
-        "base_size_y": "60",
+        "base_size_x": "50",
+        "base_size_y": "50",
         "bladeborn": "",
         "grand_alliance": "chaos",
         "movement": 7,
@@ -53858,7 +53858,7 @@
         "grand_alliance": "destruction",
         "movement": 3,
         "name": "Thugg",
-        "points": 140,
+        "points": 145,
         "runemarks": [
             "brute"
         ],
