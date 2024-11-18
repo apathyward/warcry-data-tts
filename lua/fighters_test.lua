@@ -13158,8 +13158,8 @@ return {
             _id="836d0e6d"
          }
       },
-      base_size_x="25",
-      base_size_y="25"
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="15f03e41",
@@ -13237,8 +13237,8 @@ return {
             _id="836d0e6d"
          }
       },
-      base_size_x="25",
-      base_size_y="25"
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="0fd4eed6",
@@ -13645,8 +13645,8 @@ return {
             _id="836d0e6d"
          }
       },
-      base_size_x="25",
-      base_size_y="25"
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="4d4a5839",
@@ -13723,8 +13723,8 @@ return {
             _id="836d0e6d"
          }
       },
-      base_size_x="35",
-      base_size_y="60"
+      base_size_x="52",
+      base_size_y="90"
    },
    {
       _id="747431b9",
@@ -14001,8 +14001,8 @@ return {
             _id="836d0e6d"
          }
       },
-      base_size_x="35",
-      base_size_y="60"
+      base_size_x="50",
+      base_size_y="50"
    },
    {
       _id="6e76e882",
@@ -54164,7 +54164,7 @@ return {
       grand_alliance="destruction",
       movement="3",
       name="Thugg",
-      points="140",
+      points="145",
       runemarks={
          "brute"
       },
