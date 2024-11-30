@@ -6516,8 +6516,8 @@
     },
     {
       "name": "Gryph-Crow",
-      "base_size_x": "25",
-      "base_size_y": "25"
+      "base_size_x": "32",
+      "base_size_y": "32"
     },
     {
       "name": "Reclusian",
