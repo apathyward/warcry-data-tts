@@ -108,9 +108,9 @@ if __name__ == '__main__':
         lua_dir.mkdir(parents=True, exist_ok=True)  # Ensure the folder exists
 
         # Raw GitHub URLs
-        fighters_url = 'https://raw.githubusercontent.com/apathyward/warcry-data-tts/main/data/tts_fighters.json'
+        fighters_url = 'https://raw.githubusercontent.com/krisling049/warcry_data/refs/heads/main/docs/fighters_tts.json'
         base_sizes_url = 'https://raw.githubusercontent.com/apathyward/warcry-data-tts/main/data/baseSizes.json'
-        abilities_url = 'https://raw.githubusercontent.com/apathyward/warcry-data-tts/main/data/abilities.json'
+        abilities_url = 'https://raw.githubusercontent.com/krisling049/warcry_data/refs/heads/main/docs/abilities.json'
 
         # Download the data from GitHub
         fighters = download_file(fighters_url)
