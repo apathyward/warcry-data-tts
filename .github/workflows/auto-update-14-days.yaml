@@ -1,4 +1,4 @@
-name: Run Convert for TTS STRUCTURED
+name: GH Run Convert for TTS STRUCTURED
 
 on:
   schedule:
