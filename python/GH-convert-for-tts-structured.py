@@ -108,6 +108,15 @@ if __name__ == '__main__':
         fighters_lua_content = "return " + custom_serialize(fighters_with_base_sizes)
 
         abilities_lua_content = "return " + serialize_ability_without_parent_key(abilities)
+        
+                # Write fighters data to abilities_test.lua
+        with open('abilities_test.lua', 'w') as f:
+            f.write(abilities_lua_content)
+
+        # Write abilities data to fighters_test.lua
+        with open('fighters_test.lua', 'w') as f:
+            f.write(fighters_lua_content)
+
 
         print("Script executed successfully.")
     except Exception as e:
