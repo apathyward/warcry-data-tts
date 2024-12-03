@@ -1,5 +1,6 @@
 import requests
 import re
+import os
 from pathlib import Path
 from typing import List, Dict
 
@@ -36,10 +37,22 @@ def capitalize_ability_costs(fighters: List[Dict]) -> List[Dict]:
 def serialize_ability_without_parent_key(abilities: Dict, indent=0) -> str:
     spaces = '   ' * indent
     abilities_lua = []
-    for ability_id, ability_details in abilities.items():
+
+    if isinstance(abilities, dict):
+        iterable = abilities.items()
+    elif isinstance(abilities, list):
+        iterable = enumerate(abilities)
+    else:
+        raise ValueError("Expected a dict or list for abilities")
+
+    for ability_id, ability_details in iterable:
         inner_spaces = '   ' * (indent + 1)
-        ability_lua = '{\n' + ',\n'.join([inner_spaces + (f'{k}="{v}"' if isinstance(v, str) else f'{k}={custom_serialize(v, indent + 1)}') for k, v in ability_details.items()]) + '\n' + spaces + '}'
+        ability_lua = '{\n' + ',\n'.join(
+            [inner_spaces + (f'{k}="{v}"' if isinstance(v, str) else f'{k}={custom_serialize(v, indent + 1)}') 
+             for k, v in ability_details.items()]
+        ) + '\n' + spaces + '}'
         abilities_lua.append(ability_lua)
+
     return '{\n' + ',\n'.join(abilities_lua) + '\n}'
 
 def custom_serialize(var, indent=0) -> str:
@@ -89,6 +102,11 @@ def download_file(url: str) -> dict:
 if __name__ == '__main__':
     print("Script started.")
     try:
+        # Get the current script directory and target the lua folder
+        script_dir = Path(__file__).parent  # The directory where this script is located
+        lua_dir = script_dir.parent / "lua"  # Move up one level to root and then into lua
+        lua_dir.mkdir(parents=True, exist_ok=True)  # Ensure the folder exists
+
         # Raw GitHub URLs
         fighters_url = 'https://raw.githubusercontent.com/apathyward/warcry-data-tts/main/data/tts_fighters.json'
         base_sizes_url = 'https://raw.githubusercontent.com/apathyward/warcry-data-tts/main/data/baseSizes.json'
@@ -103,20 +121,18 @@ if __name__ == '__main__':
         fighters = fix_special_characters_in_names(fighters)
         fighters_with_base_sizes = add_base_sizes(fighters, base_sizes)
 
-        # Write modified fighters to a JSON file in the repo (use API to upload if needed)
+        # Serialize to Lua format
         fighters_lua_content = "return " + custom_serialize(fighters_with_base_sizes)
-
         abilities_lua_content = "return " + serialize_ability_without_parent_key(abilities)
-        
-                # Write fighters data to abilities_test.lua
-        with open('abilities_test.lua', 'w') as f:
+
+        # Write abilities data to lua/abilities_test.lua
+        with open(lua_dir / 'abilities_test.lua', 'w') as f:
             f.write(abilities_lua_content)
 
-        # Write abilities data to fighters_test.lua
-        with open('fighters_test.lua', 'w') as f:
+        # Write fighters data to lua/fighters_test.lua
+        with open(lua_dir / 'fighters_test.lua', 'w') as f:
             f.write(fighters_lua_content)
 
-
-        print("Script executed successfully.")
+        print("Script executed successfully. Files saved in the 'lua' folder.")
     except Exception as e:
         print(f"An error occurred: {e}")
