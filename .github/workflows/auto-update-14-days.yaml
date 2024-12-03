@@ -3,7 +3,7 @@ name: GH Run Convert for TTS STRUCTURED
 on:
   schedule:
     # Runs every two weeks on Monday at 00:00 UTC
-    - cron: "30 11 */14 * 1"
+    - cron: "30 13 */14 * 1"
   workflow_dispatch:  # Add this line to allow manual triggers
 
 jobs:
@@ -20,6 +20,10 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.9" # Adjust if needed
+
+      - name: Clear pip cache
+        run: |
+          rm -rf ~/.cache/pip
 
       # Install dependencies
       - name: Install Dependencies
