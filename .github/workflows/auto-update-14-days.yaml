@@ -1,0 +1,72 @@
+name: Run Convert for TTS STRUCTURED
+
+on:
+  schedule:
+    # Runs every two weeks on Monday at 00:00 UTC
+    - cron: "0 0 */14 * *"
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9" # Adjust if needed
+
+      # Install dependencies
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      # Run the Python script
+      - name: Run Script
+        env: 
+          API_KEY: ${{ secrets.API_KEY }} 
+        run: |
+          python python/"GH-convert-for-tts-structured.py" > script_output.log 2>&1
+
+      # Check for file changes
+      - name: Check Output Changes
+        run: |
+          if ! git diff --quiet --exit-code; then
+            echo "Changes detected."
+          else
+            echo "No changes detected; exiting."
+            exit 0
+          fi
+
+      # Commit and push changes
+      - name: Commit and Push Changes
+        run: |
+          BRANCH_NAME=$(date +'%Y-%m-%d')-convert-for-tts
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH_NAME"
+          git add .
+          git commit -m "Automated changes from convert-for-tts script on $(date +'%Y-%m-%d')"
+          git push origin "$BRANCH_NAME"
+
+      # Notify success
+      - name: Notify Success
+        if: success()
+        run: echo "Workflow completed successfully!"
+
+      # Notify failure
+      - name: Notify Failure
+        if: failure()
+        run: echo "Workflow failed! Check logs for details."
+
+      # Upload logs for debugging
+      - name: Upload Logs
+        uses: actions/upload-artifact@v3
+        with:
+          name: script-log
+          path: script_output.log
