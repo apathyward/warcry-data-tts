@@ -32,7 +32,7 @@ jobs:
 
       - name: Run Script
         env: 
-          API_KEY: ${{ secrets.API_KEY }} 
+          API_KEY: ${{ secrets.GH_PAT }} 
         run: |
           python python/"GH-convert-for-tts-structured.py" > script_output.log 2>&1
 
@@ -65,13 +65,7 @@ jobs:
         run: |
           gh pr create --base main --head "$BRANCH_NAME" --title "Automated Changes on $(date +'%Y-%m-%d')" --body "This PR was created by the GitHub Actions workflow to merge the latest changes."
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Merge Pull Request
-        run: |
-          gh pr merge "$BRANCH_NAME" --merge --auto --delete-branch
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
       - name: Notify Success
         if: success()
