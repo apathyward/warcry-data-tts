@@ -3,7 +3,7 @@ name: GH Run Convert for TTS STRUCTURED
 on:
   schedule:
     # Runs every two weeks on Monday at 00:00 UTC
-    - cron: "0 0 */14 * *"
+    - cron: "30 11 */14 * 1"
   workflow_dispatch:  # Add this line to allow manual triggers
 
 jobs:
