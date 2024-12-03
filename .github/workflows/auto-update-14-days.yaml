@@ -72,7 +72,7 @@ jobs:
       # Create Pull Request
       - name: Create Pull Request
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.API_KEY }}
         run: |
           gh pr create --base main --head "$BRANCH_NAME" --title "Automated Changes on $(date +'%Y-%m-%d')" --body "This PR was created by the GitHub Actions workflow to merge the latest changes."
           gh pr merge --auto --delete-branch
