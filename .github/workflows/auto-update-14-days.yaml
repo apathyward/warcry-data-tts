@@ -77,7 +77,7 @@ jobs:
         run: |
           gh pr merge "$BRANCH_NAME" --merge --auto --delete-branch
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.API_KEY }}
 
       # Notify success
       - name: Notify Success
