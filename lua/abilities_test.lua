@@ -1165,7 +1165,7 @@ return {
    name="Running Strike",
    warband="Corvus Cabal",
    cost="quad",
-   description="This fighter uses the Wall Run ability, then makes a bonus move action, and can then make a bonus attack action.",
+   description="This fighter uses the "Wall Run" ability, then makes a bonus move action, and can then make a bonus attack action.",
    runemarks={
 
    }
