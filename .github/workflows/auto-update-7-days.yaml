@@ -2,7 +2,7 @@ name: GH Run Convert for TTS STRUCTURED
 
 on:
   schedule:
-    - cron: "30 13 */14 * 1"
+    - cron: "30 13 */7 * 1"
   workflow_dispatch:
 
 jobs:

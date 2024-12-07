@@ -90,6 +90,8 @@ def add_backslashes_to_abilities(abilities: List[Dict]) -> List[Dict]:
     for ability in abilities:
         if 'description' in ability:
             ability['description'] = add_backslashes_to_inches(ability['description'])
+        # Remove specific inner double quotes
+            ability['description'] = remove_specific_inner_double_quotes(ability['description'])
     return abilities
 
 def remove_newlines(lua_string):
