@@ -23,7 +23,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
           git add lua/abilities.lua lua/fighters.lua
-          git commit -m "Manually copied and renamed Lua files"
+          git commit -m "Manually copied and Lua_test to Lua_Official files"
           git push
 
       # Notify success
