@@ -79,6 +79,13 @@ def fix_special_characters_in_names(fighters: List[Dict]) -> List[Dict]:
     print("Finished fixing special characters in fighter names.")
     return fighters
 
+def add_backslashes_to_inches(description: str) -> str:
+    # Add backslashes before inches
+    description = re.sub(r'(\d)"', r'\1\\"', description)
+    # Replace newline characters with Lua newline escape sequence
+    description = description.replace('\n', '\\n')
+    return description
+
 def add_backslashes_to_abilities(abilities: List[Dict]) -> List[Dict]:
     for ability in abilities:
         if 'description' in ability:
