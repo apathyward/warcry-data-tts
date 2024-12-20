@@ -2339,6 +2339,76 @@ return {
    }
 },
 {
+   _id="6210c1ec",
+   name="Incisive Mind",
+   warband="Gladitorium",
+   cost="triple",
+   description="Until the end of the battle round, each time an enemy fighter within 6\" of this fighter is activated, you can roll a dice. On a 4+, that fighter cannot use abilities that activation.",
+   runemarks={
+      "mystic"
+   }
+},
+{
+   _id="fbfb7546",
+   name="The Bigger They Are...",
+   warband="Gladitorium",
+   cost="triple",
+   description="This fighter makes a bonus move action. That move action must end within 1\" of an enemy fighter that is within 3\" of another friendly fighter with the Thunderstrike Stormcasts runemark. If that enemy fighter has a higher Toughness characteristic than this fighter and/or has the Hero runemark, this fighter can also make a bonus attack action.",
+   runemarks={
+      "bulwark"
+   }
+},
+{
+   _id="73ea7b66",
+   name="Push to the Limit",
+   warband="Gladitorium",
+   cost="triple",
+   description="Each other friendly fighter with the Thunderstrike Stormcasts runemark that is within 6\" of this fighter and that has any damage points allocated to them can make a bonus move action or a bonus attack action. This cannot affect friendly fighters with the Beast runemark.",
+   runemarks={
+      "brute"
+   }
+},
+{
+   _id="d9942593",
+   name="Exacting Tutelage",
+   warband="Gladitorium",
+   cost="triple",
+   description="Pick a visible friendly fighter with the Thunderstrike Stormcasts runemark within 6\" of this fighter. Until the end of the battle round, add 2 to the Move characteristic of that fighter, add 2 to the Toughness characteristic of that fighter, and add 2 to the Attacks characteristic of the next melee attack action made by that fighter. This cannot affect friendly fighters with the Beast runemark.",
+   runemarks={
+      "elite"
+   }
+},
+{
+   _id="b64033c6",
+   name="Reaper's Focus",
+   warband="Gladitorium",
+   cost="triple",
+   description="This fighter gains a number of Focus Points equal to the value of this ability. Until the end of this fighter's activation, each time you roll to hit for a melee attack action made by this fighter, you can spend any number of Focus Points. For each Focus Point spent, count 1 hit scored from that attack action as a critical hit instead. All unspent Focus Points are lost at the end of this fighter's activation.",
+   runemarks={
+      "frenzied"
+   }
+},
+{
+   _id="8ca17987",
+   name="Unbreakable Defence",
+   warband="Gladitorium",
+   cost="triple",
+   description="Until the end of the battle round, count each critical hit scored from each attack action that targets a friendly fighter with the Thunderstrike Stormcasts runemark that is within 3\" of this fighter as a hit instead. This cannot affect friendly fighters with the Beast runemark.",
+   runemarks={
+      "warrior"
+   }
+},
+{
+   _id="ca26b25a",
+   name="Spark of Invention",
+   warband="Gladitorium",
+   cost="triple",
+   description="Pick a number of friendly fighters equal to half the value of this ability, rounded up, that are within 6\" of this fighter and that have the Thunderstrike Stormcasts runemark. Until the end of the battle round, each time one of those fighters makes an attack action, you can pick one of the following effects: \n Add 1 to the Strength characteristic of that fighter's weapons for that attack action.\n Add 1 to the damage points allocated by each critical hit from that attack action.\n\n This fighter cannot affect friendly fighters with the Beast runemark.",
+   runemarks={
+      "scout"
+   }
+},
+{
    _id="a2f5c060",
    name="Backstabbing Mob",
    warband="Gloomspite Gitz",
@@ -3110,7 +3180,7 @@ return {
    name="Lay Mantrap",
    warband="Hrothgorn's Mantrappers",
    cost="double",
-   description="A fighter can only use this ability once per battle. Pick a point on a platform or the battlefield floor within 3\" of this fighter that is more than 1\" away from all enemy fighters and set up the Bushwakka's Trap marker. Allocate 2D6 damage pints to the first enemy fighter to move within 1\" of the marker, then remove the marker.",
+   description="A fighter can only use this ability once per battle. Pick a point on a platform or the battlefield floor within 3\" of this fighter that is more than 1\" away from all enemy fighters and set up the Bushwakka's Trap marker. Allocate 2D6 damage points to the first enemy fighter to move within 1\" of the marker, then remove the marker.",
    runemarks={
       "trapper"
    }
@@ -4398,7 +4468,7 @@ return {
    name="Hurl Jabbertoad",
    warband="Mollog's Mob",
    cost="double",
-   description="Pick a visible enemy fighter within 6\" of this fighter and roll 2 dice.  For each 4-5, allocate 1 damaage point to that fighter.  For each 6, allocate a number of damage pints equal to the value of this ability to that fighter.",
+   description="Pick a visible enemy fighter within 6\" of this fighter and roll 2 dice.  For each 4-5, allocate 1 damage point to that fighter.  For each 6, allocate a number of damage points equal to the value of this ability to that fighter.",
    runemarks={
       "hero"
    }
@@ -7828,7 +7898,7 @@ return {
    name="Vigour and Wrath",
    warband="Ylthari's Guardians",
    cost="double",
-   description="Until the end of this fighter's activation, add 1 to the damage pints allocated by each critical hit from attack actions made by this fighter.",
+   description="Until the end of this fighter's activation, add 1 to the damage points allocated by each critical hit from attack actions made by this fighter.",
    runemarks={
 
    }
@@ -7848,7 +7918,7 @@ return {
    name="Face of Da Bad Moon",
    warband="Zarbag's Gitz",
    cost="double",
-   description="Pick a visible enemy fighter within 9\" of this fighter that is within 1\" of a friendly fighter. That enemy fighter must make a bonus disengage action. If they cannot do so, allocate D6 damage pints to that enemy fighter instead.",
+   description="Pick a visible enemy fighter within 9\" of this fighter that is within 1\" of a friendly fighter. That enemy fighter must make a bonus disengage action. If they cannot do so, allocate D6 damage points to that enemy fighter instead.",
    runemarks={
       "hero"
    }
