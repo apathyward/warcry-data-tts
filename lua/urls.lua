@@ -73,6 +73,7 @@ warbandUrls = {
 },
 subfactionUrls = {
     ["Blackpowder's Buccaneers"] = "https://steamusercontent-a.akamaihd.net/ugc/2165728609648576275/F9D66D2CBF6FC2116BAF1913ECB3600195381B55/",
+    ["Borgit's Beastgrabbaz"] = "",
     ["Brethren of the Bolt"] = "https://steamusercontent-a.akamaihd.net/ugc/2479869440694754596/19CA65BC3C80B8CFA2BD243BECC940F2A0B95DB0/",
     ["Thorns of the Briar Queen"] = "https://steamusercontent-a.akamaihd.net/ugc/2165728609648576387/2381E6899C96F2895DAD1DC1DDC642080BDFFE9A/",
     ["The Chosen Axe"] = "https://steamusercontent-a.akamaihd.net/ugc/2165728609648576486/5789C21F6CF2AB874F60618EBC5C1D00FF7040E4/",
