@@ -357,6 +357,16 @@
       "base_size_y": "90"
     },
     {
+      "name": "Deathbringer",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Realmgore Ritualist",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
       "name": "Daemons of Khorne"
     },
     {
@@ -876,6 +886,31 @@
       "name": "Plaguebearer",
       "base_size_x": "32",
       "base_size_y": "32"
+    },
+    {
+      "name": "Phleghmus Potbelly",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Bug-eye Dripterus",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Slunge",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Maggoty Strewg",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Squort",
+      "base_size_x": "25",
+      "base_size_y": "25"
     },
     {
       "name": "Untamed Beasts"
@@ -1413,6 +1448,31 @@
     },
     {
       "name": "Skritter",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Zikkit Rockgnaw",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Rittak Verm",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Krittatok",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Nitch Singe-snout",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Tik Tik",
       "base_size_x": "25",
       "base_size_y": "25"
     },
@@ -2316,8 +2376,8 @@
     },
     {
       "name": "Wight King on Skeletal Steed",
-      "base_size_x": "42",
-      "base_size_y": "75"
+      "base_size_x": "80",
+      "base_size_y": "80"
     },
     {
       "name": "Necromancer ",
@@ -2410,14 +2470,14 @@
       "base_size_y": "32"
     },
     {
-      "name": "Grave guard with Great Wight Blade",
-      "base_size_x": "25",
-      "base_size_y": "25"
+      "name": "Barrow guard with Great Wight Blade",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
     },
     {
-      "name": "Grave guard with Wight Blade and Crypt Shield",
-      "base_size_x": "25",
-      "base_size_y": "25"
+      "name": "Barrow guard with Wight Blade and Crypt Shield",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
     },
     {
       "name": "Gorath the Enforcer",
@@ -2523,6 +2583,21 @@
       "name": "Cracktomb",
       "base_size_x": "25",
       "base_size_y": "25"
+    },
+    {
+      "name": "Cado Ezechiar",
+      "base_size_x": "50",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Aurelias",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Sissendra",
+      "base_size_x": "40",
+      "base_size_y": "40"
     },
     {
       "name": "Nighthaunt"
@@ -2698,6 +2773,11 @@
       "base_size_y": "25"
     },
     {
+      "name": "Lord Vitriolic",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
       "name": "Flesh-eater Courts"
     },
     {
@@ -2869,6 +2949,11 @@
       "name": "The Carnskyr",
       "base_size_x": "25",
       "base_size_y": "25"
+    },
+    {
+      "name": "High Falconer Felgryn",
+      "base_size_x": "32",
+      "base_size_y": "32"
     },
     {
       "name": "AskurganTrueblades"
@@ -3399,6 +3484,31 @@
       "base_size_y": "60"
     },
     {
+      "name": "Borgit Wolf-Killa",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Uglug",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Rigg and Shamm",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Snagz",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Hobblin’ Dreg",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
       "name": "Kruleboys"
     },
     {
@@ -3518,6 +3628,11 @@
     },
     {
       "name": "Grakk da Hook",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Hobgrot Slittaboss",
       "base_size_x": "32",
       "base_size_y": "32"
     },
@@ -4205,6 +4320,26 @@
       "base_size_y": "32"
     },
     {
+      "name": "Kaerna Vix",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Krieta, Wing of the Crone",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Tazari",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Azphel, the Hag’s Eye",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
       "name": "KhainiteShadowstalkers"
     },
     {
@@ -4465,6 +4600,16 @@
     },
     {
       "name": "Tammael",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ikon of the Sea",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ikon of the Storm",
       "base_size_x": "32",
       "base_size_y": "32"
     },
@@ -4898,6 +5043,21 @@
       "name": "Spawn of Chotec",
       "base_size_x": "52",
       "base_size_y": "90"
+    },
+    {
+      "name": "Kro-Jax, the Aegis",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "So-Kar",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ro-Tak, the Guardian",
+      "base_size_x": "32",
+      "base_size_y": "32"
     },
     {
       "name": "LuminethRealmLords"
@@ -5347,6 +5507,21 @@
       "name": "Vanguard-Raptor with Longstrike Crossbow",
       "base_size_x": "35",
       "base_size_y": "60"
+    },
+    {
+      "name": "Ardorn Flamerunner",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Farasa Twice-risen",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Yurik Velzaine",
+      "base_size_x": "40",
+      "base_size_y": "40"
     },
     {
       "name": "SCE_Sacrosanct"
@@ -6117,6 +6292,21 @@
       "name": "Armand Callis",
       "base_size_x": "28.5",
       "base_size_y": "28.5"
+    },
+    {
+      "name": "Galen ven Denst",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Doralia ven Denst",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Jelsen Darrock",
+      "base_size_x": "32",
+      "base_size_y": "32"
     },
     {
       "name": "CoS Castelite Hosts"
