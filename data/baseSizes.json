@@ -3509,6 +3509,16 @@
       "base_size_y": "25"
     },
     {
+      "name": "Snarlpack Cavalry",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Snarlpack Boss",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
       "name": "Kruleboys"
     },
     {
