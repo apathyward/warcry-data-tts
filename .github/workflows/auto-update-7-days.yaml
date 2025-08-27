@@ -47,7 +47,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          BRANCH_NAME=$(date +'%Y-%m-%d')-convert-for-tts
+          BRANCH_NAME=$(date +'%Y-%m-%d')-json-to-lua
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BRANCH_NAME"
