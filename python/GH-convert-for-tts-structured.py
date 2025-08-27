@@ -89,9 +89,10 @@ def add_backslashes_to_inches(description: str) -> str:
 def add_backslashes_to_abilities(abilities: List[Dict]) -> List[Dict]:
     for ability in abilities:
         if 'description' in ability:
-            ability['description'] = add_backslashes_to_inches(ability['description'])
-        # Remove specific inner double quotes
+            # First remove specific quotes
             ability['description'] = remove_specific_inner_double_quotes(ability['description'])
+            # Then escape all remaining inches/quotes
+            ability['description'] = add_backslashes_to_inches(ability['description'])
     return abilities
 
 def remove_newlines(lua_string):
@@ -99,8 +100,8 @@ def remove_newlines(lua_string):
     return lua_string.replace("\n", "")
 
 def remove_specific_inner_double_quotes(description: str) -> str:
-    # Targeted removal of double quotes around specific words like "Wall Run"
-    return re.sub(r'"(Wall Run)"', r'\1', description)
+    # Remove double quotes only around Wall Run (exact match)
+    return re.sub(r'"Wall Run"', 'Wall Run', description)
 
 def download_file(url: str) -> dict:
     response = requests.get(url)
