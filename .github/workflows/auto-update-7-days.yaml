@@ -76,7 +76,7 @@ jobs:
         run: echo "Workflow failed! Check logs for details."
 
       - name: Upload Logs
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: script-log
           path: script_output.log
