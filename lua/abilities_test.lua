@@ -8273,7 +8273,7 @@ return {
    name="Vrrrrrmmmmmm!",
    warband="Zikkit's Tunnelpack",
    cost="triple",
-   description="If this fighter is within 3\" of the battlefield edge, remove this fighter from the battlefield, then roll a dice. Then, set them up on the battlefield floor, within 3\" of the battlefield edge and more than X" from all enemy fighters, where X is equal to the roll.",
+   description="If this fighter is within 3\" of the battlefield edge, remove this fighter from the battlefield, then roll a dice. Then, set them up on the battlefield floor, within 3\" of the battlefield edge and more than X\" from all enemy fighters, where X is equal to the roll.",
    runemarks={
       "champion"
    }
