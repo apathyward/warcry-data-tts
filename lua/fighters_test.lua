@@ -16186,7 +16186,7 @@ return {
    },
    {
       _id="f72cfa5c",
-      name="Ro-Tak , the Guardian",
+      name="Ro-Tak, the Guardian",
       warband="Seraphon",
       subfaction="Jaws of Itzl",
       grand_alliance="order",
