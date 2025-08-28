@@ -24759,7 +24759,7 @@ return {
          }
       },
       runemarks={
-
+         "champion"
       },
       points="225",
       abilities={
@@ -24771,6 +24771,9 @@ return {
          },
          {
             _id="92a460e6"
+         },
+         {
+            _id="68bca74d"
          }
       },
       base_size_x="32",
@@ -51500,7 +51503,7 @@ return {
       },
       runemarks={
          "hero",
-         "scount",
+         "scout",
          "fly"
       },
       points="140",
@@ -51519,6 +51522,9 @@ return {
          },
          {
             _id="5e218340"
+         },
+         {
+            _id="5e2a958a"
          }
       },
       base_size_x="40",
@@ -56380,7 +56386,7 @@ return {
       grand_alliance="death",
       movement="5",
       toughness="4",
-      wounds="28",
+      wounds="20",
       weapons={
          {
             attacks="5",
