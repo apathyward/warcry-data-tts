@@ -49477,7 +49477,7 @@ return {
       runemarks={
          "beast"
       },
-      points="180",
+      points="160",
       abilities={
          {
             _id="48f97b6e"
