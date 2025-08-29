@@ -78,7 +78,7 @@
     let globalData = {};
 
     async function loadData() {
-      const url = "https://raw.githubusercontent.com/apathyward/warcry-data-tts/refs/heads/main/data/baseSizes.json";
+      const url = "data/baseSizes.json";
       const res = await fetch(url);
       globalData = await res.json();
 
