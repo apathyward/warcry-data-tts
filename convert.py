@@ -11,4 +11,11 @@ for filename in os.listdir(SVG_DIR):
         svg_path = os.path.join(SVG_DIR, filename)
         png_path = os.path.join(PNG_DIR, filename.replace(".svg", ".png"))
         print(f"Converting {svg_path} -> {png_path}")
-        cairosvg.svg2png(url=svg_path, write_to=png_path)
+        
+        # Convert with fixed size (100x100) and preserve transparency
+        cairosvg.svg2png(
+            url=svg_path,
+            write_to=png_path,
+            output_width=100,
+            output_height=100
+        )
