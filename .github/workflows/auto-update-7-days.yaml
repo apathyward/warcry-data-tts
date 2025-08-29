@@ -37,17 +37,19 @@ jobs:
           python python/"GH-convert-for-tts-structured.py" > script_output.log 2>&1
 
       - name: Check Output Changes
+        id: changes
         run: |
-          if ! git diff --quiet --exit-code; then
-            echo "Changes detected."
+          if git diff --quiet --exit-code; then
+            echo "changed=false" >> $GITHUB_OUTPUT
           else
-            echo "No changes detected; exiting."
-            exit 0
+            echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Commit and Push Changes
+        if: steps.changes.outputs.changed == 'true'
         run: |
           BRANCH_NAME=$(date +'%Y-%m-%d-%H%M%S')-json-to-lua
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BRANCH_NAME"
@@ -56,12 +58,14 @@ jobs:
           git push origin "$BRANCH_NAME"
 
       - name: Install GitHub CLI
+        if: steps.changes.outputs.changed == 'true'
         run: |
           curl -sSL https://github.com/cli/cli/releases/download/v2.22.0/gh_2.22.0_linux_amd64.deb -o gh-cli.deb
           sudo dpkg -i gh-cli.deb
           sudo apt-get install -f
 
       - name: Create Pull Request
+        if: steps.changes.outputs.changed == 'true'
         run: |
           gh pr create --base main --head "$BRANCH_NAME" --title "Automated Changes on $(date +'%Y-%m-%d')" --body "This PR was created by the GitHub Actions workflow to merge the latest changes."
         env:
