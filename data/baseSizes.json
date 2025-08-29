@@ -5865,6 +5865,16 @@
       "base_size_y": "40"
     },
     {
+      "name": "Stormstrike Pallador",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
+      "name": "Stormstrike Pallador-Prime",
+      "base_size_x": "52",
+      "base_size_y": "90"
+    },
+    {
       "name": "Sylvaneth"
     },
     {
