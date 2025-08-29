@@ -55334,9 +55334,7 @@ return {
          {
             _id="86a7f856"
          }
-      },
-      base_size_x="80",
-      base_size_y="80"
+      }
    },
    {
       _id="fd34051b",
@@ -56590,7 +56588,9 @@ return {
          {
             _id="86a7f856"
          }
-      }
+      },
+      base_size_x="80",
+      base_size_y="80"
    },
    {
       _id="58c57168",
