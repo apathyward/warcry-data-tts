@@ -2375,6 +2375,11 @@
       "base_size_y": "50"
     },
     {
+      "name": "Wight King on Skeletal Steed",
+      "base_size_x": "80",
+      "base_size_y": "80"
+    },
+    {
       "name": "Wight Lord on Skeletal Steed",
       "base_size_x": "80",
       "base_size_y": "80"
