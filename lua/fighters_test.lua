@@ -3310,6 +3310,86 @@ return {
       base_size_y="40"
    },
    {
+      _id="3f5c817c",
+      subfaction="",
+      grand_alliance="order",
+      movement="8",
+      name="Stormstrike Pallador-Prime",
+      points="245",
+      runemarks={
+         "hero",
+         "mount"
+      },
+      toughness="6",
+      warband="Stormcast Eternals Thunderstrike Stormcast",
+      weapons={
+         {
+            attacks="4",
+            dmg_crit="4",
+            dmg_hit="2",
+            max_range="1",
+            min_range="0",
+            runemark="sword",
+            strength="4"
+         }
+      },
+      wounds="30",
+      abilities={
+         {
+            _id="e3826ee2"
+         },
+         {
+            _id="326f5fd1"
+         },
+         {
+            _id="2857d558"
+         },
+         {
+            _id="70d1ebba"
+         }
+      },
+      base_size_x="52",
+      base_size_y="90"
+   },
+   {
+      _id="7a3dcfca",
+      subfaction="",
+      grand_alliance="order",
+      movement="8",
+      name="Stormstrike Pallador",
+      points="195",
+      runemarks={
+         "mount"
+      },
+      toughness="6",
+      warband="Stormcast Eternals Thunderstrike Stormcast",
+      weapons={
+         {
+            attacks="3",
+            dmg_crit="4",
+            dmg_hit="2",
+            max_range="1",
+            min_range="0",
+            runemark="sword",
+            strength="4"
+         }
+      },
+      wounds="28",
+      abilities={
+         {
+            _id="e3826ee2"
+         },
+         {
+            _id="2857d558"
+         },
+         {
+            _id="70d1ebba"
+         }
+      },
+      base_size_x="52",
+      base_size_y="90"
+   },
+   {
       _id="f4bd295d",
       name="Chameleon Skink with Dartpipe",
       warband="Hunters of Huanchi",
