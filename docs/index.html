@@ -121,84 +121,84 @@
     }
 
     function renderData() {
-        const container = document.getElementById("content");
-        container.innerHTML = "";
+    const container = document.getElementById("content");
+    container.innerHTML = "";
 
-        const searchValue = document.getElementById("search").value.toLowerCase();
-        const allianceFilter = document.getElementById("allianceFilter").value;
-        const factionFilter = document.getElementById("factionFilter").value;
+    const searchValue = document.getElementById("search").value.toLowerCase();
+    const allianceFilter = document.getElementById("allianceFilter").value;
+    const factionFilter = document.getElementById("factionFilter").value;
 
-        // Loop over alliances
-        for (const alliance in globalData) {
-            if (allianceFilter && alliance !== allianceFilter) continue;
+    // Loop over alliances
+    for (const alliance in globalData) {
+        if (allianceFilter && alliance !== allianceFilter) continue;
 
-            const allianceSection = document.createElement("div");
-            const allianceHeader = document.createElement("h2");
-            allianceHeader.textContent = alliance;
+        const allianceSection = document.createElement("div");
+        const allianceHeader = document.createElement("h2");
+        allianceHeader.textContent = alliance;
 
-            let allianceHasResults = false; // track if anything matches in this alliance
+        let allianceHasResults = false; // track if anything matches in this alliance
 
-            let currentFaction = "";
-            let table;
-            let factionHasResults = false;
+        let currentFaction = "";
+        let table;
+        let factionHasResults = false;
 
-            globalData[alliance].forEach(entry => {
-            if (Object.keys(entry).length === 1 && entry.name) {
-                // New faction starts
-                currentFaction = entry.name;
-                factionHasResults = false;
+        globalData[alliance].forEach(entry => {
+        if (Object.keys(entry).length === 1 && entry.name) {
+            // New faction starts
+            currentFaction = entry.name;
+            factionHasResults = false;
 
-                // Skip this faction entirely if filtered out
-                if (factionFilter && currentFaction !== factionFilter) {
-                table = null;
-                return;
-                }
-
-                // Create faction header + table but only append if a match is found
-                table = document.createElement("table");
-                const headerRow = document.createElement("tr");
-                headerRow.innerHTML = "<th>Fighter</th><th>Base X</th><th>Base Y</th>";
-                table.appendChild(headerRow);
-
-                // Temporarily store so we can append later if needed
-                table.dataset.factionName = currentFaction;
-            } else {
-                if (table) {
-                const matchesSearch = entry.name && entry.name.toLowerCase().includes(searchValue);
-                if (matchesSearch) {
-                    const row = document.createElement("tr");
-                    row.innerHTML = `
-                    <td>${entry.name}</td>
-                    <td>${entry.base_size_x || ""}</td>
-                    <td>${entry.base_size_y || ""}</td>
-                    `;
-                    table.appendChild(row);
-                    factionHasResults = true;
-                    allianceHasResults = true;
-                }
-                }
+            // Skip this faction entirely if filtered out
+            if (factionFilter && currentFaction !== factionFilter) {
+            table = null;
+            return;
             }
 
-            // After finishing faction rows, append only if there were matches
-            if (table && factionHasResults && !table.isAppended) {
-                const factionHeader = document.createElement("h3");
-                factionHeader.textContent = table.dataset.factionName;
-                allianceSection.appendChild(factionHeader);
-                allianceSection.appendChild(table);
-                table.isAppended = true;
-            }
-            });
+            // Create faction header + table but only append if a match is found
+            table = document.createElement("table");
+            const headerRow = document.createElement("tr");
+            headerRow.innerHTML = "<th>Fighter</th><th>Base X</th><th>Base Y</th>";
+            table.appendChild(headerRow);
 
-            if (allianceHasResults) {
-            allianceSection.insertBefore(allianceHeader, allianceSection.firstChild);
-            container.appendChild(allianceSection);
+            // Temporarily store so we can append later if needed
+            table.dataset.factionName = currentFaction;
+        } else {
+            if (table) {
+            const matchesSearch = entry.name && entry.name.toLowerCase().includes(searchValue);
+            if (matchesSearch) {
+                const row = document.createElement("tr");
+                row.innerHTML = `
+                <td>${entry.name}</td>
+                <td>${entry.base_size_x || ""}</td>
+                <td>${entry.base_size_y || ""}</td>
+                `;
+                table.appendChild(row);
+                factionHasResults = true;
+                allianceHasResults = true;
+            }
             }
         }
 
-        // If nothing matched at all
-        if (!container.hasChildNodes()) {
-            container.innerHTML = "<p>No results found.</p>";
+        // After finishing faction rows, append only if there were matches
+        if (table && factionHasResults && !table.isAppended) {
+            const factionHeader = document.createElement("h3");
+            factionHeader.textContent = table.dataset.factionName;
+            allianceSection.appendChild(factionHeader);
+            allianceSection.appendChild(table);
+            table.isAppended = true;
         }
+        });
+
+        if (allianceHasResults) {
+        allianceSection.insertBefore(allianceHeader, allianceSection.firstChild);
+        container.appendChild(allianceSection);
+        }
+    }
+
+    // If nothing matched at all
+    if (!container.hasChildNodes()) {
+        container.innerHTML = "<p>No results found.</p>";
+    }
     }
 
     loadData();
