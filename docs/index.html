@@ -78,7 +78,7 @@
     let globalData = {};
 
     async function loadData() {
-      const url = "data/baseSizes.json";
+      const url = "https://raw.githubusercontent.com/apathyward/warcry-data-tts/main/data/baseSizes.json";
       const res = await fetch(url);
       globalData = await res.json();
 
@@ -120,66 +120,86 @@
       factionSelect.addEventListener("change", renderData);
     }
 
-    function renderData() {
-      const container = document.getElementById("content");
-      container.innerHTML = "";
+function renderData() {
+  const container = document.getElementById("content");
+  container.innerHTML = "";
 
-      const searchValue = document.getElementById("search").value.toLowerCase();
-      const allianceFilter = document.getElementById("allianceFilter").value;
-      const factionFilter = document.getElementById("factionFilter").value;
+  const searchValue = document.getElementById("search").value.toLowerCase();
+  const allianceFilter = document.getElementById("allianceFilter").value;
+  const factionFilter = document.getElementById("factionFilter").value;
 
-      // Loop over alliances
-      for (const alliance in globalData) {
-        if (allianceFilter && alliance !== allianceFilter) continue;
+  // Loop over alliances
+  for (const alliance in globalData) {
+    if (allianceFilter && alliance !== allianceFilter) continue;
 
-        const allianceSection = document.createElement("div");
+    const allianceSection = document.createElement("div");
 
-        // Alliance header
-        const allianceHeader = document.createElement("h2");
-        allianceHeader.textContent = alliance;
-        allianceSection.appendChild(allianceHeader);
+    // Alliance header
+    const allianceHeader = document.createElement("h2");
+    allianceHeader.textContent = alliance;
+    allianceSection.appendChild(allianceHeader);
 
-        let currentFaction = "";
-        let table;
+    let allianceHasResults = false;
+    let currentFaction = "";
+    let table;
+    let factionHeader;
 
-        globalData[alliance].forEach(entry => {
-          // Faction header
-          if (Object.keys(entry).length === 1 && entry.name) {
-            currentFaction = entry.name;
-            if (factionFilter && currentFaction !== factionFilter) {
-              table = null; // skip faction
-              return;
-            }
+    globalData[alliance].forEach(entry => {
+      if (Object.keys(entry).length === 1 && entry.name) {
+        // New faction
+        currentFaction = entry.name;
+        if (factionFilter && currentFaction !== factionFilter) {
+          table = null;
+          factionHeader = null;
+          return;
+        }
 
-            const factionHeader = document.createElement("h3");
-            factionHeader.textContent = currentFaction;
-            allianceSection.appendChild(factionHeader);
+        factionHeader = document.createElement("h3");
+        factionHeader.textContent = currentFaction;
+        allianceSection.appendChild(factionHeader);
 
-            table = document.createElement("table");
-            const headerRow = document.createElement("tr");
-            headerRow.innerHTML = "<th>Fighter</th><th>Base X</th><th>Base Y</th>";
-            table.appendChild(headerRow);
-            allianceSection.appendChild(table);
+        table = document.createElement("table");
+        const headerRow = document.createElement("tr");
+        headerRow.innerHTML = "<th>Fighter</th><th>Base X</th><th>Base Y</th>";
+        table.appendChild(headerRow);
+        allianceSection.appendChild(table);
 
-          } else {
-            // Fighter row
-            if (table) {
-              if (entry.name && entry.name.toLowerCase().includes(searchValue)) {
-                const row = document.createElement("tr");
-                row.innerHTML = `
-                  <td>${entry.name}</td>
-                  <td>${entry.base_size_x || ""}</td>
-                  <td>${entry.base_size_y || ""}</td>
-                `;
-                table.appendChild(row);
-              }
-            }
+      } else {
+        if (table) {
+          const matchesSearch = entry.name && entry.name.toLowerCase().includes(searchValue);
+          if (matchesSearch) {
+            const row = document.createElement("tr");
+            row.innerHTML = `
+              <td>${entry.name}</td>
+              <td>${entry.base_size_x || ""}</td>
+              <td>${entry.base_size_y || ""}</td>
+            `;
+            table.appendChild(row);
+            allianceHasResults = true;
           }
-        });
-
-        container.appendChild(allianceSection);
+        }
       }
+    });
+
+    // Hide faction headers/tables with only the header row
+    allianceSection.querySelectorAll("table").forEach(tbl => {
+      if (tbl.rows.length <= 1) {
+        tbl.previousElementSibling.style.display = "none"; // hide faction <h3>
+        tbl.style.display = "none"; // hide empty table
+      }
+    });
+
+    if (allianceHasResults) {
+      container.appendChild(allianceSection);
     }
+  }
+
+  // If no matches at all
+  if (!container.hasChildNodes()) {
+    container.innerHTML = "<p>No results found.</p>";
+  }
+}
+
 
     loadData();
   </script>
