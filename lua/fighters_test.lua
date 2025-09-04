@@ -5084,7 +5084,7 @@ return {
    },
    {
       _id="0a2d1530",
-      name="Sequitor with Storsmite Maul and Soulshield",
+      name="Sequitor with Stormsmite Maul and Soulshield",
       warband="Stormcast Eternals Sacrosanct Chamber",
       subfaction="",
       grand_alliance="order",
@@ -5116,9 +5116,7 @@ return {
          {
             _id="872ecca8"
          }
-      },
-      base_size_x="40",
-      base_size_y="40"
+      }
    },
    {
       _id="ad900d23",
