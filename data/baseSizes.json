@@ -367,6 +367,31 @@
       "base_size_y": "32"
     },
     {
+      "name": "Kamandora",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Throkk",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ghalista",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Antro Krast",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Kannat",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
       "name": "Daemons of Khorne"
     },
     {
@@ -2122,6 +2147,99 @@
     },
     {
       "name": "Shatterer",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Helsmiths of Hashut"
+    },
+    {
+      "name": "War Despot",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Ashen Elder",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Daemonsmith",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Dominator Engine with Immolation Cannon",
+      "base_size_x": "80",
+      "base_size_y": "80"
+    },
+    {
+      "name": "Dominator Engine with Bane Maces",
+      "base_size_x": "80",
+      "base_size_y": "80"
+    },
+    {
+      "name": "Anointed Sentinel",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Bull Centaur",
+      "base_size_x": "42",
+      "base_size_y": "75"
+    },
+    {
+      "name": "Infernal Razer with Blunderbuss",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Infernal Razer with Flamehurler",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Infernal Cohort with Hashutite Spear",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Infernal Cohort Musician",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Infernal Cohort with Hashutite Blade",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Hobgrot Vandal",
+      "base_size_x": "25",
+      "base_size_y": "25"
+    },
+    {
+      "name": "Zuldrakka",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Tokkor",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Imnidrin",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Morudok",
+      "base_size_x": "28.5",
+      "base_size_y": "28.5"
+    },
+    {
+      "name": "Grisk",
       "base_size_x": "25",
       "base_size_y": "25"
     },
@@ -4802,6 +4920,21 @@
       "base_size_y": "32"
     },
     {
+      "name": "Null-Khemist",
+      "base_size_x": "40",
+      "base_size_y": "40"
+    },
+    {
+      "name": "Vongrim Harpoon Crew",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
+      "name": "Vongrim Salvager",
+      "base_size_x": "32",
+      "base_size_y": "32"
+    },
+    {
       "name": "Seraphon"
     },
     {
@@ -4925,7 +5058,7 @@
       "base_size_y": "25"
     },
     {
-      "name": "Saurus Guard  ",
+      "name": "Saurus Guard",
       "base_size_x": "32",
       "base_size_y": "32"
     },
@@ -6036,6 +6169,21 @@
       "name": "Revenant Soulwarden",
       "base_size_x": "65",
       "base_size_y": "65"
+    },
+    {
+      "name": "Ylarin, Master of the Paths",
+      "base_size_x": "27",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Cullon, Axe of Kurnoth",
+      "base_size_x": "27",
+      "base_size_y": "50"
+    },
+    {
+      "name": "Lenwythe, Eye of the Forest",
+      "base_size_x": "27",
+      "base_size_y": "50"
     },
     {
       "name": "HuntersofHuanchi"
