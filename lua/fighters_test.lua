@@ -12308,7 +12308,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="5ee9a5e0",
@@ -12348,7 +12350,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="573590bd",
@@ -12398,7 +12402,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="5ce80e21",
@@ -12438,7 +12444,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="fbdefebf",
@@ -12488,7 +12496,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="011c2971",
@@ -12529,7 +12539,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="42",
+      base_size_y="75"
    },
    {
       _id="046dcdeb",
@@ -12578,7 +12590,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="43c1ca00",
@@ -12619,7 +12633,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="42",
+      base_size_y="75"
    },
    {
       _id="391e3600",
@@ -12668,7 +12684,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="8025a155",
@@ -12708,7 +12726,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="80",
+      base_size_y="80"
    },
    {
       _id="90b11c12",
@@ -12736,7 +12756,9 @@ return {
       points="65",
       abilities={
 
-      }
+      },
+      base_size_x="25",
+      base_size_y="25"
    },
    {
       _id="a2990818",
@@ -12785,7 +12807,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="80",
+      base_size_y="80"
    },
    {
       _id="52d1f33b",
@@ -12825,7 +12849,9 @@ return {
          {
             _id="e33bb417"
          }
-      }
+      },
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="54b7d03c",
@@ -12865,7 +12891,9 @@ return {
          {
             _id="3822503a"
          }
-      }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="a903f7d8",
@@ -12905,7 +12933,9 @@ return {
          {
             _id="0de4bdf3"
          }
-      }
+      },
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="8d0fa235",
@@ -12945,7 +12975,9 @@ return {
          {
             _id="710ae74b"
          }
-      }
+      },
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="f7b41e09",
@@ -12994,7 +13026,9 @@ return {
          {
             _id="017c56ec"
          }
-      }
+      },
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="6ac3d57e",
@@ -13024,7 +13058,9 @@ return {
          {
             _id="a55ebfe2"
          }
-      }
+      },
+      base_size_x="25",
+      base_size_y="25"
    },
    {
       _id="1655db3c",
@@ -17441,7 +17477,9 @@ return {
          {
             _id="ba5487b3"
          }
-      }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="f34cc7da",
@@ -17477,7 +17515,9 @@ return {
          {
             _id="ba5487b3"
          }
-      }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="e77ca73d",
@@ -17513,7 +17553,9 @@ return {
          {
             _id="ba5487b3"
          }
-      }
+      },
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="68e1ae42",
@@ -17549,7 +17591,9 @@ return {
          {
             _id="ba5487b3"
          }
-      }
+      },
+      base_size_x="28.5",
+      base_size_y="28.5"
    },
    {
       _id="8e677135",
@@ -17585,7 +17629,9 @@ return {
          {
             _id="ba5487b3"
          }
-      }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="1e1133a3",
@@ -38766,7 +38812,9 @@ return {
          {
             _id="e138c8de"
          }
-      }
+      },
+      base_size_x="40",
+      base_size_y="40"
    },
    {
       _id="f1c7be0e",
@@ -38815,7 +38863,9 @@ return {
          {
             _id="f4be9af4"
          }
-      }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="634ea06d",
@@ -38864,7 +38914,9 @@ return {
          {
             _id="5e082dc1"
          }
-      }
+      },
+      base_size_x="32",
+      base_size_y="32"
    },
    {
       _id="df9fe661",
@@ -41605,7 +41657,9 @@ return {
          {
             _id="909ee7a4"
          }
-      }
+      },
+      base_size_x="27",
+      base_size_y="50"
    },
    {
       _id="59c328c9",
@@ -41642,7 +41696,9 @@ return {
          {
             _id="79d3f3ff"
          }
-      }
+      },
+      base_size_x="27",
+      base_size_y="50"
    },
    {
       _id="19ff6414",
@@ -41691,7 +41747,9 @@ return {
          {
             _id="bedcec7d"
          }
-      }
+      },
+      base_size_x="27",
+      base_size_y="50"
    },
    {
       _id="f4bd295d",
