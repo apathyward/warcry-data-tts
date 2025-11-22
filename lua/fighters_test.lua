@@ -35838,7 +35838,7 @@ return {
       runemarks={
          "bulwark"
       },
-      points="65",
+      points="75",
       abilities={
          {
             _id="4aaba4d0"
@@ -35879,7 +35879,7 @@ return {
       runemarks={
          "champion"
       },
-      points="70",
+      points="80",
       abilities={
          {
             _id="4aaba4d0"
@@ -35920,7 +35920,7 @@ return {
       runemarks={
          "destroyer"
       },
-      points="75",
+      points="85",
       abilities={
          {
             _id="4aaba4d0"
@@ -35961,7 +35961,7 @@ return {
       runemarks={
          "champion"
       },
-      points="75",
+      points="85",
       abilities={
          {
             _id="4aaba4d0"
@@ -36011,7 +36011,7 @@ return {
       runemarks={
          "elite"
       },
-      points="75",
+      points="85",
       abilities={
          {
             _id="4aaba4d0"
@@ -38828,22 +38828,22 @@ return {
       wounds="14",
       weapons={
          {
-            attacks="1",
+            attacks="3",
             dmg_crit="3",
             dmg_hit="2",
-            max_range="3",
-            min_range="2",
+            max_range="1",
+            min_range="0",
             runemark="sword",
             strength="3"
          },
          {
-            attacks="8",
+            attacks="2",
             dmg_crit="3",
             dmg_hit="1",
-            max_range="3",
-            min_range="1",
+            max_range="8",
+            min_range="0",
             runemark="ranged",
-            strength="2"
+            strength="3"
          }
       },
       runemarks={
